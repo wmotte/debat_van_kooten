@@ -1,0 +1,68 @@
+{
+  "thesis": "Datering Johannesevangelie: vroeg (Grieks/Van Kooten) vs laat (Joods)",
+  "scale": "-10 = sterk Grieks (vroeg) .. 0 = midden .. +10 = sterk Joods (laat)",
+  "params": {
+    "max_rondes": 8,
+    "conv_drempel": 1,
+    "conv_geduld": 2
+  },
+  "round": 6,
+  "history": [
+    {
+      "round": 1,
+      "score": 2,
+      "delta": null,
+      "rationale": "Pijler 1 (estin) grammaticaal betwist en door Grieks zelf niet-beslissend genoemd; Joods plaatst er drie zachtere, inferentiele post-70-indicatoren naast, wat de balans licht naar Joods doet overhellen binnen de middenzone.",
+      "new_evidence_grieks": 2,
+      "new_evidence_joods": 5,
+      "concession": "Grieks: estin alleen bewijst geen pre-70 (von Wahlde/Michaels, baden overleefden 70). Joods: klassiek Jamnia/Birkat ha-Minim-argument losgelaten, en joods milieu sluit vroege datering niet uit."
+    },
+    {
+      "round": 2,
+      "score": 0,
+      "delta": -2,
+      "rationale": "Joods opent externe patristische attestatie (Irenaeus: laatst geschreven, tot Trajanus) en 1 Joh 2:19; Grieks weerlegt het anker met primair-geverifieerd bewijs (dezelfde passage 2.22.5 bevat de onhistorische 'Jezus bijna vijftig'-claim) plus death-vs-composition en Bauckhams circulariteit, en zet pijler 3 (Lukaanse posterioriteit) in. Balans terug naar het midden.",
+      "new_evidence_grieks": 3,
+      "new_evidence_joods": 2,
+      "concession": "Joods: externe traditie is tweesnijdend (veronderstelt apostolisch auteurschap, gaat niet later dan ~117) en gemeenschapsreconstructies zijn hypothetisch/divergent. Grieks: de 'laatst geschreven'-volgorde-traditie is een reeel gegeven dat tegen Van Kootens 'Johannes eerst' indruist, en de richting Lucas-Johannes blijft betwist."
+    },
+    {
+      "round": 3,
+      "score": 1,
+      "delta": 1,
+      "rationale": "Grieks zet pijler 2 in (archeologisch bevestigde pre-70-topografie Bethesda/Siloam), het zwaarste evidentietype, maar zijn eigen kroongetuige von Wahlde (geverifieerd: eerste editie ca. 55-65, eindeditie ca. 90-95) dateert daarmee de bron en niet de eindvorm; Grieks concedeert die gradualiteit zelf. Joods opent een steviger, tekstueel verankerd late-front met het aposynagogos-neologisme plus hoge-christologie-conflict. Beide brachten valide nieuwe evidentie; archeologie en neologisme-lijn heffen elkaar grotendeels op, met een minimale verschuiving terug naar Joods binnen de middenzone.",
+      "new_evidence_grieks": 3,
+      "new_evidence_joods": 3,
+      "concession": "Grieks: accurate topografie bewijst geen apostolisch auteurschap of exacte datum en sluit een latere eindredactie van vroeg materiaal niet uit; Lithostroton/Gabbatha (19:13) blijft omstreden en wordt niet als bewijs gedragen. Joods: historiciteit van de synagoge-uitsluiting is betwist (Bernier: uitsluiting al in Jezus' tijd denkbaar) en een neologisme legt op zichzelf geen datum vast."
+    },
+    {
+      "round": 4,
+      "score": -1,
+      "delta": -2,
+      "rationale": "Debat verschuift naar eindvormniveau. Grieks neutraliseert twee dragende theologische late-pijlers: hoge christologie staat al in de vroegste laag (1 Kor 8:6, Fil 2, Kol 1, Wijsheid, Philo) en gerealiseerde eschatologie is een vroeg Palestijns-joods kenmerk (Qumran 1QS 11:7, Paulus Rom 8:24). Joods' eschatologie-marker wordt daardoor grotendeels geneutraliseerd (en zelf 'gradueel, niet dwingend' genoemd); zijn Markaanse-presuppositie levert slechts relatieve volgorde (Marcus 60-70) en toont geen geschreven afhankelijkheid. De aangevoerde webbron (Sproston North, JSNT 2003) ondermijnt Bauckham juist i.p.v. hem te bevestigen (misattributie, niet meegewogen). Resterende late-indicatoren (aposynagogos, 'laatst geschreven') houden de balans binnen de middenzone; nipte verschuiving naar Grieks.",
+      "new_evidence_grieks": 2,
+      "new_evidence_joods": 2,
+      "concession": "Joods: Dodds parousie-uitstel-these is betwist, Johannes behoudt futuristische uitspraken (5:28-29), gerealiseerde eschatologie kan in Jezus' eigen verkondiging wortelen (gradueel, niet dwingend); op posterioriteit blijft Gardner-Smith/Dodd-onafhankelijkheid betwist, claim leunt op 'presupponeert' niet op woordelijk kopieren. Grieks: het christologie-argument is neutraliserend, niet bewijzend voor pre-66; als geschreven-Marcus-afhankelijkheid wel vaststond dateren Keener/Blomberg de eindvorm op 85+ en von Wahlde leest de zalvingsverwarring als late redactor, dus de richting blijft betwist."
+    },
+    {
+      "round": 5,
+      "score": 0,
+      "delta": 1,
+      "rationale": "Grieks brengt geverifieerde pre-70-staatsrechtelijke precisie (ius gladii Joh 18:31, Sherwin-White + Jeruzalemse Talmoed 'veertig jaar voor de verwoesting'; Kajafas 'in dat jaar' tegen Bultmann), het zwaarste evidentietype, maar concedeert zelf dat het de stof dateert en niet de eindvorm; pijler 4 (Johanneische bliksemschicht, von Hase, geverifieerd) herhaalt grotendeels het al geboekte christologie-argument van ronde 4 en de nieuwe Q-richting rust op minderheidspositie Anderson. Joods pareert correct (zelfde type als pijler 2, past in von Wahlde) en opent een nieuw eindvormgericht front: het cumulatieve vertaal-/glossenapparaat (Rabbi, Messias, Siloam, 'van de joden') wijst op een diaspora-publiek, maar is zelf-getemperd (Van Unnik/Robinson lazen het als vroeg; genitief heeft onschuldige uitleg). De twee nieuwe lijnen bevestigen samen het gedeelde vroege-kern-in-late-eindvorm-model i.p.v. een pool sterk vooruit te helpen; de nipte Griekse neiging neutraliseert naar het dode midden.",
+      "new_evidence_grieks": 2,
+      "new_evidence_joods": 1,
+      "concession": "Grieks: accurate pre-70-rechtskennis (18:31) toont ooggetuige/zeer vroege Judese traditie aan, niet dwingend de eindredactiedatum (zoals pijler 2); op de bliksemschicht concedeert hij dat de meerderheid de logion in Q plaatst en dat het hoogstens hoge christologie als vroeg aantoont (neutraliserend, niet daterend), de Q-richting onbewezen. Joods: geografische afstand is geen temporele afstand (Van Unnik en Robinson lazen het diaspora-karakter juist als steun voor een vroege datum), en de genitief 'van de joden' heeft een onschuldige verklaring (von Wahlde, Carson); de glossen tonen 'ver van Palestina', niet zonder meer 'laat'."
+    },
+    {
+      "round": 6,
+      "score": -1,
+      "delta": -1,
+      "rationale": "Joods opent een nieuwe eindvorm-marker (anti-docetische polemiek 1:14/19:34-35/20:27/Joh 6 toegewezen aan de jongste editiefase; intern 1 Joh 4:2-3/5:6, extern Irenaeus Adv. Haer. 3.11.1 over Cerinthus, primair geverifieerd), maar die is zwaar zelf-getemperd en wordt door Joods' eigen kroongetuigen ondergraven: Brown ('perfectly understandable even without the anti-docetic interpretation'), Morris ('almost by the way'), Bauckham (theologisch fundamenteel, niet noodzakelijk polemisch). Grieks pareert sterk en plaatst het zwaarste tekstuele evidentietype van de ronde: de stilistische eenheid (Schweizer/Ruckstuhl/Dschulnigg, geverifieerd reeel werk 1991; Parker, Carson, Lindars), die von Wahldes drie-editiemodel zijn enige objectieve criterium ontneemt en de 'anti-docetische laag' stilistisch bindt aan de pre-70-accurate passienarratief. De verschuiving blijft bescheiden: stilistische eenheid bewijst een hand, niet een vroege hand (verenigbaar met een laat schrijvende auteur die vroege stof verwerkt; Grieks concedeert dat), en Joods' kaderpunt staat overeind dat de geconvergeerde late eindvorm Van Kootens specifieke pre-66-claim al verslaat. Nipte Griekse neiging, vergelijkbaar met ronde 4.",
+      "new_evidence_grieks": 2,
+      "new_evidence_joods": 1,
+      "concession": "Joods: de anti-docetische lezing is niet unaniem (Kasemann's 'naief docetisme'; Hengel/Hill: de hoge christologie zelf was het wapen), de dateringstoewijzing rust op hypothetische meerlagenmodellen, en de Cerinthus-traditie van Irenaeus is laat en mogelijk constructief (waarde ligt in convergentie met 1 Johannes, niet in eigen gezag); de John-na-1-Johannes-volgorde is betwist (Hengel keert haar om). Grieks: stilistische eenheid toont een auteur/compositorische integriteit aan, geen absolute datum voor 66, en von Wahldes imitatie-bezwaar (schoolgenoot bootst idiolect na) is niet logisch te weerleggen; Hengels omgekeerde volgorde komt zelf rond het begin van de tweede eeuw uit."
+    }
+  ],
+  "converged": false,
+  "stop_reason": "stabiele score (laatste 2 rondes |delta| <= 1)"
+}
