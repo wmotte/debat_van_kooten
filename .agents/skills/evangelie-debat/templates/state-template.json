@@ -1,0 +1,13 @@
+{
+  "thesis": "Datering Johannesevangelie: vroeg (Grieks/Van Kooten) vs laat (Joods)",
+  "scale": "-10 = sterk Grieks (vroeg) .. 0 = midden .. +10 = sterk Joods (laat)",
+  "params": {
+    "max_rondes": 8,
+    "conv_drempel": 1,
+    "conv_geduld": 2
+  },
+  "round": 0,
+  "history": [],
+  "converged": false,
+  "stop_reason": null
+}
