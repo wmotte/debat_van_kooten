@@ -412,6 +412,199 @@ claim die hij staaft, gevolgd door de herkomst:
     geen naïef docetisme, geen late correctie) [4, 16]. Verzen Joh 1:14, 19:34, 20:27, Joh 6.
   - **Opgehaald:** ja · **Type:** literair/historisch
 
+## 📖 Volledige bibliografie (officiële uitgavegegevens)
+
+De claims hierboven verwijzen naar commentatoren zoals de NotebookLM-notebooks die noemen, met de
+interne bronnummers van die notebooks tussen blokhaken. Dit blok geeft de officiële uitgavegegevens
+van het standaard- of meest relevante werk van elke genoemde geleerde, plus de primaire bronnen.
+Alle titels zijn via webonderzoek geverifieerd; waar iets niet hard te bevestigen viel, staat ⚠️.
+De bracketnummers uit de notebooks lieten zich niet tot een exacte editie of pagina herleiden, dus
+per geleerde is het werk gegeven dat aantoonbaar over het aangehaalde onderwerp gaat. Duitstalige
+werken staan met origineel én Engelse vertaling.
+
+### Moderne commentaren en studies
+
+- **Anders, Max** (reeksredacteur) — zie **Gangel, Kenneth O.**
+- **Anderson, Paul N.** — *The Christology of the Fourth Gospel: Its Unity and Disunity in the Light
+  of John 6* (WUNT 2/78). Tübingen: Mohr Siebeck, 1996 (herdruk Eugene, OR: Cascade, 2010);
+  *The Fourth Gospel and the Quest for Jesus: Modern Foundations Reconsidered* (LNTS 321). London:
+  T&T Clark, 2006; *The Riddles of the Fourth Gospel: An Introduction to John*. Minneapolis:
+  Fortress, 2011.
+- **Barker, James W.** — *John's Use of Matthew* (Emerging Scholars). Minneapolis: Fortress, 2015.
+- **Barrett, C.K.** — *The Gospel According to St John: An Introduction with Commentary and Notes on
+  the Greek Text*. London: SPCK, 1955; 2e editie 1978 (VS: Philadelphia: Westminster Press).
+- **Bauckham, Richard** — "John for Readers of Mark", in *The Gospels for All Christians: Rethinking
+  the Gospel Audiences*, red. R. Bauckham. Grand Rapids: Eerdmans, 1998: 147–171; *Jesus and the
+  Eyewitnesses: The Gospels as Eyewitness Testimony*. Grand Rapids: Eerdmans, 2006 (2e editie 2017);
+  *The Testimony of the Beloved Disciple: Narrative, History, and Theology in the Gospel of John*.
+  Grand Rapids: Baker Academic, 2007.
+- **Blomberg, Craig L.** — *The Historical Reliability of John's Gospel: Issues and Commentary*.
+  Downers Grove, IL: InterVarsity Press, 2001.
+- **Boer, Martinus C. de** — *Johannine Perspectives on the Death of Jesus* (CBET 17). Kampen: Kok
+  Pharos, 1996.
+- **Brown, Raymond E.** — *The Gospel According to John* (Anchor Bible 29 / 29A), 2 delen. Garden
+  City, NY: Doubleday, 1966 / 1970; *The Community of the Beloved Disciple*. New York: Paulist Press,
+  1979; *The Epistles of John* (Anchor Bible 30). Garden City, NY: Doubleday, 1982.
+- **Bruce, F.F.** — *The Gospel of John: Introduction, Exposition and Notes*. Grand Rapids: Eerdmans,
+  1983.
+- **Bultmann, Rudolf** — *Das Evangelium des Johannes* (KEK 2). Göttingen: Vandenhoeck & Ruprecht,
+  1941; Engels: *The Gospel of John: A Commentary* (vert. G.R. Beasley-Murray e.a.). Oxford:
+  Blackwell, 1971.
+- **Burge, Gary M.** — *John* (The NIV Application Commentary). Grand Rapids: Zondervan, 2000.
+- **Caird, G.B.** — *Saint Luke* (Pelican Gospel Commentaries). Harmondsworth: Penguin, 1963 (bevat de
+  uitspraak over "two allied streams of oral tradition").
+- **Carson, D.A.** — *The Gospel According to John* (Pillar New Testament Commentary). Leicester:
+  IVP / Grand Rapids: Eerdmans, 1991.
+- **Casey, Maurice** — *Is John's Gospel True?* London: Routledge, 1996.
+- **Collins, John J.** — *Apocalypticism in the Dead Sea Scrolls* (Literature of the Dead Sea
+  Scrolls). London: Routledge, 1997.
+- **Cribbs, F. Lamar** — "St. Luke and the Johannine Tradition", *Journal of Biblical Literature* 90
+  (1971): 422–450; "A Study of the Contacts that Exist between St. Luke and St. John", in *SBL 1973
+  Seminar Papers*, vol. 2. Society of Biblical Literature, 1973: 1–93 (⚠️ paginarange uit één bron).
+- **Culpepper, R. Alan** — *Anatomy of the Fourth Gospel: A Study in Literary Design*. Philadelphia:
+  Fortress, 1983; *John, the Son of Zebedee: The Life of a Legend*. Columbia: University of South
+  Carolina Press, 1994 (herdruk Minneapolis: Fortress, 2000).
+- **Davies, W.D.** — *The Gospel and the Land: Early Christianity and Jewish Territorial Doctrine*.
+  Berkeley: University of California Press, 1974.
+- **Dodd, C.H.** — *The Interpretation of the Fourth Gospel*. Cambridge: Cambridge University Press,
+  1953; *Historical Tradition in the Fourth Gospel*. Cambridge: Cambridge University Press, 1963.
+- **Ellis, E. Earle** — *The Making of the New Testament Documents* (Biblical Interpretation Series
+  39). Leiden: Brill, 1999.
+- **Gangel, Kenneth O.** — *John* (Holman New Testament Commentary 4; Max Anders, general editor).
+  Nashville: Broadman & Holman, 2000.
+- **Gardner-Smith, Percival** — *Saint John and the Synoptic Gospels*. Cambridge: Cambridge
+  University Press, 1938.
+- **Hase, Karl August von** — *Geschichte Jesu. Nach akademischen Vorlesungen*. Leipzig: Breitkopf &
+  Härtel, 1876 (bron van het beeld "wie ein Aerolith aus dem johanneischen Himmel"; ⚠️ exact
+  drukjaar/pagina wisselt per bron).
+- **Hendriksen, William** — *Exposition of the Gospel According to John* (New Testament Commentary),
+  2 delen. Grand Rapids: Baker, 1953–1954.
+- **Hengel, Martin** — *The Johannine Question*. London: SCM / Philadelphia: Trinity Press
+  International, 1989; *Studies in Early Christology*. Edinburgh: T&T Clark, 1995.
+- **Hill, Charles E.** — *The Johannine Corpus in the Early Church*. Oxford: Oxford University Press,
+  2004.
+- **Hill, David** — *The Gospel of Matthew* (New Century Bible). London: Oliphants, 1972.
+- **Juster, Jean** — *Les Juifs dans l'Empire romain: leur condition juridique, économique et
+  sociale*, 2 delen. Paris: Geuthner, 1914.
+- **Käsemann, Ernst** — *Jesu letzter Wille nach Johannes 17*. Tübingen: Mohr Siebeck, 1966; Engels:
+  *The Testament of Jesus: A Study of the Gospel of John in the Light of Chapter 17* (vert. G.
+  Krodel). London: SCM / Philadelphia: Fortress, 1968.
+- **Keener, Craig S.** — *The Gospel of John: A Commentary*, 2 delen. Peabody, MA: Hendrickson, 2003.
+- **Kim, Sehyun** — *The Kingship of Jesus in the Gospel of John*. Eugene, OR: Pickwick, 2018.
+  ⚠️ Niet bevestigd dat juist deze auteur een "jaren 90 / mid-nineties"-datering bepleit; mogelijk
+  verwarring met de paulinist Seyoon Kim. Dateringsclaim aan deze naam onzeker.
+- **Köstenberger, Andreas J.** — *John* (Baker Exegetical Commentary on the New Testament). Grand
+  Rapids: Baker Academic, 2004.
+- **Lee, Dorothy A.** — *Flesh and Glory: Symbolism, Gender and Theology in the Gospel of John*. New
+  York: Crossroad, 2002; en/of *The Symbolic Narratives of the Fourth Gospel* (JSNTSup 95).
+  Sheffield: JSOT Press, 1994. ⚠️ Niet eenduidig welk werk de prolepsis-uitspraak (Joh 11:2) draagt.
+- **Lietzmann, Hans** — "Der Prozess Jesu", *Sitzungsberichte der Preussischen Akademie der
+  Wissenschaften, phil.-hist. Klasse* (Berlin), 1931, Nr. XIV (herdrukt in *Kleine Schriften* II, TU
+  68, 1958). ⚠️ Exacte paginanummers niet bevestigd.
+- **Lindars, Barnabas** — *The Gospel of John* (New Century Bible). London: Oliphants, 1972.
+- **Martyn, J. Louis** — *History and Theology in the Fourth Gospel*. New York: Harper & Row, 1968;
+  3e, herziene en uitgebreide editie (New Testament Library). Louisville: Westminster John Knox,
+  2003.
+- **Matson, Mark A.** — *In Dialogue with Another Gospel? The Influence of the Fourth Gospel on the
+  Passion Narrative of the Gospel of Luke* (SBL Dissertation Series 178). Atlanta: SBL, 2001.
+- **Michaels, J. Ramsey** — *The Gospel of John* (NICNT). Grand Rapids: Eerdmans, 2010 (verving het
+  deel van Morris); eerder *John* (New International Biblical Commentary 4). Peabody, MA:
+  Hendrickson, 1989.
+- **Moloney, Francis J.** — *The Gospel of John* (Sacra Pagina 4). Collegeville, MN: Liturgical
+  Press, 1998.
+- **Morris, Leon** — *The Gospel According to John* (NICNT). Grand Rapids: Eerdmans, 1971 (herziene
+  editie 1995).
+- **Motyer, Stephen** — *Your Father the Devil? A New Approach to John and 'the Jews'* (Paternoster
+  Biblical and Theological Monographs). Carlisle: Paternoster, 1997 (in dit log eerder als "Steven"
+  gespeld; correct is "Stephen").
+- **Neirynck, Frans** — "John and the Synoptics", in *L'Évangile de Jean*, red. M. de Jonge (BETL 44).
+  Leuven: Leuven University Press / Peeters, 1977: 73–106; *Jean et les Synoptiques* (BETL 49), 1979.
+- **Parker, Pierson** — "Two Editions of John", *Journal of Biblical Literature* 75 (1956): 303–314.
+- **Porter, Stanley E.** — *Verbal Aspect in the Greek of the New Testament, with Reference to Tense
+  and Mood* (Studies in Biblical Greek 1). New York: Peter Lang, 1989.
+- **Rainbow, Paul A.** — *Johannine Theology: The Gospel, the Epistles and the Apocalypse*. Downers
+  Grove, IL: IVP Academic, 2014. ⚠️ Een aparte publicatie van Rainbow specifiek over Irenaeus'
+  "false chronology" kon niet worden bevestigd; die claim staat in de notebook, niet in een te
+  verifiëren eigen titel.
+- **Ringgren, Helmer** — *The Faith of Qumran: Theology of the Dead Sea Scrolls* (vert. E.T. Sander).
+  Philadelphia: Fortress, 1963 (Zweeds origineel 1961; herdruk Crossroad, 1995).
+- **Robinson, John A.T.** — *Redating the New Testament*. London: SCM, 1976; *The Priority of John*,
+  red. J.F. Coakley. London: SCM, 1985 (postuum).
+- **Ruckstuhl, Eugen** — *Die literarische Einheit des Johannesevangeliums* (Studia Friburgensia
+  N.F. 3). Freiburg (Schweiz): Paulusverlag, 1951; met **Peter Dschulnigg**, *Stilkritik und
+  Verfasserfrage im Johannesevangelium* (NTOA 17). Freiburg (Schweiz): Universitätsverlag /
+  Göttingen: Vandenhoeck & Ruprecht, 1991.
+- **Schlatter, Adolf** — *Der Evangelist Johannes: Wie er spricht, denkt und glaubt. Ein Kommentar
+  zum vierten Evangelium*. Stuttgart: Calwer, 1930.
+- **Schnackenburg, Rudolf** — *Das Johannesevangelium* (HThKNT IV), 3 delen. Freiburg: Herder,
+  1965–1975; Engels: *The Gospel According to St John*, 3 delen. London: Burns & Oates / New York:
+  Herder, 1968–1982.
+- **Schnelle, Udo** — *Antidoketische Christologie im Johannesevangelium* (FRLANT 144). Göttingen:
+  Vandenhoeck & Ruprecht, 1987; Engels: *Antidocetic Christology in the Gospel of John* (vert. L.M.
+  Maloney). Minneapolis: Fortress, 1992.
+- **Schweizer, Eduard** — *Ego eimi. Die religionsgeschichtliche Herkunft und theologische Bedeutung
+  der johanneischen Bildreden* (FRLANT 56). Göttingen: Vandenhoeck & Ruprecht, 1939 (2e editie 1965).
+- **Shellard, Barbara** — *New Light on Luke: Its Purpose, Sources and Literary Context* (JSNTSup
+  215). Sheffield: Sheffield Academic Press, 2002.
+- **Sherwin-White, A.N.** — *Roman Society and Roman Law in the New Testament* (The Sarum Lectures
+  1960–1961). Oxford: Clarendon Press, 1963.
+- **Wahlde, Urban C. von** — *The Gospel and Letters of John* (Eerdmans Critical Commentary), 3 delen.
+  Grand Rapids: Eerdmans, 2010.
+- **Wallace, Daniel B.** — *Greek Grammar Beyond the Basics: An Exegetical Syntax of the New
+  Testament*. Grand Rapids: Zondervan, 1996.
+- **Westcott, B.F.** — *The Gospel According to St. John* (oorspr. in The Speaker's Commentary).
+  London: John Murray, 1880; Griekse-tekstuitgave, 2 delen, John Murray, 1908 (⚠️ eerste-editiejaar
+  1880 vs. 1882 wisselt per bron).
+- **Zahn, Theodor** — *Das Evangelium des Johannes* (Kommentar zum Neuen Testament 4). Leipzig:
+  Deichert, 1908; *Einleitung in das Neue Testament*, 2 delen. Leipzig: Deichert, 1897–1900 (Engels:
+  *Introduction to the New Testament*, 3 delen. Edinburgh: T&T Clark, 1909).
+
+### Primaire en antieke bronnen
+
+- **Irenaeus van Lyon, *Adversus Haereses*** (geciteerd: 2.22.5; 3.1.1; 3.3.4; 3.11.1). Kritische
+  editie: A. Rousseau & L. Doutreleau, *Contre les hérésies* (Sources Chrétiennes); Boek II = SC
+  293–294 (1982), Boek III = SC 210–211 (1974). Engelse vertaling: *Ante-Nicene Fathers*, vol. 1,
+  red. A. Roberts & J. Donaldson. Edinburgh: T&T Clark, 1885. Online: newadvent.org/fathers,
+  ccel.org.
+- **Clemens van Alexandrië, *Hypotyposeis*** (fragment: Johannes als "geestelijk evangelie"),
+  overgeleverd via Eusebius, *Historia Ecclesiastica* 6.14.7. Tekst in de Eusebius-editie (zie
+  hieronder); fragmenten ook in O. Stählin, *Clemens Alexandrinus* III (GCS). Leipzig: Hinrichs,
+  1909.
+- **Polycrates van Efeze, *Brief aan Victor***, overgeleverd via Eusebius, *Historia Ecclesiastica*
+  5.24.1–8. Editie/vertaling als Eusebius hieronder.
+- **Eusebius van Caesarea, *Historia Ecclesiastica***. Kritische editie: E. Schwartz, *Eusebius
+  Werke* II (GCS 9.1–9.3). Leipzig: Hinrichs, 1903–1909. Vertalingen: Loeb Classical Library (K.
+  Lake, LCL 153, 1926; J.E.L. Oulton, LCL 265, 1932) en *Nicene and Post-Nicene Fathers*, 2e reeks,
+  vol. 1 (A.C. McGiffert, 1890).
+- **Jeruzalemse (Palestijnse) Talmoed, traktaat Sanhedrin** — y. Sanhedrin 1:1 (18a) en 7:2 (24b):
+  het recht op de doodstraf "veertig jaar vóór de verwoesting van de tempel" ontnomen (parallellen
+  b. Sanhedrin 41a; b. Shabbat 15a; b. Avoda Zara 8b). Edities: J. Neusner (red.), *The Talmud of
+  the Land of Israel*, deel 31 (*Sanhedrin and Makkot*). Chicago: University of Chicago Press; H.W.
+  Guggenheimer, *The Jerusalem Talmud: Tractate Sanhedrin* (Studia Judaica). Berlin: De Gruyter.
+  Online: sefaria.org. ⚠️ De exacte folio's (18a / 24b) zijn de gangbare verwijzing maar niet
+  onafhankelijk in een teksteditie geverifieerd; de traditie zelf is wel duidelijk in y. Sanhedrin.
+- **Koperrol (Copper Scroll), 3Q15** (vermelding "Bethesdatain"). Editio princeps: J.T. Milik, in M.
+  Baillet, J.T. Milik & R. de Vaux, *Les 'Petites Grottes' de Qumrân* (Discoveries in the Judaean
+  Desert III). Oxford: Clarendon, 1962: 201–302.
+- **Qumran: 1QS (Regel van de Gemeenschap), 1QHᵃ (Hodayot), 1QM (Oorlogsrol)**. Gangbare
+  teksteditie/vertaling: F. García Martínez & E.J.C. Tigchelaar, *The Dead Sea Scrolls Study
+  Edition*, 2 delen. Leiden: Brill, 1997–1998. Editiones principes o.a.: M. Burrows e.a., *The Dead
+  Sea Scrolls of St. Mark's Monastery* II/2 (1951, 1QS); E.L. Sukenik, *The Dead Sea Scrolls of the
+  Hebrew University* (1955, 1QHᵃ/1QM); kritische 1QHᵃ-editie: H. Stegemann & E. Schuller, *1QHodayot*ᵃ
+  (DJD XL). Oxford: Clarendon, 2009.
+
+### Webbronnen (reeds met volledige URL in de log hierboven)
+
+- Shane Rosenthal, "The Date of John's Gospel, Revisited" — humbleskeptic.com (ronde 1).
+- Irenaeus, *Adv. Haer.* 3.1.1 / 3.3.4 / 2.22.5 — earlychristianwritings.com en newadvent.org
+  (ronde 2, primair geverifieerd).
+- "The Siloam Pool: Where Jesus Healed the Blind Man" — biblicalarchaeology.org (ronde 3).
+- Bespreking van Jonathan Berniers *Aposynagōgos* — voice.dts.edu (ronde 3).
+- Irenaeus, *Adv. Haer.* 3.11.1 (Cerinthus) — newadvent.org (ronde 6, primair geverifieerd).
+- ⚠️ Wendy E. Sproston North, "John for Readers of Mark? A Response to Richard Bauckham's Proposal",
+  *Journal for the Study of the New Testament* 25.4 (2003): 449–468 — sagepub.com (ronde 4; in dit
+  log gemarkeerd als misattributie: ondermijnt Bauckham, niet meegewogen).
+
 <!--
 FORMAT (kopieer per bron; opponenten en moderator vullen aan):
 
