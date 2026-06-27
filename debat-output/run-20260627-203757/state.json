@@ -1,0 +1,54 @@
+{
+  "thesis": "Johannesevangelie op twee onafhankelijke assen: datering (vroeg vs laat) en cultureel karakter (Grieks-Romeins vs Joods)",
+  "scale_datering": "-10 = sterk vroeg (voor 70) .. 0 = midden .. +10 = sterk laat (post-85)",
+  "scale_karakter": "-10 = sterk Grieks-Romeins .. 0 = midden .. +10 = sterk Joods",
+  "params": {
+    "max_rondes": 8,
+    "conv_drempel": 1,
+    "conv_geduld": 2
+  },
+  "round": 3,
+  "history": [
+    {
+      "round": 1,
+      "score_datering": -1,
+      "delta_datering": null,
+      "score_karakter": 2,
+      "delta_karakter": null,
+      "rationale": "Datering rond het midden: Josephus en 1 Clemens neutraliseren het praesens-argument wederzijds, onomastiek is dateringsneutraal, synoptische omkering weegt licht laat; karakter licht joods omdat Joods de Griekse herkenningsvorm erkent maar de substantie primair getoetst naar Tora en profeten verlegt.",
+      "new_evidence_vroeg": 2,
+      "new_evidence_laat": 2,
+      "new_evidence_grieks_romeins": 1,
+      "new_evidence_joods": 2,
+      "concession": "Laat erkent dat de onomastiek de Palestijnse herkomst van de brontradities staaft (maar niet de datum); Joods erkent dat de dramatische enscenering en peripeteia met het Griekse toneel resoneren (maar betwist de bron en substantie)."
+    },
+    {
+      "round": 2,
+      "score_datering": 0,
+      "delta_datering": 1,
+      "score_karakter": 3,
+      "delta_karakter": 1,
+      "rationale": "Datering naar evenwicht: Laats redactionele epiloog (Joh 21:23-24, oidamen) levert een geloofwaardige late benedengrens voor de eindvorm, terwijl Vroegs nieuwe en primair getoetste tijdsvormcontrast (en/estin) volgens eigen concessie slechts de bronlaag raakt en P52 neutraal werd; karakter net over de joodse drempel doordat de Soekot-liturgie als erkend, primair getoetst joods substraat de doorslag geeft terwijl de qal wachomer tweesnijdend uitkwam (Aristoteles Rhet 2.23.4 en b. Yoma 85b beide door de moderator bevestigd) en het Isis-argument dit keer ongetoetst bleef.",
+      "new_evidence_vroeg": 2,
+      "new_evidence_laat": 2,
+      "new_evidence_grieks_romeins": 2,
+      "new_evidence_joods": 2,
+      "concession": "Vroeg geeft P52 als bovengrens op (na Nongbri dateringsneutraal) en erkent dat het estin-contrast de eindredactie niet vastpint; Grieks-Romeins erkent de Soekot-liturgie als echt pre-70 joods substraat en het absolute ego eimi (8:58, 18:5-6) als sterker joods; Laat erkent dat de epiloog alleen de benedengrens bewijst en een vroege kern mogelijk laat; Joods leunt niet op de Misjna-datering voor de datum-as."
+    },
+    {
+      "round": 3,
+      "score_datering": 1,
+      "delta_datering": 1,
+      "score_karakter": 4,
+      "delta_karakter": 1,
+      "rationale": "Datering schuift van evenwicht naar een flauwe late neiging: Laats tweede redactionele naad (Joh 14:31 voor 15-17) versterkt samen met de epiloog van ronde 2 het ontwikkelingsbeeld richting 90-100, terwijl Vroegs zwijgen-argument bij Joh 11:48 structureel werd gepareerd (geen Olivetrede-plek, vervangingschristologie) en het Lucas-Josephus-argument bij mijn primaire toetsing tweesnijdend tot averechts uitviel (Ant. 20.97/20.102 tonen de anachronistische omkering die Schurer tegen Mason inbrengt); karakter verbreedt joods doordat Joods op de door Grieks-Romeins gekozen afscheidsrede de meeste en zwaarste deelpunten wint (Israel-wijnstok primair bevestigd via Jes 5:7/Ps 80; Geest der waarheid joods-Palestijns via Test. Juda 20, primair getoetst met retroversie-caveat) terwijl het Griekse winstpunt Joh 15:13 wederzijds als gedeeld idioom werd erkend.",
+      "new_evidence_vroeg": 2,
+      "new_evidence_laat": 2,
+      "new_evidence_grieks_romeins": 2,
+      "new_evidence_joods": 2,
+      "concession": "Vroeg erkent dat het 11:48-zwijgen niet sluitend is en dat Lucas-na-Josephus op zich geen pre-70 Johannes vastlegt; Laat erkent dat vervangingstheologie geen post-70 vereist (Qumran 1QS pre-70) en dat de 14:31-naad samengestelde wording maar geen late absolute datum bewijst; Grieks-Romeins en Joods concederen symmetrisch over Joh 15:13 (Grieks-Romeins krijgt het vriendschapsidioom, Joods herijkt het als entole/mitswa); Grieks-Romeins erkent de joodse testament-stamboom van de afscheidsrede; Joods erkent de consolatio als reele hellenistische laag en markeert de Testament-van-Juda-redactiekwestie."
+    }
+  ],
+  "converged": true,
+  "stop_reason": "stabiele score"
+}
