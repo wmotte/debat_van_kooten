@@ -381,6 +381,174 @@ claim die hij staaft, gevolgd door de herkomst:
     (https://books.google.com/books/about/Old_Testament_Quotations_in_the_Fourth_G.html?id=drPgSxi20ZwC).
   - **Opgehaald:** ja (via WebSearch-samenvatting; LXX-tekst geverifieerd) · **Type:** tekstkritisch
 
+## 📖 Volledige bibliografie (officiële uitgavegegevens)
+
+De claims hierboven verwijzen naar commentatoren zoals de NotebookLM-notebooks die noemen, met de
+interne bronnummers van die notebooks tussen blokhaken. Dit blok geeft de officiële uitgavegegevens
+van het standaard- of meest relevante werk van elke genoemde geleerde, plus de primaire bronnen.
+De gegevens zijn opgehaald via de `nlm`-CLI uit de notebook **"John - exegesis"** (`nlm cross query
+"... volledige uitgavegegevens ..." -n "John - exegesis"`), dus geaard in de bronnen die het debat
+ook voedden. Waar de notebook iets niet bevatte en het antwoord aanvulde uit buiten-kennis, of waar
+iets niet hard te bevestigen viel, staat ⚠️. Duitstalige werken staan met origineel én Engelse
+vertaling.
+
+### Moderne commentaren en studies
+
+- **Anderson, Paul N.** — *The Christology of the Fourth Gospel: Its Unity and Disunity in the Light
+  of John 6* (WUNT 2/78). Tübingen: Mohr Siebeck, 1996 (herdruk Eugene, OR: Cascade, 2010); *The
+  Riddles of the Fourth Gospel: An Introduction to John*. Minneapolis: Fortress, 2011.
+- **Ashton, John** — *Understanding the Fourth Gospel*. Oxford: Clarendon Press, 1991 (2e, herziene
+  editie Oxford University Press, 2007).
+- **Assmann, Jan** — *Cultural Memory and Early Civilization: Writing, Remembrance, and Political
+  Imagination*. Cambridge: Cambridge University Press, 2011; *Religion and Cultural Memory: Ten
+  Studies* (vert. R. Livingstone). Stanford, CA: Stanford University Press, 2006. ⚠️ De Duitse
+  origineelgegevens (*Das kulturelle Gedächtnis*, 1992; *Religion und kulturelles Gedächtnis*, 2000)
+  stonden niet in de notebook en zijn door het nlm-antwoord uit buiten-kennis aangevuld.
+- **Barrett, C.K.** — *The Gospel According to St John: An Introduction with Commentary and Notes on
+  the Greek Text*. London: SPCK / Philadelphia: Westminster Press, 1955 (2e editie 1978).
+- **Bauckham, Richard** — *Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony*. Grand
+  Rapids: Eerdmans, 2006 (2e editie 2017).
+- **Beasley-Murray, George R.** — *John* (Word Biblical Commentary 36). Waco, TX: Word Books, 1987
+  (2e editie Nashville: Thomas Nelson, 1999).
+- **Black, Matthew** — *An Aramaic Approach to the Gospels and Acts*. Oxford: Clarendon Press, 3e
+  editie 1967 (herdruk Peabody, MA: Hendrickson, 1998).
+- **Borgen, Peder** — *Bread from Heaven: An Exegetical Study of the Concept of Manna in the Gospel
+  of John and the Writings of Philo* (NovTSup 10). Leiden: E.J. Brill, 1965.
+- **Bowman, John** — *The Samaritan Problem: Studies in the Relationships of Samaritanism, Judaism,
+  and Early Christianity* (vert. A.M. Johnson Jr.; Pittsburgh Theological Monograph Series 4).
+  Pittsburgh: Pickwick, 1975 (herdruk Eugene, OR: Pickwick, 2008); Duits origineel *Samaritanische
+  Probleme. Studien zum Verhältnis von Samaritanertum, Judentum und Urchristentum*. Stuttgart:
+  Kohlhammer, 1967.
+- **Boyarin, Daniel** — *Border Lines: The Partition of Judaeo-Christianity* (Divinations: Rereading
+  Late Ancient Religion). Philadelphia: University of Pennsylvania Press, 2004.
+- **Brown, Raymond E.** — *The Gospel According to John* (Anchor Bible 29 / 29A), 2 delen. Garden
+  City, NY: Doubleday, 1966 / 1970; *The Community of the Beloved Disciple: The Life, Loves, and
+  Hates of an Individual Church in New Testament Times*. New York: Paulist Press, 1979.
+- **Bruce, F.F.** — *The Gospel of John: Introduction, Exposition and Notes*. Grand Rapids: Eerdmans,
+  1983.
+- **Bühner, Ruben A.** — *Messianic High Christology: New Testament Variants of Second Temple
+  Judaism*. Waco, TX: Baylor University Press, 2021.
+- **Bultmann, Rudolf** — *Das Evangelium des Johannes* (KEK 2). Göttingen: Vandenhoeck & Ruprecht,
+  1941; Engels: *The Gospel of John: A Commentary* (vert. G.R. Beasley-Murray, R.W.N. Hoare & J.K.
+  Riches). Oxford: Blackwell / Philadelphia: Westminster Press, 1971.
+- **Burney, C.F.** — *The Aramaic Origin of the Fourth Gospel*. Oxford: Clarendon Press, 1922.
+- **Carson, D.A.** — *The Gospel According to John* (Pillar New Testament Commentary). Leicester:
+  IVP/Apollos / Grand Rapids: Eerdmans, 1991.
+- **Charlesworth, James H.** (red.) — *John and Qumran*. London: Geoffrey Chapman, 1972 (heruitgegeven
+  en uitgebreid als *John and the Dead Sea Scrolls*, Christian Origins Library. New York: Crossroad,
+  1990).
+- **Colwell, Ernest C.** — *The Greek of the Fourth Gospel: A Study of Its Aramaisms in the Light of
+  Hellenistic Greek*. Chicago: University of Chicago Press, 1931.
+- **Cullmann, Oscar** — *The Johannine Circle: Its Place in Judaism, among the Disciples of Jesus and
+  in Early Christianity* (vert. J. Bowden). London: SCM / Philadelphia: Westminster Press, 1976.
+  ⚠️ De Duitse origineelgegevens (*Der johanneische Kreis*. Tübingen: Mohr [Paul Siebeck], 1975)
+  zijn door het nlm-antwoord uit buiten-kennis aangevuld; alleen het jaartal 1975 stond in de
+  notebook.
+- **Daube, David** — *The New Testament and Rabbinic Judaism*. New York: Arno Press, 1973 (herdruk
+  Eugene, OR: Wipf & Stock, 2011). ⚠️ De oorspronkelijke editie (Athlone Press, London, 1956) werd
+  in de notebook niet gegeven.
+- **Davies, W.D.** — *The Gospel and the Land: Early Christianity and Jewish Territorial Doctrine*.
+  Berkeley: University of California Press, 1974.
+- **Edwards, Ruth B.** — *Discovering John: Content, Interpretation, Reception* (Discovering Biblical
+  Texts). London: SPCK, 2003 (2e editie 2014).
+- **Fortna, Robert T.** — *The Fourth Gospel and Its Predecessor: From Narrative Source to Present
+  Gospel* (Studies in the New Testament and its World). Philadelphia: Fortress / Edinburgh: T&T
+  Clark, 1988.
+- **Freed, Edwin D.** — *Old Testament Quotations in the Gospel of John* (NovTSup 11). Leiden: E.J.
+  Brill, 1965.
+- **Hengel, Martin** — *The Johannine Question* (vert. J. Bowden). London: SCM / Philadelphia:
+  Trinity Press International, 1989 (Duits, uitgebreid: *Die johanneische Frage: Ein Lösungsversuch*,
+  WUNT 67. Tübingen: Mohr Siebeck, 1993); *Studies in Early Christology*. Edinburgh: T&T Clark, 1995.
+- **Ilan, Tal** — *Lexicon of Jewish Names in Late Antiquity, Part I: Palestine 330 BCE–200 CE*
+  (TSAJ 91). Tübingen: J.C.B. Mohr (Mohr Siebeck), 2002.
+- **Keener, Craig S.** — *The Gospel of John: A Commentary*, 2 delen. Peabody, MA: Hendrickson, 2003.
+- **Köstenberger, Andreas J.** — *John* (Baker Exegetical Commentary on the New Testament). Grand
+  Rapids: Baker Academic, 2004.
+- **Lindars, Barnabas** — *The Gospel of John* (New Century Bible). London: Oliphants, 1972.
+- **Magen, Yitzhak** — *Purity Broke Out in Israel (Tractate Shabbat, 13b): Stone Vessels in the Late
+  Second Temple Period*. Haifa: Hecht Museum, University of Haifa, 1994; en "Jerusalem as a Center of
+  the Stone Vessel Industry during the Second Temple Period", in *Ancient Jerusalem Revealed*, red.
+  H. Geva. Jerusalem: Israel Exploration Society, 1994.
+- **Meeks, Wayne A.** — *The Prophet-King: Moses Traditions and the Johannine Christology* (NovTSup
+  14). Leiden: E.J. Brill, 1967.
+- **Menken, Maarten J.J.** — *Old Testament Quotations in the Fourth Gospel: Studies in Textual Form*
+  (CBET 15). Kampen: Kok Pharos, 1996.
+- **Morris, Leon** — *The Gospel According to John* (NICNT). Grand Rapids: Eerdmans, 1971 (herziene
+  editie 1995).
+- **Rainbow, Paul A.** — *Johannine Theology: The Gospel, the Epistles and the Apocalypse*. Downers
+  Grove, IL: IVP Academic, 2014.
+- **Reim, Günther** — *Studien zum alttestamentlichen Hintergrund des Johannesevangeliums* (SNTSMS
+  22). Cambridge: Cambridge University Press, 1974.
+- **Robinson, John A.T.** — *Redating the New Testament*. London: SCM / Philadelphia: Westminster
+  Press, 1976; *The Priority of John*, red. J.F. Coakley. London: SCM, 1985 (postuum; ook Oak Park,
+  IL: Meyer-Stone, 1987).
+- **Schlatter, Adolf** — *Der Evangelist Johannes: Wie er spricht, denkt und glaubt. Ein Kommentar
+  zum vierten Evangelium*. Stuttgart: Calwer, 1930; *Die Sprache und Heimat des vierten Evangelisten*
+  (BFCT 6/4). Gütersloh: C. Bertelsmann, 1902.
+- **Schnackenburg, Rudolf** — *Das Johannesevangelium* (HThKNT IV). Freiburg: Herder, 1965–1984;
+  Engels: *The Gospel According to St John*, 3 delen (vert. K. Smyth e.a.). London: Burns & Oates /
+  New York: Herder & Herder, 1968–1982.
+- **Segal, Alan F.** — *Two Powers in Heaven: Early Rabbinic Reports about Christianity and
+  Gnosticism* (SJLA 25). Leiden: E.J. Brill, 1977 (herdruk 2002).
+- **Tuppurainen, Riku P.** — *A Prologue to Studies in the Fourth Gospel: Its Independency, Issues,
+  and Interpretations*. Eugene, OR: Wipf & Stock, 2021.
+- **Vansina, Jan** — *Oral Tradition as History*. Madison: University of Wisconsin Press, 1985
+  (eerder *Oral Tradition: A Study in Historical Methodology*, 1961; herdruk London/New Brunswick,
+  NJ: Aldine Transaction, 2006).
+- **Wahlde, Urban C. von** — *The Gospel and Letters of John* (Eerdmans Critical Commentary), 3 delen.
+  Grand Rapids: Eerdmans, 2010.
+- **Walker, Peter W.L.** — *Jesus and the Holy City: New Testament Perspectives on Jerusalem*. Grand
+  Rapids: Eerdmans, 1996.
+
+### Primaire en antieke bronnen
+
+- **Irenaeus van Lyon, *Adversus Haereses*** (geciteerd: 3.1.1; 3.3.4; 3.11.1). Kritische editie: A.
+  Rousseau & L. Doutreleau, *Contre les hérésies* (Sources Chrétiennes); Boek III = SC 210–211
+  (1974). Engelse vertaling: *Ante-Nicene Fathers*, vol. 1, red. A. Roberts & J. Donaldson.
+  Edinburgh: T&T Clark, 1885. Online: newadvent.org/fathers.
+- **Clemens van Alexandrië, *Hypotyposeis*** (fragment: Johannes als "geestelijk evangelie"),
+  overgeleverd via Eusebius, *Historia Ecclesiastica* 6.14.7. Fragmenten in O. Stählin, *Clemens
+  Alexandrinus* III (GCS). Leipzig: Hinrichs, 1909.
+- **Eusebius van Caesarea, *Historia Ecclesiastica***. Kritische editie: E. Schwartz, *Eusebius
+  Werke* II (GCS 9.1–9.3). Leipzig: Hinrichs, 1903–1909. Vertalingen: Loeb Classical Library (K.
+  Lake, LCL 153, 1926; J.E.L. Oulton, LCL 265, 1932) en *Nicene and Post-Nicene Fathers*, 2e reeks,
+  vol. 1 (1890).
+- **Qumran: 1QS (Regel van de Gemeenschap; de Twee-Geesten-verhandeling 1QS 3:13–4:26) en 1QM
+  (Oorlogsrol)**. Gangbare teksteditie/vertaling: F. García Martínez & E.J.C. Tigchelaar, *The Dead
+  Sea Scrolls Study Edition*, 2 delen. Leiden: Brill, 1997–1998. Editiones principes: M. Burrows
+  e.a., *The Dead Sea Scrolls of St. Mark's Monastery* II/2 (1951, 1QS); E.L. Sukenik, *The Dead Sea
+  Scrolls of the Hebrew University* (1955, 1QM).
+- **Misjna** (geciteerd: traktaten *Sukka* 4–5, *Para*, *Pesachim*, *Ohalot* 18:7). Standaard­
+  vertalingen: H. Danby, *The Mishnah: Translated from the Hebrew with Introduction and Brief
+  Explanatory Notes*. Oxford: Oxford University Press, 1933; J. Neusner, *The Mishnah: A New
+  Translation*. New Haven, CT: Yale University Press, 1988.
+- **Septuaginta (LXX)** (geciteerd: Jes 53:1 in Joh 12:38). Kritische editie: *Septuaginta: Vetus
+  Testamentum Graecum, Academiae Scientiarum Gottingensis editum*. Göttingen: Vandenhoeck &
+  Ruprecht, 1974–. Handeditie: A. Rahlfs & R. Hanhart, *Septuaginta: Id est Vetus Testamentum graece
+  iuxta LXX interpretes*. Stuttgart: Deutsche Bibelgesellschaft, 2006. Engelse vertaling: A.
+  Pietersma & B.G. Wright (red.), *A New English Translation of the Septuagint* (NETS). New York /
+  Oxford: Oxford University Press, 2007. ⚠️ De specifieke Isaiah-editie van J. Ziegler (Göttingen)
+  stond niet in de notebook.
+
+### Webbronnen (reeds met volledige URL in de log hierboven)
+
+- "A Summary of Chapter 4 of Richard Bauckham's *Jesus and the Eyewitnesses*" — biblicalscholarship.
+  wordpress.com; "Name Recall in the Synoptic Gospels" — cambridge.org (ronde 1, onomastiek).
+- J. Assmann, "Communicative and Cultural Memory" — archiv.ub.uni-heidelberg.de (propylaeumdok);
+  C. Pentzold, "Memory Studies" — christianpentzold.de (ronde 1, geheugentheorie).
+- Jimmy Akin, "References to the Temple Operating After A.D. 70?" — jimmyakin.com (ronde 1).
+- Bespreking/review van A.F. Segal, *Two Powers in Heaven* — academia.edu; L.W. Hurtado, "Two Powers
+  in Heaven Is Back" — larryhurtado.wordpress.com (ronde 2).
+- R. Bauckham, "The Qumran Community and the Gospel of John" — cojs.org (ronde 2).
+- "Stone vessels in ancient Judaea" — wikipedia.org; "Jewish Purification: Stone Vessel Workshop
+  Discovered in Galilee" — biblicalarchaeology.org (ronde 3, archeologie).
+- Interlinear Joh 21:24 — biblehub.com; "Gospel of John Commentary: Who Wrote the Gospel of John" —
+  biblicalarchaeology.org; C.F. Burney, *The Aramaic Origin of the Fourth Gospel* — archive.org /
+  books.google.com (ronde 4).
+- "Simchat Beit HaShoeivah" — wikipedia.org en myjewishlearning.com (ronde 5, Sukkot-ceremonies).
+- LXX Jes 53:1 — blueletterbible.org; M.J.J. Menken, *Old Testament Quotations in the Fourth Gospel*
+  — books.google.com (ronde 5, tekstvorm).
+
 <!--
 FORMAT (kopieer per bron; opponenten en moderator vullen aan):
 
