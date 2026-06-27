@@ -1,0 +1,59 @@
+{
+  "thesis": "Datering Johannesevangelie: vroeg (Grieks/Van Kooten) vs laat (Joods)",
+  "scale": "-10 = sterk Grieks (vroeg) .. 0 = midden .. +10 = sterk Joods (laat)",
+  "params": {
+    "max_rondes": 5,
+    "conv_drempel": 1,
+    "conv_geduld": 2
+  },
+  "round": 5,
+  "history": [
+    {
+      "round": 1,
+      "score": 1,
+      "delta": null,
+      "rationale": "Onomastiek (Bauckham/Ilan) verankert de stof in Palestina maar wordt door de geheugentheorie date-neutraal gemaakt; 11:48-zwijgen is een wash; Joods voegt een gekort-hypothetisch ontwikkelingsargument toe, lichte Joodse rand.",
+      "new_evidence_grieks": 2,
+      "new_evidence_joods": 3,
+      "concession": "Beide kanten concedeerden: Grieks dat de onomastiek geen datum of ooggetuige bewijst (via Ruth Edwards); Joods dat Browns fasenmodel hypothetisch is en de geheugentheorie de late datum niet afdwingt."
+    },
+    {
+      "round": 2,
+      "score": -1,
+      "delta": -2,
+      "rationale": "Joods' twee-machten-front (Segal/Boyarin) keert op zijn eigen kroongetuige: Boyarin plaatst Johannes' Logos pre-parting, en de steniging is pre-70 lynchrecht (Stefanus-parallel), zodat de rabbijnse veroordeling de veroordeling dateert, niet Johannes. Grieks' Qumran-idioom ('Geest der waarheid', 1QS 3-4) verankert de diepste redactionele laag in een pre-70 Palestijnse matrix en sloopt de abstractie=laat-motor, al dwingt het pre-66 niet af. Lichte Griekse rand.",
+      "new_evidence_grieks": 2,
+      "new_evidence_joods": 1,
+      "concession": "Joods concedeerde drie zwaktes in het twee-machten-front (rabbijnse datering omstreden, argument probabilistisch, leunt op door Bauckham afgewezen gemeenschapsreconstructie). Grieks concedeerde via Bauckham dat directe Qumran-ontlening niet bewezen is en een idioom in schrift kan voortleven, zodat pre-66 niet wordt afgedwongen."
+    },
+    {
+      "round": 3,
+      "score": 1,
+      "delta": 2,
+      "rationale": "Grieks' nieuwe halachisch-archeologische front (reinheidsprocedures 11:55/18:28; stenen vaten 2:6, Magen) verankert een pre-70 milieu en de competentie van de verteller, maar levert geen harde datum (productie liep door tot 135/4e eeuw; bron-eindvorm blijft open). Joods neutraliseert de date-inferentie methodologisch met de Yavne-codificatie van Pesachim/Parah na 70 en inverteert de 'der Joden'-glossen tot een diaspora-marker op eindvorm-niveau (Anderson, geverifieerd). Het externe-attestatie-front (Irenaeus/Clemens) is verifieerbaar maar herverpakt uit de vorige run (ronde 2) en niet als nieuwe valide evidentie geteld; het herbevestigt slechts de staande late traditie. Per saldo terug van lichte Griekse naar lichte Joodse rand.",
+      "new_evidence_grieks": 2,
+      "new_evidence_joods": 2,
+      "concession": "Grieks concedeerde dat de vatenproductie niet abrupt in 70 stopte (geen schone terminus), dat m. Ohalot 18:7 later rabbijns is en dat het bron/eindvorm-bezwaar formeel openblijft. Joods concedeerde dat Irenaeus (c.180) geen onfeilbaar chronoloog is (50-jaar-misser AH 2.22.5), dat de anti-Cerinthus-strekking betwist is en dat externe attestatie een traditie levert, geen gedateerd document (P52 verenigbaar met beide kampen)."
+    },
+    {
+      "round": 4,
+      "score": 2,
+      "delta": 1,
+      "rationale": "Joods' nieuwe redactie-/tekstkritische front dateert voor het eerst intern en concreet de bovenste laag: de naden (14:31/18:1; hfst.21 na 20:30-31; 6:51c-58) plus het colofon 21:24, waar de grammaticale stemwisseling naar het communale 'wij' (oidamen, 1e mv.) dat ná de dood van de getuige (21:23) borg staat, de eindredactie post-ooggetuige plaatst (Brown/von Wahlde/Schnackenburg/Bultmann; BibleHub geverifieerd). Dit raakt de eindvorm-timing, niet enkel de herkomst van de stof, en houdt ook na rebuttal een residu. Grieks pareerde sterk: Borgens homilie-structuur sloopt de 6:51c-58-naad, en de compressie van de floating gap ('binnen één generatie ná de ooggetuige') haalt Joods' tachtigjarige geheugen-spanwijdte onderuit; maar 'ná de ooggetuige' blijft late eindvorm, zeker met de erkende externe attestatie. Grieks' eigen nieuwe front (Semitisch substraat in proloog/discoursen; Black/Burney/Schlatter) verankert een tweetalig-Palestijnse hand maar is door Grieks zelf als date-neutraal geconcedeerd. Iets sterkere Joodse rand binnen de middenband.",
+      "new_evidence_grieks": 2,
+      "new_evidence_joods": 2,
+      "concession": "Joods concedeerde dat een eenheidslezing van het 'wij' (21:24) mogelijk blijft (parallel 19:35), dat de naden de basislaag als vroeg/authentiek bevestigen (ze dateren haar niet laat) en dat de aporieen-analyse een interpretatiekader is, geen wiskunde. Grieks concedeerde dat de volledige vertalingsthese (Burney/Torrey) is verworpen (Colwell/Barrett/Brown), dat het glosseerpatroon een Grieks-sprekend/diaspora-publiek verraadt en dat Semitische interferentie geen jaartal afdwingt (een Palestijnse migrant kan ook later zo schrijven)."
+    },
+    {
+      "round": 5,
+      "score": 3,
+      "delta": 1,
+      "rationale": "Slotronde. Grieks' twee nieuwe offensieven leveren geen positieve dateringsbeweging: de eschatologische colofon-inversie (21:22-23 als eerste-generatie Naherwartung; Bauckham/Brown) herneemt grotendeels de compressie van ronde 4 en laat de slotredactie nog steeds 'binnen een generatie na de ooggetuige', en het Sukkot-front valt op zijn scharnier (de geclaimde asymmetrie 2:6-wel/7-8-niet wordt weerlegd door de glosse 7:2 'het feest der Joden'; Yavne/Misjna Sukka 4-5 neutraliseert de detailkennis; Carson/Brown/Keener lezen 7:37-38 en 8:12 zelf als post-70 vervangingstheologie met toenemende pathos, Davies/Carson/Walker), waardoor het mild naar een post-70-marker keert. Joods voegt een verifieerbaar tekstkritisch front toe (LXX als default; 12:38 argumenteert vanuit het LXX-vocatief 'Kyrie' van Jes 53:1, afwezig in de MT; Menken/Freed/Reim, door mij geverifieerd) dat de redactionele verteller-stem in een Grieks-lezende kerk verankert en Grieks' Semitisch-substraat-front van ronde 4 als eenzijdig neutraliseert. Joods begrenst dat front echter fors en eerlijk (gemengd beeld: 12:40 Jes 6:10 en 19:37 Zach 12:10 volgen de Hebreeuwse MT tegen de LXX, wat de traditie in een tweetalig Palestijns milieu verankert en een heidens auteurschap weerlegt; dwingt geen jaartal af), wat de beweging remt. Per saldo bevestigt de slotronde het patroon van de run: elk Grieks anker reduceert op de datum tot date-neutraal, terwijl Joods de eindvorm-timing blijft raken; Grieks landde geen tegenanker. Net over de middenlijn naar een lichte Joodse neiging.",
+      "new_evidence_grieks": 2,
+      "new_evidence_joods": 2,
+      "concession": "Grieks concedeerde dat Carson en Brown de Sukkot-toespelingen zelf niet als pre-70-argument maar als post-70 vervangingstheologie lezen, dat de Misjna-detailkennis (Sukka 4-5) niets bewijst en dat het front geen pre-66 afdwingt. Joods concedeerde dat Johannes' LXX-gebruik gemengd is (12:40 en 19:37 volgen de Hebreeuwse MT tegen de LXX in), dat dit de traditie juist in een tweetalig Palestijns-joods milieu verankert en een heidens auteurschap weerlegt, en dat het front op zichzelf geen jaartal en geen diaspora-auteur afdwingt; hij ging bovendien niet opnieuw in op de eschatologische inversie en aanvaardde 'binnen een generatie na de ooggetuige'."
+    }
+  ],
+  "converged": false,
+  "stop_reason": "max rondes (5)"
+}
