@@ -1,13 +1,13 @@
 # ⚖️ Eindrapport, debat over de datering van het Johannesevangelie
 
 **Run:** run-20260627-203757
-**Afgesloten:** 2026-06-27, na 3 ronden
+**Afgesloten:** 2026-06-27, na 3 rondes
 **Stopgrond:** stabiele score (convergentie, `converged: true`)
 **Eindscores:** Datering **+1** (schaal −10 sterk vroeg .. +10 sterk laat) · Karakter **+4** (schaal −10 sterk Grieks-Romeins .. +10 sterk Joods)
 
 ## 1. Eindoordeel en eindscores
 
-Na drie ronden komt de datering-as uit op **+1**: vrijwel het midden, met een flauwe neiging naar
+Na drie rondes komt de datering-as uit op **+1**: vrijwel het midden, met een flauwe neiging naar
 een late eindredactie. Het debat verschoof het twistpunt geleidelijk van de ingebedde bronlaag naar
 de eindredactie, en juist daar bleek Laat het sterkere materiaal te hebben. De aanwijzingen die op
 een vroege herkomst wijzen (de onomastiek, het praesens *estin* in Joh 5:2, de topografische kennis)
@@ -21,7 +21,7 @@ datum, en een vroege kern blijft mogelijk. Vandaar geen uitgesproken late waarde
 plus.
 
 Op de karakter-as eindigt het bij **+4**: duidelijk binnen het joodse domein, zonder extreem te zijn.
-Het patroon was over drie ronden consistent. Grieks-Romeins wees telkens raak op de literaire vorm
+Het patroon was over drie rondes consistent. Grieks-Romeins wees telkens raak op de literaire vorm
 (genre-*bios*, dramatische ironie, *anagnorisis*, de consolatie en het symposion van de afscheidsrede,
 de vriendschapstopos van Joh 15:13), en die formele waarnemingen werden door Joods niet weggewuifd maar
 erkend. De doorslag gaf echter steeds de inhoud en de herkomst: wát herkend wordt is het goddelijke
@@ -40,7 +40,7 @@ terrein bezet; maar wel solide aan de joodse kant.
 | 2 | 0 (+1) | +3 (+1) | Datering naar evenwicht doordat de epiloog de eindvorm dateert terwijl het *estin*-contrast slechts de bron raakt; karakter net buiten de middenband joods door de erkende Soekot-liturgie. |
 | 3 | +1 (+1) | +4 (+1) | Datering naar een flauwe late neiging door de naad bij Joh 14:31, het Lucas-Josephus-argument valt averechts uit; karakter verbreedt joods doordat Joods op de afscheidsrede de overhand houdt. |
 
-Beide assen bewogen monotoon en in kleine stappen van één punt per ronde. De convergentiecontrole van
+Beide assen bewogen gestaag in dezelfde richting, in kleine stappen van één punt per ronde. De convergentiecontrole van
 de orchestrator zag de verschuivingen binnen de drempel blijven en stelde de stabiele eindstand vast.
 
 ## 3. De twee assen samen
@@ -92,7 +92,7 @@ Schriftsymbool en de theologische kernterm niet kon verklaren, terwijl de joodse
 
 ## 5. Overtuigend weerlegde of ingetrokken punten
 
-De partijen concedeerden in alle drie ronden ruim en op de inhoud.
+De partijen concedeerden in alle drie rondes ruim en op de inhoud.
 
 - **Vroeg gaf P52 op** (ronde 2): na Nongbri is het fragment dateringsneutraal geworden, geen bruikbare
   bovengrens meer voor een vroege datum.
@@ -125,46 +125,47 @@ toepassing op Tora-recht is joods (b. Yoma 85b). Dit deelpunt leverde geen van b
 - **De Isis-aretalogie.** Het Grieks-Romeinse argument over het gepredikte egō eimi bleef ongetoetst omdat
   de primaire tekst (Diodorus Siculus 1.27) niet via de Perseus-repo kon worden opgehaald. Een toetsing aan
   een Loeb- of andere editie zou dit punt scherper kunnen wegen.
-- **Qumran 1QS.** De dragende parallel voor de Geest der waarheid staat niet in Sefaria en kon niet primair
-  worden getoetst; alleen het Testament van Juda 20 (een retroversie met mogelijke christelijke redactie)
-  is gecontroleerd. Een directe toetsing aan de Dode-Zeerol-tekst blijft wenselijk.
+- **Qumran 1QS.** De dragende parallel voor de Geest der waarheid stond niet in Sefaria en kon tijdens het
+  debat niet primair worden getoetst; alleen het Testament van Juda 20 (een retroversie met mogelijke
+  christelijke redactie) was gecontroleerd. **Inmiddels opgelost, zie het Naschrift hieronder:** 1QS is
+  na afloop alsnog tegen de Dode Zeerollen-tekst gelegd en bevestigt de claim.
 
 ## 7. Bronnenlijst
 
 Samengesteld uit `sources.md`; alleen daadwerkelijk gebruikte bronnen.
 
 ### Primaire teksten, zelf getoetst (brontekst-CLI of biblehub/NA28)
-- **Flavius Josephus, *Bellum Judaicum* 5.184** (Perseus) — verleden tijd (ἵδρυτο, ἦν) voor de verwoeste
+- **Flavius Josephus, *Bellum Judaicum* 5.184** (Perseus), verleden tijd (ἵδρυτο, ἦν) voor de verwoeste
   tempel. Vroeg, ronde 1.
-- **1 Clemens 41** (Perseus/First1KGreek) — praesens (προσφέρονται, προσφέρεται) voor de na 70 verdwenen
+- **1 Clemens 41** (Perseus/First1KGreek), praesens (προσφέρονται, προσφέρεται) voor de na 70 verdwenen
   offercultus. Laat, ronde 1.
-- **Aristoteles, *Poetica* 11.4-11.5** (Perseus) — *anagnorisis* als omslag onwetendheid naar kennis,
+- **Aristoteles, *Poetica* 11.4-11.5** (Perseus), *anagnorisis* als omslag onwetendheid naar kennis,
   samengeklonken met *peripeteia*. Grieks-Romeins, ronde 1.
-- **Jesaja 43:10; Deuteronomium 32:39; Genesis 45:3-4** (Sefaria) — *ani hu* / *ani Yosef* achter het
+- **Jesaja 43:10; Deuteronomium 32:39; Genesis 45:3-4** (Sefaria), *ani hu* / *ani Yosef* achter het
   johanneïsche egō eimi. Joods, ronde 1.
 - **Johannes 11:18; 18:1; 19:41; 5:2; 21:23-24; 14:31; 2:19-22; 4:21-24; 11:48** (biblehub/NA28
-  interlinear) — tijdsvormcontrast, epiloog-grammatica, redactionele naad, vervangingschristologie. Vroeg
-  en Laat, ronden 2 en 3. (NT zit niet in de brontekst-databases.)
-- **Misjna Soekka 4:9, 5:1, 5:3** (Sefaria) — waterlibatie *nisuch ha-mayim* en verlichting van de
+  interlinear), tijdsvormcontrast, epiloog-grammatica, redactionele naad, vervangingschristologie. Vroeg
+  en Laat, rondes 2 en 3. (NT zit niet in de brontekst-databases.)
+- **Misjna Soekka 4:9, 5:1, 5:3** (Sefaria), waterlibatie *nisuch ha-mayim* en verlichting van de
   voorhoven. Joods, ronde 2.
-- **b. Yoma 85b** (Sefaria) — קל וחומר met het besnijdenis-argument. Joods, ronde 2.
-- **Aristoteles, *Rhetorica* 2.23.4** (Perseus) — de a-fortiori-topos ἐκ τοῦ μᾶλλον καὶ ἧττον.
+- **b. Yoma 85b** (Sefaria), קל וחומר met het besnijdenis-argument. Joods, ronde 2.
+- **Aristoteles, *Rhetorica* 2.23.4** (Perseus), de a-fortiori-topos ἐκ τοῦ μᾶλλον καὶ ἧττον.
   Grieks-Romeins, ronde 2.
-- **Josephus, *Antiquitates* 20.97 en 20.102** (Perseus) — Theudas onder Fadus, Judas met de census onder
+- **Josephus, *Antiquitates* 20.97 en 20.102** (Perseus), Theudas onder Fadus, Judas met de census onder
   Quirinius; de chronologische omkering. Ingebracht door Vroeg, getoetst door Laat en moderator, ronde 3.
-- **Plato, *Symposion* 179; Aristoteles, *Ethica Nicomachea* 9.8 (1169a)** (Perseus) — ὑπεραποθνῄσκειν,
+- **Plato, *Symposion* 179; Aristoteles, *Ethica Nicomachea* 9.8 (1169a)** (Perseus), ὑπεραποθνῄσκειν,
   de maxime van het sterven voor de vriend. Grieks-Romeins, ronde 3.
-- **Jesaja 5:1-7; Psalm 80:9-17** (Sefaria) — Israël als Gods wijngaard en het oordeelsmotief. Joods,
+- **Jesaja 5:1-7; Psalm 80:9-17** (Sefaria), Israël als Gods wijngaard en het oordeelsmotief. Joods,
   ronde 3.
 
 ### Primaire tekst getoetst met voorbehoud
-- **Testament van Juda 20** (Sefaria) — "geest van waarheid" en de forensische functie "getuigt en klaagt
+- **Testament van Juda 20** (Sefaria), "geest van waarheid" en de forensische functie "getuigt en klaagt
   aan". ⚠️ Caveat: het Sefaria-Hebreeuws is een Wikisource-retroversie, het Engels is R.H. Charles (1908),
   en het Griekse origineel kan christelijke redactie bevatten. De joodse herkomst van het twee-geesten-motief
   steunt mede op de onafhankelijke Qumran-parallel (1QS), die hier niet toetsbaar was. Joods, ronde 3.
 
 ### Secundaire bronnen, niet primair getoetst (notebook en web)
-- **nlm-notebook "John - exegesis"** — de hoofdbron voor alle exegetische posities. Concreet geciteerde
+- **nlm-notebook "John - exegesis"**, de hoofdbron voor alle exegetische posities. Concreet geciteerde
   commentatoren onder meer: Richard Bauckham, Tal Ilan (onomastiek); Frans Neirynck, C.K. Barrett
   (synoptische verhouding); Richard Burridge, Kasper Bro Larsen, Jo-Ann Brant, George Parsenios, David
   Wead, Paul Duke (genre en drama); D.A. Carson, Marianne Meye Thompson, Raymond Brown, Catrin Williams,
@@ -175,14 +176,14 @@ Samengesteld uit `sources.md`; alleen daadwerkelijk gebruikte bronnen.
   (Geest der waarheid); Köstenberger, Stephen Motyer, Alan Kerr, Mary Coloe (vervangingschristologie); W.F.
   Albright, J. Ramsey Michaels, Adolf Schlatter (Joh 11:48). De afzonderlijke queries staan per ronde in
   `sources.md`.
-- **Brent Nongbri, "The Use and Abuse of P52," *Harvard Theological Review* 98 (2005)** — via
+- **Brent Nongbri, "The Use and Abuse of P52," *Harvard Theological Review* 98 (2005)**, via
   WebSearch-samenvatting van de Cambridge-publicatie; paleografische datering van P52 verruimd tot circa
   152. Laat, ronde 2.
-- **Bauckham-samenvatting (biblicalscholarship.wordpress.com)** — over onomastiek en eyewitnesses. Vroeg,
+- **Bauckham-samenvatting (biblicalscholarship.wordpress.com)**, over onomastiek en ooggetuigen. Vroeg,
   ronde 1.
-- **"Johannine Anagnorisis," MDPI *Religions* (2025/2026)** — overzichtsartikel, bevestigt het lopende
+- **"Johannine Anagnorisis," MDPI *Religions* (2025/2026)**, overzichtsartikel, bevestigt het lopende
   onderzoeksveld. Grieks-Romeins, ronde 1.
-- **jimmyakin.com over tempelreferenties na 70** — aanvullend bij 1 Clemens. Laat, ronde 1.
+- **jimmyakin.com over tempelreferenties na 70**, aanvullend bij 1 Clemens. Laat, ronde 1.
 
 ### Aandachtspunt bij een notebook-citaat
 - De Israël-wijngaard-claim (Jesaja 5:7, Psalm 80) werd in de notebook als synthese gegeven ("commentators
@@ -190,7 +191,7 @@ Samengesteld uit `sources.md`; alleen daadwerkelijk gebruikte bronnen.
   de primaire teksten zijn bevestigd en de lezing Israël-als-wijngaard is een standaardgegeven, dus het is
   niet als onverifieerbaar gemarkeerd, alleen als zwakker geattribueerd genoteerd.
 
-Geen enkel citaat in de drie ronden hoefde als `⚠️ onverifieerbaar` te worden geschrapt. Het enige
+Geen enkel citaat in de drie rondes hoefde als `⚠️ onverifieerbaar` te worden geschrapt. Het enige
 geattribueerde maar ongetoetste zwaardere argument was de Isis-aretalogie (de primaire tekst was niet
 ophaalbaar), die daarom lichter woog.
 
@@ -209,12 +210,12 @@ Tegelijk moet ik de grenzen eerlijk benoemen. De exegetische posities zelf, de t
 Bultmann, Parsenios, Bauckham en tientallen anderen, komen vrijwel uitsluitend uit één notebook ("John -
 exegesis") en zijn niet onafhankelijk geverifieerd tegen de oorspronkelijke publicaties. Een volledige
 Loeb-bibliotheek was niet beschikbaar, waardoor één zwaarder klassiek argument (de Isis-aretalogie via
-Diodorus 1.27) ongetoetst bleef, en de Qumran-Gemeenschapsregel (1QS) kon niet primair worden geraadpleegd.
-De conclusies over de Geest der waarheid en over het hellenistische karakter van het gepredikte egō eimi
-blijven daardoor voorlopig: de joodse herkomst van het twee-geesten-motief leunt op een onafhankelijke
-parallel die ik niet zelf kon inzien, en het Grieks-Romeinse tegenargument kon niet aan zijn primaire bron
-worden gemeten. De richting van de karakter-as is robuust, de exacte grootte (+4 in plaats van bijvoorbeeld
-+3 of +5) hangt deels aan ongetoetste secundaire attributies.
+Diodorus 1.27) ongetoetst bleef. De Qumran-Gemeenschapsregel (1QS) kon tijdens het debat niet primair worden
+geraadpleegd; dat hiaat is na afloop alsnog gedicht (zie het Naschrift), zodat de joodse herkomst van het
+twee-geesten-motief nu wél op een zelf ingeziene primaire parallel rust. De conclusie over het hellenistische
+karakter van het gepredikte egō eimi blijft daarentegen voorlopig: het Grieks-Romeinse tegenargument kon niet
+aan zijn primaire bron worden gemeten. De richting van de karakter-as is robuust, de exacte grootte (+4 in
+plaats van bijvoorbeeld +3 of +5) hangt deels aan ongetoetste secundaire attributies.
 
 ## 9. Reflectie: impasse of winst, per as
 
@@ -227,8 +228,37 @@ twistpunt (de eindredactie) raakten, terwijl Vroegs nieuwe stutten ófwel tot de
 beslissing.
 
 **Karakter-as: een duidelijke, herhaalde winst voor Joods, zonder dat Grieks-Romeins werd weggevaagd.**
-Hier was geen impasse. Drie ronden lang volgde hetzelfde stramien: Grieks-Romeins koos het terrein en wees
+Hier was geen impasse. Drie rondes lang volgde hetzelfde stramien: Grieks-Romeins koos het terrein en wees
 raak op de vorm, Joods beantwoordde dat op datzelfde terrein en won op de inhoud en de herkomst. Dat het van
 +2 naar +4 opliep terwijl Grieks-Romeins zijn sterkste ronde (de afscheidsrede) speelde, bevestigt dat de
 joodse overhand niet uit zwakte van de tegenstander voortkwam maar uit de bewijskracht van de stof. De
 Griekse vorm is reëel en op deelpunten terecht erkend, maar de substantie van het evangelie is joods.
+
+## Naschrift (na afloop), primaire toetsing van Qumran 1QS
+
+Het debat draaide zonder toegang tot de Dode Zeerollen; de Geest der waarheid-parallel in de
+Gemeenschapsregel (1QS) bleef daardoor in ronde 3 ongetoetst en stond als openstaande vraag genoteerd.
+Na afloop is 1QS alsnog tegen de primaire tekst gelegd via het NotebookLM-corpus
+`De Complete Dode Zeerollen (English)`. De ronde-3-claim van Opponent Joods wordt op alle onderdelen
+bevestigd, in de Verhandeling over de Twee Geesten (1QS, kolommen III-IV):
+
+- de exacte titel **"spirit of truth"** (geest van waarheid), tegenover de geest van onrecht/leugen
+  ("the spirits of truth and injustice ... the spirit of truth (to cleanse him) of all abomination");
+- de tegengestelde vorsten **"Prince of Light"** tegenover **"Angel of Darkness"** ("all the children
+  of righteousness are ruled by the Prince of Light ... the children of injustice are ruled by the Angel
+  of Darkness");
+- een uitgesproken **licht-tegen-duister-dualisme** ("those born of truth spring from a fountain of
+  light, but those born of injustice spring from a source of darkness").
+
+Dit is de Dode Zeerollen-tekst zelf (in Engelse vertaling, via notebook, niet de Hebreeuwse grondtekst),
+en daarmee een onafhankelijke, voor-christelijke en joods-Palestijnse parallel die niet lijdt aan de
+retroversie- en redactiekwestie van het Testament van Juda 20.
+
+**Verandert dit de conclusies? Nee, in richting niet; het versterkt ze.** De karakter-as blijft op **+4**:
+de score telde dit punt in ronde 3 al mee, en de scores van een afgesloten debat herschrijf ik niet
+achteraf. Wat verandert is de zekerheid: een met voorbehoud gewogen joods winstpunt wordt nu een primair
+bevestigd winstpunt, de openstaande Qumran-vraag is gesloten, en Bauckhams tegenwerping (dat "geest van
+waarheid" niet dualistisch zou zijn) wordt door de uitgesproken twee-geesten-dualistiek van 1QS juist
+ondergraven. De datering-as raakt dit niet; eerder bevestigt het de in ronde 1 al gemaakte observatie dat
+een diep joods karakter (1QS is voor-christelijk) op zichzelf geen late datum bewijst. De toets is gedaan
+met: `nlm cross query "..." -n "De Complete Dode Zeerollen (English)"` (zie `sources.md`, Naschrift).
