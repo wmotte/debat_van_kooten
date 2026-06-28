@@ -7,7 +7,7 @@
     "conv_drempel": 1,
     "conv_geduld": 2
   },
-  "round": 3,
+  "round": 4,
   "history": [
     {
       "round": 1,
@@ -47,6 +47,19 @@
       "new_evidence_grieks_romeins": 2,
       "new_evidence_joods": 2,
       "concession": "Vroeg erkent dat het 11:48-zwijgen niet sluitend is en dat Lucas-na-Josephus op zich geen pre-70 Johannes vastlegt; Laat erkent dat vervangingstheologie geen post-70 vereist (Qumran 1QS pre-70) en dat de 14:31-naad samengestelde wording maar geen late absolute datum bewijst; Grieks-Romeins en Joods concederen symmetrisch over Joh 15:13 (Grieks-Romeins krijgt het vriendschapsidioom, Joods herijkt het als entole/mitswa); Grieks-Romeins erkent de joodse testament-stamboom van de afscheidsrede; Joods erkent de consolatio als reele hellenistische laag en markeert de Testament-van-Juda-redactiekwestie."
+    },
+    {
+      "round": 4,
+      "score_datering": 1,
+      "delta_datering": 0,
+      "score_karakter": 3,
+      "delta_karakter": -1,
+      "rationale": "Consolidatieronde. Datering ongewijzigd op de flauwe late neiging: Laats synoptische omkering via de terzijdes Joh 3:24 en 11:2 is primair correct maar dateringsneutraal (relatieve posterioriteit aan de traditie, niet post-85; verenigbaar met Bauckhams John-for-readers-of-Mark bij een Marcus uit de late jaren zestig) en zijn 1 Johannes-anker weegt licht door de omkeerbare corpusvolgorde (Brown vs von Wahlde vs Schnelle) en de door Lieu/Edwards/Bauckham gemarkeerde mirror-reading van 1 Joh 2:19; Vroegs nieuwe eschatologische horizon (kale rechtzetting in Joh 21:22-23 zonder vertragingstheodicee, primair gelezen) raakt voor het eerst de redactionele laag zelf maar is een redenering uit stilzwijgen die Brown met de gerealiseerde eschatologie als mogelijk laat antwoord blunt; de nieuwe late en vroege aanzet neutraliseren elkaar. Karakter zakt een stap terug richting het mengkarakter: beide polen convergeren op de hellenistisch-joodse Wijsheid als naaste matrix van de gepredikte ego eimi, Joods erkent dat de Ik-ben-vorm hellenistisch van oorsprong is en Grieks-Romeins landt met de primair getoetste Philo-Logos (De Opificio Mundi 31) op de programmatische proloog en herkent de Wijsheidslaag als Alexandrijns-filosofisch; Joods houdt de joodse stof overeind (Spr 8:34-35 primair, Joh 6:35 als Sirach-overtreffing), maar het programmatische zwaartepunt leest hellenistisch-joods en dus gemengd.",
+      "new_evidence_vroeg": 2,
+      "new_evidence_laat": 2,
+      "new_evidence_grieks_romeins": 2,
+      "new_evidence_joods": 1,
+      "concession": "Vroeg geeft het beeld van Johannes als letterlijk oudste, eerst-vertellende evangelie op (pijler 3 in naieve vorm) en erkent dat de eschatologische horizon een aanwijzing is, geen bewijs; Laat erkent dat de terzijdes slechts relatieve posterioriteit bewijzen en niet een absolute datum na 85, en dat het gelaagde model een vroege kern toelaat; Joods concedeert dat de gepredikte Ik-ben-vorm hellenistisch van oorsprong is (Bultmann/Norden) en dat Sir 24 alleen in vertaling (NRSVA) en niet tegen de grondtekst is getoetst; Grieks-Romeins erkent dat de naaste intertekst van Joh 6:35 Sir 24:19-21 is en niet een directe Isis-spreuk, en erkent de Harnack/Hoskyns-lezing van de Logos als afgrenzing tegen de Griekse filosofie."
     }
   ],
   "converged": true,

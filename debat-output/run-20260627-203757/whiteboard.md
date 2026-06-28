@@ -12,7 +12,7 @@ samenvallen. Elke as heeft **twee opponenten**, één per pool:
   Joods (overwegend joods van kleur).
 
 Van Kooten bundelt "vroeg én Grieks-Romeins"; dat is één mogelijke combinatie, geen automatisme. Een
-late Johannes kan via de Parting of the Ways juist Grikser zijn, en een vroege Johannes kan diep
+late Johannes kan via de scheiding der wegen tussen jodendom en christendom juist Griekser zijn, en een vroege Johannes kan diep
 joods zijn. Daarom debatteert elke opponent strikt op zijn eigen as en scoren we de assen los van
 elkaar.
 
@@ -30,6 +30,7 @@ Karakter: negatief = neigt Grieks-Romeins, positief = neigt Joods.
 | 1 | −1 (n.v.t.) | +2 (n.v.t.) | Datering rond het midden met een flauwe vroege rest; karakter een lichte joodse overhand binnen de middenband. |
 | 2 | 0 (+1) | +3 (+1) | Datering naar evenwicht doordat de late epiloog de eindvorm dateert terwijl het ἔστιν-contrast slechts de bron raakt; karakter net buiten de middenband joods door de erkende Soekot-liturgie. |
 | 3 | +1 (+1) | +4 (+1) | Datering schuift naar een flauwe late neiging doordat de naad bij Joh 14:31 het ontwikkelingsbeeld versterkt en het Lucas-Josephus-argument averechts uitvalt; karakter verbreedt joods doordat Joods op de afscheidsrede (Israël-wijnstok, Geest der waarheid) de overhand houdt. |
+| 4 | +1 (0) | +3 (−1) | Datering consolideert op de flauwe late neiging: Laats synoptische omkering (Joh 3:24, 11:2) is dateringsneutraal en zijn 1 Johannes-anker omkeerbaar, terwijl Vroegs vroege eschatologische horizon (Joh 21:23) als redenering uit stilzwijgen licht weegt; karakter zakt een stap terug richting het mengkarakter doordat de gepredikte egō eimi en de proloog (Philo's Logos, primair getoetst) zich als hellenistisch-joodse fusie laten lezen en Joods de hellenistische oorsprong van de "Ik ben"-vorm erkent. |
 
 ## Spelregels
 - **Datering-as.** ⏳ **Vroeg** verdedigt de vroege datering (vóór 66-70); 🕰️ **Laat** verdedigt de
@@ -58,10 +59,10 @@ Karakter: negatief = neigt Grieks-Romeins, positief = neigt Joods.
 **Reactie op vorige:** Er ligt nog geen beurt van Opponent Laat, dus ik open de zaak. Mijn staande
 positie rust op vier dateringspijlers (het praesens *estin* in Joh 5:2; superieure topografische
 kennis van pre-70 Jeruzalem; de afhankelijkheid van Lucas van Johannes; en de overbodigheid van Q).
-Die laat ik hier verder rusten en ik open in plaats daarvan twee nieuwe fronten op de datering-as.
+Die laat ik hier verder rusten en ik open in plaats daarvan twee nieuwe lijnen op de datering-as.
 
 **Nieuwe evidentie:**
-- Onomastiek als provenance-toets. De relatieve frequentie van persoonsnamen in Johannes komt
+- Onomastiek als herkomsttoets. De relatieve frequentie van persoonsnamen in Johannes komt
   nauwkeurig overeen met de gedocumenteerde naamverdeling onder Palestijnse joden vóór 70 (Maria als
   veruit populairste vrouwennaam, Simon als populairste mannennaam, Lazarus als Galilese
   verkorting van Eleazar), en wijkt juist af van het naamgebruik in de diaspora (waar bijvoorbeeld
@@ -69,7 +70,7 @@ Die laat ik hier verder rusten en ik open in plaats daarvan twee nieuwe fronten 
   Johannes' stof verankert in een pre-70 Palestijns milieu en daarmee het standaardmodel van de late
   school ondergraaft, namelijk een auteur die decennia ná 70 ver weg in Klein-Azië of Egypte schrijft.
   Zo'n auteur had deze statistische naamsignatuur niet uit de diaspora kunnen reconstrueren. Ik
-  overspeel dit niet: het argument legt het milieu en de bron vast, niet onweerlegbaar de eindredactie,
+  overdrijf het belang niet: het argument legt het milieu en de bron vast, niet onweerlegbaar de eindredactie,
   en het is bekritiseerd (Ruth Edwards wijst op de brede tijdspanne 330 v.Chr. tot 200 n.Chr. en op
   diaspora-ruis). Ook gebruikt Bauckham zelf het verwante motief van de "beschermende anonimiteit"
   (het pas laat noemen van Petrus, Malchus, Maria, Lazarus) juist als argument voor een iets latere
@@ -120,7 +121,7 @@ heersende datering circa 96 maakt het juist tot het scherpste comparandum.
   ontkracht dat het praesens *estin* in Joh 5:2 dwingend op een datum vóór 70 wijst. Raakt as:
   datering. Bron: brontekst perseus (1 Clemens 41) + https://jimmyakin.com/2015/01/references-to-the-temple-operating-after-a-d-70.html (opgehaald: ja; aard: primair; primair nagezien: ja; type: grammaticaal)
 - Johannes veronderstelt de synoptici en is daarom literair later. Dezelfde "kleine overeenkomsten"
-  die Van Kooten als bewijs voor Lukan posteriority inzet (Martha die opdient, Annas en Lazarus, het
+  die Van Kooten als bewijs voor de posterioriteit van Lucas inzet (Martha die opdient, Annas en Lazarus, het
   *rechter*oor van de slaaf, Pilatus' drievoudige onschuldverklaring) leest Frans Neirynck (Leuvense
   school) juist als Johannes die het voltooide Lucas herschrijft; de wonderbare visvangst in Joh 21
   als bewerking van Lucas 5:1-11. Barrett wijst daarnaast op gedeelde zeldzame details (de "tweehonderd
@@ -220,7 +221,7 @@ herkenning zelf, en datgene wat herkend wórdt, is door en door joods.
   over de Ezechiël-herkenningsformule) en primaire teksten Jes 43:10 en Deut 32:39 via brontekst
   sefaria (opgehaald: ja; aard: primair en secundair; primair nagezien: ja; type: exegetisch en literair)
 - Het "menselijke" zelfidentificatie-gebruik van *egō eimi* (de blindgeborene "ik ben het", Joh 9:9)
-  dat een Grieks-dramatische lezing opeist, heeft zijn premier-voorbeeld in Genesis 45:3-4, Jozef die
+  dat een Grieks-dramatische lezing opeist, heeft zijn schoolvoorbeeld in Genesis 45:3-4, Jozef die
   zich onthult als "Ik ben Jozef" (*ani Yosef*, LXX *egō eimi*); de herkenning-door-zelfonthulling is
   dus ook in haar narratieve vorm een Hebreeuws-bijbels type-scène. Raakt as: karakter. Bron:
   primaire tekst Gen 45:3-4 via brontekst sefaria, plus nlm-notebook "John - exegesis" (vermelding van
@@ -263,7 +264,7 @@ verliest zijn kracht als sluitend bewijs maar wordt niet weerlegd als aanwijzing
 sterk als herkomsttoets, maar door Vroeg zelf en door Laat eerlijk als dateringsneutraal voor de
 eindredactie bestempeld, dus zij verschuift de datering-as nauwelijks. De synoptische omkering
 (Neirynck, Barrett) is een echte late-leunende bijdrage, maar naar eigen aard tweezijdig leesbaar, dus
-zij weegt licht positief. Vroeg liet zijn staande pijlers (topografie, Lukan posteriority) rusten in
+zij weegt licht positief. Vroeg liet zijn staande pijlers (topografie, de posterioriteit van Lucas) rusten in
 plaats van ze te verdedigen, terwijl Laat er twee actief aanviel; dat trekt de as van een vroege
 uitgangsstand naar bijna het midden, met een flauwe vroege rest omdat *estin* en de topografische
 kennis onbestreden bleven. Op de karakter-as is de botsing inhoudelijk het rijkst: de formele
@@ -303,10 +304,10 @@ karakter licht joods kleurt, precies de loskoppeling die de opzet veronderstelt.
 
 #### 🕰️ Opponent Laat (late datering, post-85)
 **Reactie op vorige:** Opponent Vroeg opende in ronde 1 met de onomastiek en een Josephus-controlegeval,
-en liet zijn staande pijlers (topografie, Lukan posteriority) rusten. De moderator vatte de stand
+en liet zijn staande pijlers (topografie, de posterioriteit van Lucas) rusten. De moderator vatte de stand
 scherp samen: de datering-as staat vrijwel in evenwicht, met nog een "flauwe vroege rest" die volledig
 leunt op twee dingen die onbestreden bleven, namelijk het praesens *estin* en de topografische kennis.
-Precies daar wil ik deze ronde inzetten, want beide raken hooguit het bronmateriaal, niet de
+Juist daar wil ik deze ronde inzetten, want beide raken hooguit het bronmateriaal, niet de
 eindredactie, en de moderator wees zelf op dat onderscheid. De onomastiek verankert de herkomst van de
 stof in joods Palestina; dat concedeerde ik al en dat staat. Maar het laat de datum van de eindvorm
 open, en het is juist de eindvorm waarover ons geschil gaat. Mijn nieuwe argument valt niet op het
@@ -404,7 +405,7 @@ plus decennia overlevering. Het punt is neutraal, niet pro-laat.
   zodat ἔστιν hier letterlijk moet worden genomen. Eerlijke grens: Carson erkent het gewicht maar
   brengt ertegen in dat juist Johannes het historisch praesens vaker gebruikt dan enig NT-auteur, en
   de tegenpartij kan een vroege bron (Signs Source) of het voortbestaan van de baden als pagaan
-  Asclep-heiligdom inroepen; ἔστiν alleen dateert dus niet dwingend de eindredactie. Maar gelegd
+  Asclep-heiligdom inroepen; ἔστιν alleen dateert dus niet dwingend de eindredactie. Maar gelegd
   naast Johannes' eigen ἦν-gewoonte weegt het presentisch. Raakt as: datering. Bron: nlm-notebook
   "John - exegesis" (commentaar Leon Morris, J.A.T. Robinson, met tegenstem D.A. Carson; vermelding
   Daniel Wallace) en grondtekst Joh 11:18, 18:1, 19:41, 5:2 via biblehub/NA28 (opgehaald: ja; aard:
@@ -493,7 +494,7 @@ watermotief staat los van de leestekenkwestie.
 
 #### 🏛️ Opponent Grieks-Romeins (Grieks-Romeins karakter)
 **Reactie op vorige:** Opponent Joods voert twee nieuwe blokken aan, de Soekot-liturgie achter Joh 7-8
-en de qal wachomer in Joh 7:22-23, en herhaalt zijn ani-hoe-lezing uit ronde 1. Ik neem ze één voor
+en de qal wachomer in Joh 7:22-23, en herhaalt zijn ani hu-lezing uit ronde 1. Ik neem ze één voor
 één, en geef toe waar ik moet.
 
 De Soekot-realia geef ik grotendeels. Dat de waterlibatie en de verlichting van de voorhoven uit Misjna
@@ -502,7 +503,7 @@ netjes nagezien. Maar let op wélke zin Jezus tegen dat decor uitspreekt. Joh 8:
 licht" maar "egō eimi to phōs tou kosmou", "Ik ben het licht van de wereld". Dat is geen libatieformule
 en geen halachische uitspraak, het is een goddelijke zelfpredicatie met een kosmische reikwijdte. De
 Misjna verklaart de gloeiende kandelaars, maar zij verklaart niet de literaire vórm "Ik ben X" en
-allerminst de uitbreiding van de tempelhof naar de hele kosmos. Precies daar opent zich mijn nieuwe front.
+allerminst de uitbreiding van de tempelhof naar de hele kosmos. Juist daar verleg ik mijn aandacht.
 
 De egō-eimi-uitspraken met een predicaat (het brood des levens, het licht der wereld, de goede herder,
 de ware wijnstok, de deur) hebben hun naaste formele tegenhanger in de hellenistisch-Egyptische
@@ -517,10 +518,10 @@ goddelijke openbaarder zegt "de bode van het licht ben ik". Voor een Grieks gesc
 liturgie levert de gelegenheid, maar de literaire vorm waarin Johannes haar giet is hellenistische
 aretalogie. Bron: nlm "John - exegesis" (Bultmann, Norden, Wetter, MacRae, Bergman, Dodd).
 
-Op het ani-hoe-punt van ronde 1 ben ik eerlijk: voor het absolute egō eimi zonder predicaat (Joh 8:58,
+Op het ani hu-punt van ronde 1 ben ik eerlijk: voor het absolute egō eimi zonder predicaat (Joh 8:58,
 de arrestatie in 18:5-6) staat de joodse lezing sterker dan de mijne. Catrin Williams, David Ball en
 Heinrich Zimmermann wijzen er terecht op dat heidense parallellen voor het absolute gebruik schaars
-zijn en dat Deutero-Jesaja's ani hoe daar de bepalende achtergrond is. Dat concedeer ik. Maar dat raakt
+zijn en dat Deutero-Jesaja's ani hu daar de bepalende achtergrond is. Dat concedeer ik. Maar dat raakt
 juist niet de verzen die Joods deze ronde inbracht: Joh 8:12 is een gepredikte "Ik ben", en daar is de
 hellenistische openbaringsvorm het scherpere comparandum.
 
@@ -554,7 +555,7 @@ geen distinctief joods eindkarakter. Bron: brontekst perseus, Aristoteles, Rheto
 
 **Concessies:** Twee. De Soekot-liturgie (waterlibatie, verlichting) is echt pre-70 joods substraat en
 levert de gelegenheid van Joh 7-8; dat wuif ik niet weg. En voor het absolute egō eimi (Joh 8:58, 18:5-6)
-staat de ani-hoe-lezing van Opponent Joods sterker dan een hellenistische; mijn aretalogie-argument
+staat de ani hu-lezing van Opponent Joods sterker dan een hellenistische; mijn aretalogie-argument
 geldt de gepredikte vorm, niet de absolute.
 
 ### ⚖️ Moderator (stand van zaken)
@@ -649,8 +650,8 @@ redacteur die in 21:24 spreekt, is dezelfde verteller die door het hele boek hee
 naderhand-glossen: in Joh 2:21-22 legt hij uit dat "de tempel" Jezus' lichaam was en dat de
 leerlingen dit pas ná de opstanding begrepen, in Joh 12:16 dat zij het pas ná de verheerlijking
 snapten, in Joh 7:39 dat de Geest nog niet was gegeven. Die verteller is bij uitstek geneigd een
-vervulde voorspelling als vervuld aan te wijzen. Precies dat maakt zijn zwijgen op één plaats
-veelzeggend, en daar zet ik mijn nieuwe front.
+vervulde voorspelling als vervuld aan te wijzen. Juist daardoor is zijn zwijgen op één plaats
+veelzeggend, en daar haak ik deze ronde op aan.
 
 **Nieuwe evidentie:**
 - Het uitblijven van een vervullingsglosse bij Joh 11:48, vergeleken met de synoptische parallellen,
@@ -751,7 +752,7 @@ vroege Johannes.
   tempel als Jezus' opstandingslichaam, programmatisch vooraan geplaatst) en Joh 4:21-24 (aanbidden
   "in geest en waarheid", niet langer plaatsgebonden) verwerken de afwezigheid van de tempel door
   vervanging in plaats van door voorspelling. Köstenberger, Motyer, Kerr en Coloe lezen dit als
-  antwoord op het trauma ná 70; Moody Smith en Fortna lezen Joh 11:48 als prediction-after-the-fact.
+  antwoord op het trauma ná 70; Moody Smith en Fortna lezen Joh 11:48 als voorspelling achteraf.
   Dit raakt de eindredactie en draait het stilzwijgen-argument om: Johannes' "zwijgen" is geen
   afwezigheid maar transpositie, en die wijst post-70. Raakt as: datering. Bron: nlm-notebook "John -
   exegesis" (commentaar Andreas Köstenberger, Stephen Motyer, Alan Kerr, Mary Coloe, B.F. Westcott,
@@ -783,7 +784,7 @@ zou hier bij uitstek een seder met halachische inhoud voorspellen. In plaats daa
 juist de instelling van het avondmaal en de Pesach-inkleuring, en zet er een lange, troostende
 filosofische tafelrede onder vrienden voor in de plaats. Waar je halacha verwacht, vind je consolatie en
 vriendschapsethiek. De qal wachomer en het absolute egō eimi laat ik rusten: de moderator oordeelde de
-eerste tweesnijdend, en het absolute ani-hoe heb ik in ronde 2 zelf geconcedeerd. Mijn nieuwe front ligt
+eerste tweesnijdend, en het absolute ani hu heb ik in ronde 2 zelf geconcedeerd. Mijn nieuwe argument ligt
 elders.
 
 **Nieuwe evidentie:**
@@ -984,6 +985,394 @@ symposion-argument en de vervangingschristologie op ongetoetste secundaire comme
 blijven inhoudelijk losgekoppeld: de datering verschuift van evenwicht naar een flauwe late neiging op
 grond van de ontwikkelingsargumenten, terwijl het karakter zijn joodse overhand verbreedt op grond van de
 inhoud, zonder dat het een uit het ander wordt afgeleid.
+
+## Ronde 4 (extra consolidatieronde)
+
+> Orchestrator-kader: het debat was na ronde 3 geconvergeerd (datering +1, karakter +4) en er is een
+> eindrapport geschreven (`eindrapport.md`). Deze extra ronde vraagt de vier opponenten dat eindrapport
+> te lezen en vanuit een **nieuw perspectief** de discussie verder te consolideren: vul lacunes uit de
+> sectie "Openstaande vragen", toets wat in het rapport ongetoetst bleef, of breng een invalshoek die de
+> eindstand kan verfijnen of bevestigen. Strikt op de eigen as.
+
+### Datering-as
+
+#### 🕰️ Opponent Laat (late datering, post-85)
+**Reactie op vorige:** Voor ronde 4 ligt er op onze as nog geen nieuwe beurt van Opponent Vroeg, dus ik
+knoop aan bij zijn staande positie uit ronde 3 en bij de twee openstaande vragen die het eindrapport
+voor de datering-as noteert: de verhouding tussen een vroege kern en een late eindredactie, en de
+richting van de synoptische afhankelijkheid. Op beide wil ik consolideren in plaats van een nieuw
+twistpunt te openen.
+
+Begin bij de synoptische richting, het scharnier onder Van Kootens derde pijler (Lucas zou Johannes
+gebruiken, dus Johannes vroeg). Het eindrapport liet dit uitdrukkelijk onbeslist. Ik breng een
+aanwijzing in die nog niet op het bord stond en die de richting juist omkeert: Johannes schrijft voor
+lezers die het verhaal al kennen, en verraadt dat op plaatsen waar hij het zelf niet vertelt. In Joh
+3:24 onderbreekt de verteller zijn relaas met de losse mededeling "want Johannes was nog niet in de
+gevangenis geworpen" (οὔπω γὰρ ἦν βεβλημένος εἰς τὴν φυλακὴν Ἰωάννης). Die opmerking is alleen zinvol
+voor een lezer die wéét dat de Doper gevangen wordt gezet, terwijl Johannes die arrestatie nergens
+vertelt. Bauckham leest het als een bewuste correctie van de synoptische chronologie (Marcus 1:14, waar
+Jezus' optreden pas ná de arrestatie begint), en Brown en Carson zien er een parenthese in die bezwaren
+van met de synoptische volgorde vertrouwde lezers wil voorkomen. Hetzelfde in Joh 11:2, waar Maria wordt
+geïntroduceerd als "zij die de Heer met balsem zalfde" (ἡ ἀλείψασα τὸν κύριον μύρῳ), terwijl die zalving
+pas in het volgende hoofdstuk (Joh 12:1-8) wordt verteld. Het aoristus-participium verwijst naar een daad
+die de lezer al moet kennen, plausibel uit de breed bekende traditie (Marcus 14:3-9). Dit is geen
+evangelist die als eerste het verhaal op schrift stelt, maar een die een reeds gevestigde traditie
+veronderstelt en aanvult. Daarmee verschuift het scharnier van pijler 3 naar Johannes ná de synoptische
+kerygma, niet ervoor.
+
+Dan de kern-versus-eindredactie, de verzoening die het eindrapport zoekt. Ik omarm het gelaagde model
+openlijk, want het kost mijn positie niets en het scheidt netjes wat op de twee assen door elkaar liep.
+Laat de vroege, joods-Palestijnse stof (de onomastiek, de Soekot-realia, de rabbijnse redeneervorm)
+gerust tot een oude kern behoren; dat is precies de herkomst-laag die ik vanaf ronde 1 heb erkend en die
+niets over het jaar van de eindvorm zegt. Mijn claim betreft de slotredactie, en daar levert het
+johanneïsche corpus zelf een nieuwe consolidatie. De verhouding tussen het evangelie en de brieven, die
+nog niet op ons bord stond, plaatst de eindvorm aan het einde van de eeuw. In 1 Johannes 2:18-19 ("zij
+zijn uit ons voortgekomen, maar zij waren niet uit ons") wordt een gemeenschap verondersteld die al lang
+genoeg bestaat om een interne scheuring en een afwijkende christologie voort te brengen. Brown leest het
+evangelie en de brieven als opeenvolgende fasen van diezelfde gemeenschapsgeschiedenis (eerst het
+evangelie, daarna de brieven als orthodox commentaar tegen de afgescheidenen), met de eindvorm rond
+90-100. Von Wahlde gaat verder en wijst aan dat de laatste editie van het evangelie de theologie van 1
+Johannes al vooronderstelt: dat de Geest in Joh 14:16 "een andere Trooster" heet, veronderstelt de
+Trooster-Jezus van 1 Joh 2:1, en het "nieuwe gebod" van Joh 13:34 wordt pas in 1 Joh 2:7-8 uitgelegd. Op
+die lezing dateert de slotredactie van het evangelie ná de brieven, in het midden van de jaren 90. Hoe
+men de exacte volgorde ook legt, het corpus toont een literatuur die over decennia rijpte en pas laat
+haar vorm vond.
+
+**Nieuwe evidentie:**
+- De verklarende terzijdes in Joh 3:24 ("Johannes was nog niet in de gevangenis geworpen", οὔπω ἦν
+  βεβλημένος) en Joh 11:2 (Maria "die de Heer zalfde", ἡ ἀλείψασα, vóór de zalving van Joh 12) verwijzen
+  naar gebeurtenissen die Johannes zelf niet of pas later vertelt; zij veronderstellen een lezer die de
+  gevestigde (synoptische) traditie al kent. Dit wijst de synoptische richting naar Johannes ná de
+  synoptische kerygma en weerlegt het beeld van Johannes als oudste, eerst-vertellende evangelie; het
+  draait Van Kootens pijler 3 om. Raakt as: datering. Bron: nlm-notebook "John - exegesis" (commentaar
+  Richard Bauckham "John for readers of Mark", Raymond E. Brown, D.A. Carson, C.K. Barrett, Barnabas
+  Lindars) en grondtekst Joh 3:24 en 11:2 via biblehub/NA28 (opgehaald: ja; aard: primair en secundair;
+  primair nagezien: ja, Joh 3:24 οὔπω ἦν βεβλημένος [imperfectum + perfectum-participium, pluskwamperfecte
+  zin] en Joh 11:2 ἡ ἀλείψασα [aoristus-participium, daad vóór de vertelling] bevestigd; type: literair
+  en grammaticaal)
+- Het johanneïsche corpus dateert de eindvorm laat en consolideert het gelaagde model: 1 Joh 2:18-19
+  ("zij zijn uit ons voortgekomen") veronderstelt een gemeenschap die lang genoeg bestond om te scheuren,
+  en de laatste editie van het evangelie vooronderstelt 1 Johannes (Joh 14:16 "een andere Trooster" naast
+  1 Joh 2:1; Joh 13:34 "nieuw gebod" uitgelegd in 1 Joh 2:7-8). Een vroege kern blijft daarmee mogelijk,
+  maar de slotredactie valt rond 90-100. Raakt as: datering. Bron: nlm-notebook "John - exegesis"
+  (commentaar Raymond E. Brown [evangelie-dan-brieven], Urban C. von Wahlde [brieven tussen tweede en
+  derde editie van het evangelie], Rudolf Schnackenburg; met de kritische tegenstem Judith M. Lieu)
+  (opgehaald: ja; aard: secundair; primair nagezien: nee, relatieve-dateringsargument zonder afzonderlijke
+  grondtekstlezing; type: literair en historisch)
+
+**Concessies:** Twee, eerlijk. De veronderstellende terzijdes bewijzen relatieve posterioriteit ten opzichte
+van de synoptische traditie, niet uit zichzelf een absolute datum ná 85; Carson en Bauckham lezen de
+"gevestigde traditie" bovendien deels als mondeling en niet noodzakelijk als de geschreven Marcus, en
+Bauckham koppelt er zelfs een ooggetuige-kader aan. Het ondergraaft Van Kootens "Johannes als oudste" en
+keert pijler 3 om, maar pint de eindredactie niet vast. En het gelaagde model snijdt aan twee kanten: het
+laat een vroege kern uitdrukkelijk toe (dat concedeer ik, en het verzoent de assen), terwijl Judith Lieu
+terecht waarschuwt tegen de spiegellezing waarmee de johanneïsche gemeenschapsgeschiedenis uit 1 Joh
+2:19 wordt gereconstrueerd. De corpus-ontwikkeling toont gefaseerde wording met een late eindvorm, geen
+exact jaartal.
+
+#### ⏳ Opponent Vroeg (vroege datering, vóór 66-70)
+**Reactie op vorige:** Laat consolideert op twee punten, de synoptische richting en het gelaagde model
+via 1 Johannes. Ik neem beide en laat zien dat geen van beide de eindvorm ná 85 vastlegt.
+
+De veronderstellende terzijdes in Joh 3:24 en 11:2 zijn raak waargenomen, maar ze bewijzen relatieve
+posterioriteit ten opzichte van een bekende verhaaltraditie, niet een absolute datum. Laat geeft dat in
+zijn eigen concessie zelf toe: de "gevestigde traditie" is volgens Carson en Bauckham deels mondeling, en
+Bauckham koppelt er een ooggetuige-kader aan. Een evangelist die schrijft voor lezers die het kerygma al
+kennen, plaatst zichzelf ná het moment waarop dat kerygma begon te circuleren, en dat moment ligt binnen
+een decennium na de gebeurtenissen, in de jaren dertig en veertig. "Lezers die het verhaal kennen" is dus
+verenigbaar met elke datum vanaf ongeveer het jaar 45, de vroege datering inbegrepen. Het argument is
+binnen ons geschil dateringsneutraal: het ondergraaft hooguit het beeld van Johannes als allereerste
+verteller, maar het tilt de eindredactie niet naar de jaren negentig. Sterker, Laats eigen kroongetuige
+werkt tegen hem. Bauckhams stelling "John for readers of Mark" dateert Johannes niet laat: Marcus zelf
+valt rond de late jaren zestig, dus Johannes die Marcus kent kan even goed in de late jaren zestig staan.
+Marcus kennen is niet hetzelfde als ná 85 schrijven. En Joh 3:24 wijst juist op onafhankelijkheid: de
+terzijde dat de Doper "nog niet" gevangen was, bewaart een eigen chronologie van elkaar overlappende
+bedieningen die Marcus 1:14 (Jezus begint pas ná de arrestatie) corrigeert. Een auteur die alleen maar
+van Marcus afhing, hoefde die correctie niet in te lassen; de correctie verraadt zelfstandige, precieze
+traditie, niet afgeleide laatheid.
+
+Het 1 Johannes-anker draagt het gewicht niet dat Laat eraan hangt. Hij beroept zich tegelijk op Brown en
+op von Wahlde, maar die twee spreken elkaar tegen: Brown, zijn eigen primaire autoriteit, plaatst het
+evangelie in voltooide vorm vóór de brieven (de brieven als orthodox commentaar tegen de afgescheidenen),
+terwijl von Wahlde de brieven vóór de slot-editie zet. De richting is, zo bevestigt de notebook, een
+een eindeloze, onbesliste discussie, met Schnelle die haar nog eens omkeert. Een omkeerbare volgorde kan geen absolute
+datum dragen. Bovendien rust de hele constructie op de spiegellezing van 1 Joh 2:19, die Lieu, Ruth
+Edwards en (opnieuw) Bauckham als riskant en niet-falsifieerbaar bestempelen, een caveat dat Laat zelf
+aanhaalt. En de premisse dat een scheuring "lang genoeg" moest rijpen, klopt feitelijk niet: Korinte en
+Galatië scheurden binnen enkele jaren na hun stichting. Een breuk als die van 1 Joh 2:19 vergt geen
+decennia.
+
+**Nieuwe evidentie:**
+- De eschatologische horizon van de epiloog dateert de eindvorm zélf vroeg, niet laat, en dat raakt
+  precies de redactionele laag waar de moderator om vroeg. In Joh 21:22-23 corrigeert de redacteur het
+  gerucht dat de geliefde leerling niet zou sterven met een kale feitelijke rechtzetting: Jezus zei dat
+  niet, hij zei alleen "als ik wil dat hij blijft totdat ik kom" (ἐὰν αὐτὸν θέλω μένειν ἕως ἔρχομαι,
+  praesens ἔρχομαι). Wat opvalt is wat er níet staat. D.A. Carson wijst erop dat de redacteur, als hij
+  een structurele crisis van de uitgestelde wederkomst had willen oplossen, allerlei theologische
+  argumenten had kunnen aanvoeren zoals 2 Petrus 3:4-8 ("één dag is bij de Heer als duizend jaar") en
+  2 Tessalonicenzen 2 dat doen. Hij doet dat niet. De dood van een vooraanstaande getuige bedreigt hier
+  voor het eerst de imminente verwachting, en de reactie is een simpele rechtzetting, geen uitgewerkte
+  vertragingstheologie. Dat ontwikkelde, "bezonken" antwoord op de spotters hoort thuis in de periode
+  waarin het uitblijven een gevestigd probleem was geworden, ná het wegvallen van de hele generatie. De
+  onontwikkelde vorm van Joh 21:23 past juist bij het eerste moment waarop zo'n sterfgeval de vraag
+  opriep, dus dicht bij de gebeurtenissen, in de late jaren zestig, niet in de jaren negentig of later.
+  Omdat dit een kenmerk is van de slotredactie (de οἴδαμεν-kring van 21:24), beantwoordt het het
+  staande bezwaar dat de vroege aanwijzingen alleen de bronlaag raken: hier is het de eindvorm zelf die
+  een vroege eschatologische horizon verraadt. Dat relativeert bovendien de "late naad" waarop Laat
+  leunt, want uitgerekend die naad draagt een onontwikkelde verwachting. Raakt as: datering. Bron:
+  nlm-notebook "John - exegesis" (commentaar D.A. Carson over het ontbreken van een vertragings-theodicee
+  in Joh 21:23 tegenover 2 Petrus 3 en 2 Tessalonicenzen 2; Raymond E. Brown over de imminente
+  verwachting gekoppeld aan de leeftijd van de geliefde leerling) en grondtekst Joh 21:22-23 via
+  biblehub/NA28 (opgehaald: ja; aard: primair en secundair; primair nagezien: ja, Joh 21:22 ἐὰν αὐτὸν
+  θέλω μένειν ἕως ἔρχομαι [praesens ἔρχομαι] en 21:23 ὁ μαθητὴς ἐκεῖνος οὐκ ἀποθνήσκει met de kale
+  conditionele correctie bevestigd; type: literair en historisch)
+- De omkeerbaarheid van de Johannes-1 Johannes-richting en de kwetsbaarheid van de scheuring-reconstructie
+  neutraliseren Laats nieuwe 1 Johannes-anker. Brown plaatst het evangelie vóór de brieven, von Wahlde
+  andersom, Schnelle keert het opnieuw om; de richting is onbeslist en kan dus geen absolute datum
+  schragen. De scheuring van 1 Joh 2:19 is een spiegellezing die Lieu, Ruth Edwards en Bauckham als
+  onbetrouwbaar markeren, en een scheuring vergt feitelijk geen decennia (Korinte, Galatië binnen enkele
+  jaren). Het corpus-argument toont gefaseerde wording, niet een eindvorm ná 85. Raakt as: datering. Bron:
+  nlm-notebook "John - exegesis" (commentaar Raymond E. Brown [evangelie vóór de brieven], Urban C. von
+  Wahlde [omgekeerd], Udo Schnelle, Judith M. Lieu en Richard Bauckham over de onbetrouwbaarheid van het
+  spiegellezing van 1 Joh 2:19) (opgehaald: ja; aard: secundair; primair nagezien: n.v.t.; type: literair
+  en historisch)
+
+**Concessies:** Twee, eerlijk. De terzijdes van Joh 3:24 en 11:2 laten zien dat Johannes een bekende
+verhaaltraditie veronderstelt en aanvult; het naïeve beeld van Johannes als letterlijk eerst-vertellende
+evangelist geef ik op, maar dat raakt de relatieve verhouding tot de traditie, niet de absolute datum, en
+is verenigbaar met een vroege eindvorm. En de eschatologische-horizon-aanwijzing is een aanwijzing met
+gewicht, geen bewijs: Brown leest Johannes' bredere antwoord op het uitstel (de gerealiseerde
+eschatologie, de Paracleet als Jezus' terugkeer) als een doordacht, mogelijk laat antwoord, en de
+gangbare lezing van 21:23 koppelt de rechtzetting aan de reeds ingetreden dood van de leerling. De kale
+vorm van de correctie weegt niettemin eerder vroeg dan laat, en dat is wat ik claim.
+
+### Karakter-as
+
+#### ✡️ Opponent Joods (joods karakter)
+**Reactie op vorige:** Het eindrapport noemt de Isis-aretalogie de enige zwaardere claim op de karakter-as
+die ongetoetst bleef: het Grieks-Romeinse argument dat de gepredikte egō-eimi-uitspraken (brood des
+levens, licht, ware wijnstok, deur, herder) hun naaste vorm vinden in de hellenistisch-Egyptische
+zelfpredicatie "egō eimi Isis". De primaire Isis-tekst (Diodorus 1.27) kon in ronde 2 niet via Perseus
+worden opgehaald, dus het punt bleef hangen. Ik wil het deze ronde sluiten, en wel door juist dat
+punt aan te vallen op een manier die nog niet op het bord stond. Mijn vorige beurten verdedigden steeds
+de inhoud van Grieks-Romeins' terrein; hier pak ik de literaire vórm zelf, want juist daar is de
+Grieks-Romeinse lezing zwakker dan zij lijkt.
+
+Ik geef ruiterlijk toe wat klopt: de aretalogische zelfpredicatie "Ik ben X" is een gedeelde, in oorsprong
+hellenistische redevorm. Bultmann en Norden hadden over de vórm gelijk, en ik heb de Isis-aretalogie nu
+zelf nagezien (de volledig bewaarde versie van Kyme): zij opent met "Ik ben Isis, heerseres van elk land"
+en rijgt zo'n veertig "ik"-regels aaneen. Dat is echt een eerste-persoons godheidsproclamatie. Maar de
+sprong die Grieks-Romeins maakt, van "de vorm is aretalogisch" naar "het culturele eindkarakter is dus
+hellenistisch", slaat een tussenstap over die het hele plaatje kantelt. Want het jodendom had die
+aretalogische vorm eeuwen vóór Johannes al overgenomen en omgesmeed, en wel in de gestalte van de sprekende
+Wijsheid (Chokmah, Sophia). Dat is de naaste, al-joods-geworden bron van Johannes' "Ik ben"-uitspraken,
+niet een rechtstreekse ontlening aan een Isis-cultus.
+
+Twee dingen maken dat hard. Ten eerste de vorm zelf: in Spreuken 8 en Ben Sira 24 spreekt de
+gepersonifieerde Wijsheid in de eerste persoon en nodigt zij uit, exact de constructie die Johannes voor
+Jezus kiest. Raymond Brown wijst er volgens de notebook op dat juist deze "ik-stijl" van de Wijsheid
+verklaart waaróm Johannes Jezus laat zeggen "Ik ben de wijnstok" in plaats van de synoptische
+gelijkenisvorm "het koninkrijk is als een wijngaard". Ten tweede, en beslissend voor het Isis-punt: Hans
+Conzelmann toont volgens de notebook aan dat Ben Sira 24 zélf de liturgische vorm van de Isis-aretalogie
+gebruikt. Sirach 24:3, "Ik ben voortgekomen uit de mond van de Allerhoogste en bedekte als een nevel de
+aarde", is aretalogie in joodse dienst, gericht op de lof van Israëls God en zijn Tora. Het hellenistische
+jodendom had de aretalogie dus al gedoopt. De vorm bewijst daarom geen hellenistisch eindkarakter; hij was
+tegen Johannes' tijd al een inheems-joods voertuig geworden. John Ashton trekt daaruit de scherpe
+conclusie die de notebook citeert: er is geen reden om buiten het eerste-eeuwse jodendom te zoeken naar de
+herkomst van de johanneïsche vormen.
+
+Beslissend is bovendien wat er ná "Ik ben" volgt. Isis proclameert macht en heerschappij ("heerseres van
+elk land", "ik gaf de mensen wetten"). De johanneïsche Jezus daarentegen citeert in zijn meest uitgewerkte
+gepredikte "Ik ben", de broodrede, woordelijk de uitnodiging van de Wijsheid uit Sirach 24. Ik heb beide
+teksten naast elkaar gelegd. Sirach 24:19-21: "Kom tot mij, jullie die naar mij verlangen, en eet je
+verzadigd aan mijn vruchten ... wie van mij eet zal nog meer hongeren, en wie van mij drinkt zal nog meer
+dorsten." Johannes 6:35 keert dat doelbewust om: "Ik ben het brood des levens; wie tot mij komt zal nooit
+meer hongeren, en wie in mij gelooft zal nooit meer dorsten." Dat is geen Isis-resonantie maar een
+joods-exegetische overtreffing van Vrouwe Wijsheid: Jezus geeft de verzadiging die de Tora-wijsheid
+beloofde en uitstelde. Net zo overlapt "Ik ben de deur" met Spreuken 8:34-35, waar wie aan de deuren van de
+Wijsheid waakt "het leven vindt"; ik heb die verzen primair in Sefaria nagezien. Kortom, de aretalogische
+vorm die Grieks-Romeins voor zijn pool opeiste, was al joods bezit, en de stof die Johannes erin giet komt
+regelrecht uit de joodse wijsheidsliteratuur.
+
+**Nieuwe evidentie:**
+- De gepredikte egō-eimi-uitspraken hebben hun naaste vorm- én stofbron in de joodse Wijsheidsliteratuur
+  (Spreuken 8; Ben Sira 24), waar de gepersonifieerde Wijsheid in de eerste persoon spreekt en uitnodigt.
+  Joh 6:35 ("wie tot mij komt zal nooit hongeren ... nooit dorsten") is een doelbewuste overtreffing van
+  Sir 24:19-21 ("kom tot mij ... wie van mij eet zal nog meer hongeren"), en "Ik ben de deur" sluit aan op
+  Spr 8:34-35 (waken aan Wijsheids deuren is "het leven vinden"). De aretalogische zelfpredicatie was bij
+  Johannes' tijd al een gejudaïseerd voertuig: Ben Sira 24 zelf gebruikt de liturgische Isis-aretalogievorm
+  (Sir 24:3, "voortgekomen uit de mond van de Allerhoogste") in dienst van Israëls God. Daarmee verklaart
+  de joodse Wijsheid de gepredikte "Ik ben" minstens zo goed, en als naaste schakel beter, dan een
+  rechtstreekse Isis-ontlening. Dit consolideert de in het eindrapport openstaande Isis-vraag op de
+  karakter-as. Raakt as: karakter. Bron: nlm-notebook "John - exegesis" (commentaar Raymond E. Brown over
+  de Wijsheids-"ik-stijl" achter "Ik ben de wijnstok"; Ben Witherington III over Joh 6 als overtreffing van
+  Sir 24:19-21; Martin Scott over de "deur" en Spr 8:34-35 en de johanneïsche sophia-christologie; Hans
+  Conzelmann dat Sir 24 zelf de Isis-aretalogievorm gebruikt; John Ashton en C.H. Dodd over de
+  hellenistisch-joodse matrix) plus primaire teksten Spr 8:22 en 8:34-35 via brontekst sefaria (nagezien)
+  en Sir 24:3, 24:19-21 via Bible Gateway NRSVA (Sefaria mist het in Grieks bewaarde hoofdstuk 24) en de
+  Isis-aretalogie van Kyme via web (opgehaald: ja; aard: primair en secundair; primair nagezien: ja voor
+  Spr 8, deels voor Sir 24 [Griekse tekst via NRSVA, niet via Sefaria]; type: literair en exegetisch)
+
+**Concessies:** Eén, en eerlijk. De aretalogische "Ik ben"-vorm is in oorsprong hellenistisch en gedeeld;
+Bultmann en Norden zagen die vorm correct, en ik claim hem niet als joodse uitvinding. Mijn punt is dat de
+vorm tegen Johannes' tijd al door het hellenistische jodendom was overgenomen (aantoonbaar in Ben Sira 24),
+zodat de naaste bron van Johannes' gepredikte egō eimi de joodse Wijsheid is en de inhoud joods-exegetisch.
+Verder een grens bij de toetsing: Sir 24 staat niet in Sefaria (alleen in het Grieks bewaard), dus die
+verzen heb ik via een moderne kritische vertaling (NRSVA) nagezien, niet tegen de grondtekst; Spreuken 8
+is wel primair in Sefaria gecontroleerd.
+
+#### 🏛️ Opponent Grieks-Romeins (Grieks-Romeins karakter)
+**Reactie op vorige:** Opponent Joods doet deze ronde een knappe en eerlijke zet: hij geeft toe dat de
+gepredikte "Ik ben"-vorm in oorsprong hellenistisch is (Bultmann en Norden hadden gelijk) en probeert
+het Isis-punt te ontmantelen door een tussenschakel in te voegen, de joods geworden Wijsheidsaretalogie
+van Spreuken 8 en Ben Sira 24. Ik aanvaard zijn intertekst volledig en draai hem om, want bij nader
+inzien werkt die schakel niet in zijn voordeel maar in het mijne.
+
+Begin bij de openstaande vraag die het eindrapport markeerde, de ongetoetste Isis-aretalogie. Ik heb
+Diodorus Siculus 1.27.4 nu opgehaald (de tekst zit niet in de Perseus-repo, dus via LacusCurtius/Loeb
+Oldfather en aanvullend de Kyme-inscriptie die Joods zelf al inzag). De steleïnscriptie van Isis is
+precies de gepredikte zelfopenbaringsvorm: "Ik ben Isis, de koningin van elk land ... ik ben de oudste
+dochter van Kronos ... ik ben de vrouw en zuster van koning Osiris ... ik ben zij die als eerste de
+vruchten voor de mensen ontdekte ... ik ben de moeder van koning Horus." Een cascade van eerste-persoons
+ἐγώ-εἰμι-predicaties door een openbarende godheid. Het comparandum dat in ronde 2 bleef hangen, staat nu
+op het bord: de vorm van Joh 6:35, 8:12, 10:7-11 en 15:1 is aantoonbaar deze aretalogische vorm. Dat is
+de openstaande Isis-vraag, gesloten op het niveau waarop zij gesteld was.
+
+Dan de kern. Joods zegt: de vorm was tegen Johannes' tijd al "gejudaïseerd", dus de naaste bron is
+joodse Wijsheid, niet Isis. Akkoord, maar let op wélk jodendom dat is. Zijn eigen kroongetuige Conzelmann
+betoogt dat Ben Sira 24 zélf de Isis-aretalogievorm overneemt, en de notebook bevestigt dat juist de
+ik-stijl-Wijsheid een hellenistisch-joods, en wel specifiek Alexandrijns-diaspora, verschijnsel is:
+Sirach en de Wijsheid van Salomo ontstonden in die Grieks-joodse context, de laatste rechtstreeks in het
+Grieks. Een "gejudaïseerde aretalogie" is nog altijd een aretalogie, en zij is gedragen door de meest
+gehelleniseerde laag van het Tweede-Tempeljodendom, niet door de Palestijnse halacha. Daarmee verschuift
+Joods zijn eigen pool. In ronde 2 en 3 verankerde hij het joodse karakter in Palestijns materiaal (Misjna
+Soekka, qal wachomer, Qumran); nu hij het sterkste Griekse front wil neutraliseren, moet hij uitwijken
+naar het Alexandrijnse, door Griekse filosofie doortrokken jodendom. Dat is precies de hellenistisch-joodse
+brug die de Grieks-Romeinse lezing altijd al inroept. Zijn weerlegging bevestigt de these die zij wil
+ontkrachten.
+
+En de schakel loopt door tot haar logische eindpunt, dat nog niet op het bord stond: dezelfde
+Alexandrijnse stroom die de sprekende Sophia voortbracht, levert Philo's Logos, en dáár giet Johannes zijn
+hele evangelie in via de proloog. De genealogie die Joods opent (ἐγώ εἰμι ← Sophia) eindigt niet in de
+halacha maar in de Griekse filosofie.
+
+**Nieuwe evidentie:**
+- De Isis-aretalogie (Diodorus Siculus 1.27.4) gebruikt de gepredikte eerste-persoons ἐγώ-εἰμι-zelfopenbaring
+  als reeks ("Ik ben Isis, koningin van elk land ... ik ben de oudste dochter van Kronos ..."), het
+  comparandum voor de gepredikte johanneïsche "Ik ben"-uitspraken dat in ronde 2 ongetoetst bleef. Dit
+  sluit de in het eindrapport openstaande Isis-vraag op vormniveau. Raakt as: karakter. Bron: Diodorus
+  1.27.4 via https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/1A*.html (LacusCurtius,
+  Loeb/Oldfather) plus de Kyme-aretalogie (opgehaald: ja; aard: primair; primair nagezien: deels, de
+  predicatiestructuur is in Engelse vertaling bevestigd, de Griekse grondtekst kon niet deterministisch
+  worden opgehaald omdat Diodorus niet in de Perseus-repo zit; type: literair)
+- Philo van Alexandrië beschrijft de Logos als het onzichtbare, kenbare licht dat "het beeld is van de
+  goddelijke Logos" en de bron van al het zintuiglijke licht (De Opificio Mundi 31: "τὸ δὲ ἀόρατον καὶ
+  νοητὸν φῶς ἐκεῖνο θείου λόγου γέγονεν εἰκών ... πηγὴ τῶν αἰσθητῶν ἀστέρων"). Dit is de Logos-licht-schepping-
+  nexus die Joh 1:1-9 exact spiegelt (ἐν ἀρχῇ ἦν ὁ λόγος, πάντα δι' αὐτοῦ ἐγένετο, ἦν τὸ φῶς τὸ ἀληθινόν).
+  De door Joods ingeroepen joodse Wijsheid is precies de Alexandrijns-middenplatoonse stroom (Philo) die
+  Johannes' proloog vormt; "joods" en "Grieks-filosofisch" zijn in deze laag geen tegenpolen, en de
+  proloog kleurt het hele evangelie hellenistisch-joods, niet Palestijns-halachisch. Raakt as: karakter.
+  Bron: brontekst perseus (Philo, De Opificio Mundi 31) plus nlm-notebook "John - exegesis" (commentaar
+  Thomas H. Tobin en C.H. Dodd over de middenplatoonse Logos via Philo; Daniel Boyarin dat het
+  middenplatoonse Logos-denken een vorm van hellenistisch jodendom is; James Rendel Harris en Troels
+  Engberg-Pedersen over de Stoïsche Logos; achtergrond Heraclitus) (opgehaald: ja; aard: primair en
+  secundair; primair nagezien: ja, Philo De Opificio Mundi 31 via brontekst perseus; type: filosofisch
+  en literair)
+
+**Concessies:** Twee, eerlijk. De naaste intertekst van Joh 6:35 is werkelijk Sirach 24:19-21, niet
+rechtstreeks een Isis-spreuk; Joods' overtreffingslezing van Vrouwe Wijsheid staat en die schakel claim
+ik niet als directe pagaanse ontlening. En von Harnack en Hoskyns lezen Johannes' Logos uitdrukkelijk
+als afgrenzing tégen de Griekse filosofie, geworteld in Genesis 1; dat is een serieuze minderheidslezing
+die ik niet wegwuif. Mijn punt is niet dat de stof onjoods is, maar dat de joodse laag waarop Joods
+deze ronde terugvalt de hellenistisch-joods-Alexandrijnse is, die in Philo's Logos uitmondt en zo het
+Grieks-Romeinse eindkarakter van proloog en gepredikte "Ik ben" bevestigt in plaats van weerlegt.
+
+### ⚖️ Moderator (stand van zaken)
+**Samenvatting ronde:** Deze extra consolidatieronde heropende beide assen op de openstaande vragen
+van het eindrapport. Op de datering-as draaide Laat de synoptische richting om via de verklarende
+terzijdes (Joh 3:24, 11:2) en verankerde hij de late eindvorm in het johanneïsche corpus (1 Joh
+2:18-19, de Paracleet- en gebod-verwijzingen); Vroeg pareerde door beide als dateringsneutraal dan
+wel omkeerbaar te ontmaskeren en bracht voor het eerst een positief argument op de redactionele laag
+zelf, de onontwikkelde eschatologische horizon van Joh 21:22-23. Op de karakter-as sloot
+Grieks-Romeins de openstaande Isis-vraag (Diodorus 1.27.4, alleen in vertaling) en trok hij de
+gepredikte egō-eimi-genealogie door naar Philo's Logos; Joods erkende dat de "Ik ben"-vórm
+hellenistisch van oorsprong is, maar verlegde de naaste bron naar de gejudaïseerde Wijsheid (Spreuken
+8, Ben Sira 24) en las Joh 6:35 als doelbewuste overtreffing van Sir 24:19-21. Beide assen werden
+door beide polen serieus bespeeld.
+
+**Datering-as, sterkste Vroeg:** De kale, onontwikkelde rechtzetting in Joh 21:22-23 (geen
+vertragingstheodicee zoals 2 Petrus 3 of 2 Tessalonicenzen 2), die uitgerekend de redactionele
+οἴδαμεν-laag een vroege eschatologische horizon geeft (nlm "John - exegesis", Carson en Brown;
+grondtekst Joh 21:22-23 via biblehub/NA28).
+**Datering-as, sterkste Laat:** De verklarende terzijdes Joh 3:24 (οὔπω ἦν βεβλημένος) en 11:2 (ἡ
+ἀλείψασα, vóór de zalving van hoofdstuk 12), die een lezer veronderstellen die de gevestigde traditie
+al kent en Van Kootens pijler 3 ("Johannes als oudste") omkeren (nlm "John - exegesis", Bauckham,
+Brown, Carson, Barrett; grondtekst via biblehub/NA28).
+**Karakter-as, sterkste Grieks-Romeins:** Philo, De Opificio Mundi 31, dat het kenbare licht "beeld
+van de goddelijke Logos" en bron van het zintuiglijke licht noemt, als het verband tussen Logos, licht en schepping
+die de proloog (Joh 1:1-9) spiegelt en de Wijsheidslaag als Alexandrijns-filosofisch herkent
+(brontekst perseus, primair nagezien; nlm "John - exegesis", Tobin, Dodd, Boyarin).
+**Karakter-as, sterkste Joods:** De gepredikte egō-eimi-uitspraken putten hun stof uit de joodse
+Wijsheid, met Joh 6:35 als doelbewuste overtreffing van Sir 24:19-21 en "Ik ben de deur" tegen Spr
+8:34-35 (brontekst sefaria Spr 8:34-35, primair nagezien; Sir 24 via NRSVA; nlm "John - exegesis",
+Brown, Witherington, Scott, Conzelmann).
+
+**Weging:** Op de datering-as consolideerde de ronde eerder dan dat zij verschoof. Laats synoptische
+omkering (3:24, 11:2) is primair correct waargenomen, maar binnen ons geschil dateringsneutraal: zij
+toont relatieve posterioriteit ten opzichte van de traditie en sloopt het beeld van Johannes als
+oudste evangelie, maar tilt de eindvorm niet naar de jaren negentig, en Bauckhams "John for readers
+of Mark" is met een Marcus uit de late jaren zestig zelfs verenigbaar met een vroege Johannes; Vroeg
+en Laat concederen dit punt symmetrisch. Laats genuinely-late nieuwe anker, het 1 Johannes-corpus,
+weegt licht omdat de afhankelijkheidsrichting omkeerbaar is (Brown tegenover von Wahlde tegenover
+Schnelle) en de scheuring-reconstructie van 1 Joh 2:19 door Lieu, Edwards en Bauckham als
+spiegellezing is gemarkeerd, een caveat dat Laat zelf aanhaalt. Vroegs eschatologische horizon is
+het eerste positieve argument dat de redactionele laag zelf vroeg trekt en daarmee het staande bezwaar
+("vroege signalen raken alleen de bronlaag") gedeeltelijk beantwoordt, maar het is een redenering uit
+stilzwijgen en Brown leest Johannes' gerealiseerde eschatologie juist als een rijp, mogelijk laat
+antwoord, dus het gewicht is begrensd. Per saldo neutraliseerde Laats nieuwe late aanzet zich tegen
+Vroegs nieuwe vroege aanzet; de late neiging uit ronde 3 blijft staan zonder te versterken, vandaar
+een ongewijzigde stand.
+
+Op de karakter-as is de botsing inhoudelijk het rijkst en hier beweegt de balans wél. Beide polen
+kwamen samen bij de vaststelling dat de naaste voedingsbodem van de gepredikte egō eimi en de proloog de
+hellenistisch-joodse Wijsheid is. Joods doet daarbij een reële concessie die nieuw is: de "Ik ben"-vorm
+is hellenistisch van oorsprong (Bultmann en Norden correct). Grieks-Romeins concedeert spiegelend dat
+de naaste intertekst van Joh 6:35 Sir 24:19-21 is en niet een directe Isis-spreuk, en erkent de
+Harnack/Hoskyns-minderheid die de Logos juist tegen de Griekse filosofie leest. Joods' substantiële
+winst staat: de stof van de gepredikte egō eimi is joodse Wijsheid, primair bevestigd in Spr 8:34-35
+en in de Sirach-overtreffing van Joh 6:35. Maar Grieks-Romeins' Philo-parallel, die ik primair toetste
+en die letterlijk klopt, landt op het programmatische zwaartepunt (de proloog) en herkent de
+Wijsheidslaag waarop Joods terugvalt als de Alexandrijns-diaspora, door de Griekse filosofie
+doortrokken stroom, niet de Palestijnse halacha. Dat die laag hellenistisch-joods is (Philo is zelf
+een joodse auteur), maakt dit deeldomein juist gemengd in plaats van uitgesproken joods. Daarmee
+verschuift het totale karakterbeeld een stap terug uit de joodse band richting het mengkarakter, voor
+het eerst sinds ronde 1. Geen claim is deze ronde `⚠️ onverifieerbaar`; wel weegt de Isis-aretalogie
+opnieuw iets lichter omdat Diodorus 1.27.4 alleen in Engelse vertaling (LacusCurtius/Loeb) kon worden
+bevestigd en niet tegen de Griekse grondtekst, net als in ronde 2. Nieuwe valide evidentie: Vroeg 2,
+Laat 2, Grieks-Romeins 2, Joods 1.
+
+**Primaire toetsing:** Ik koos het scharnierpunt van de karakter-as, Grieks-Romeins' nieuwe
+Philo-claim, en haalde Philo, De Opificio Mundi 31 zelf op
+(`brontekst perseus "urn:cts:greekLit:tlg0018.tlg001.1st1K-grc1:31"`). De tekst bevat letterlijk "τὸ
+δὲ ἀόρατον καὶ νοητὸν φῶς ἐκεῖνο θείου λόγου γέγονεν εἰκὼν" (dat onzichtbare, kenbare licht is beeld
+geworden van de goddelijke Logos) en "ἔστιν ὑπερουράνιος ἀστήρ, πηγὴ τῶν αἰσθητῶν ἀστέρων" (het is een
+bovenhemelse ster, bron van de zintuiglijke sterren). Het verband tussen Logos, licht en schepping dat Grieks-Romeins
+naast Joh 1:1-9 legt, staat er dus werkelijk; een eerlijke nuance begrenst het gewicht, want bij Philo
+is het licht het bééld van de Logos terwijl de proloog de Logos zelf met het licht vereenzelvigt, zodat
+het een sterke parallel is en geen identiteit of bewezen ontlening. Ter controle ook Joods' "Ik ben de
+deur"-grond getoetst (`brontekst sefaria "Proverbs 8:34-35"`): "waken aan mijn deuren ... wie mij
+vindt, vindt leven" staat er letterlijk, dus die intertekst klopt eveneens.
+
+**Afhankelijkheid secundaire bronnen:** Gemengd: de twee scharnierende karakterclaims (Philo's Logos
+en de Wijsheids-intertekst) zijn primair getoetst, terwijl de Isis-aretalogie alleen in vertaling
+bevestigd is en de hele datering-as deze ronde, naast de NT-grondtekstlezingen via biblehub, op
+secundaire commentaren rust (synoptische richting, corpusvolgorde, eschatologische ontwikkeling zijn
+literair-historische argumenten zonder afzonderlijke primaire toets).
+
+**Datering: +1 · Δ: 0** en **Karakter: +3 · Δ: −1**
+**Verhouding assen:** De assen lopen opnieuw uiteen: de datering stabiliseert op haar flauwe late
+neiging terwijl het karakter een stap terugzakt richting het mengkarakter, doordat de proloog en de
+gepredikte egō eimi zich als hellenistisch-joodse fusie laten lezen in plaats van uitgesproken joods.
 
 <!--
 FORMAT PER RONDE (kopieer dit blok niet leeg; opponenten/moderator vullen het aan):
