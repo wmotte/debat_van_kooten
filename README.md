@@ -59,6 +59,15 @@ Standaard draait het debat tot maximaal 8 rondes en stopt zodra de score 2 ronde
 
 > "Start het evangelie-debat met maximaal 4 rondes."
 
+### Een onderbroken run hervatten (optioneel)
+Stopte een run halverwege, dan kun je hem voortzetten zonder opnieuw te beginnen:
+
+> "Hervat de laatste run."
+> "Zet run-20260627-203757 voort."
+
+De orchestrator leest de bestaande run-map (`whiteboard.md`, `state.json`, `sources.md`), neemt de
+parameters en het laatste rondenummer over, en gaat verder bij de volgende ronde.
+
 | Parameter | Default | Betekenis |
 |---|---|---|
 | `MAX_RONDES` | 8 | Harde bovengrens op het aantal rondes |
@@ -66,8 +75,8 @@ Standaard draait het debat tot maximaal 8 rondes en stopt zodra de score 2 ronde
 | `CONV_GEDULD` | 2 | Aantal opeenvolgende stabiele rondes om te stoppen |
 
 ### Wat er per ronde gebeurt
-1. **Opponent A** leest het whiteboard, weerlegt de vorige beurt, zoekt online ≥1 nieuw argument/bron
-   en schrijft zijn beurt onderaan.
+1. **Opponent A** leest het whiteboard, weerlegt de vorige beurt, zoekt online ≥1 nieuw argument/bron,
+   schrijft zijn beurt onderaan en logt elke geciteerde bron in `sources.md`.
 2. **Opponent B** (de andere zijde) doet hetzelfde en ziet daarbij de verse beurt van A.
 3. De **moderator** vat de ronde samen, weegt de argumenten, markeert onverifieerbare citaten en
    geeft een score (−10..+10) met onderbouwing; hij werkt `state.json` bij.
@@ -85,12 +94,16 @@ Elke run schrijft naar een eigen map onder `debat-output/`:
 ```
 debat-output/run-<datum-tijd>/
   whiteboard.md     # het volledige debat, ronde voor ronde, met bronnen
+  sources.md        # bronnenlog: elke geciteerde bron met volledige herkomst
   state.json        # scoregeschiedenis (ronde, score, delta), machineleesbaar
   eindrapport.md    # eindoordeel, scoreverloop, sterkste argumenten, openstaande vragen
 ```
 
-Lees `eindrapport.md` voor de conclusie en `whiteboard.md` voor het volledige verloop met alle
-geciteerde bronnen.
+Lees `eindrapport.md` voor de conclusie, `whiteboard.md` voor het volledige verloop en `sources.md`
+voor de aangedragen bronnen per ronde.
+
+Een overzicht van alle uitgevoerde runs met directe links naar de eindrapporten staat in
+**[`debat-output/README.md`](debat-output/README.md)**.
 
 ---
 
@@ -110,9 +123,11 @@ geciteerde bronnen.
       bronnen.md              # seed-bibliografie (URL's), gecategoriseerd
     templates/
       whiteboard-template.md  # format van het gedeelde whiteboard
+      sources-template.md     # format van de bronnenlog per run
       state-template.json     # startstructuur voor de scoregeschiedenis
 achtergrondmateriaal/         # bronartikel over de Van Kooten-casus (.docx)
 debat-output/                 # gegenereerde runs (per run een submap)
+  README.md                   # index van alle runs met links naar de eindrapporten
 ```
 
 ### Ontwerpprincipes
