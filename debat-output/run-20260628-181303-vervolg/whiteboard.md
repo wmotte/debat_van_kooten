@@ -32,7 +32,7 @@ samenvallen. Elke as heeft **twee opponenten**, één per pool:
   Joods (overwegend joods van kleur).
 
 Van Kooten bundelt "vroeg én Grieks-Romeins"; dat is één mogelijke combinatie, geen automatisme. Een
-late Johannes kan via de Parting of the Ways juist Grikser zijn, en een vroege Johannes kan diep
+late Johannes kan via de Parting of the Ways juist meer Grieks van kleur zijn, en een vroege Johannes kan diep
 joods zijn. Daarom debatteert elke opponent strikt op zijn eigen as en scoren we de assen los van
 elkaar.
 
@@ -59,7 +59,7 @@ Karakter: negatief = neigt Grieks-Romeins, positief = neigt Joods.
   verdedigt het joodse karakter. Zij debatteren alleen over het culturele karakter.
 - **Houd de assen gescheiden.** Geen enkele opponent koppelt datering aan karakter ("vroeg dus
   Grieks", "joods dus laat"); ieder blijft op zijn eigen as.
-- Elke ronde: reageer op je tegenstander op je as, breng **≥1 nieuw** argument/bron, citeer
+- Elke ronde: reageer op je tegenstander op je as, breng **minstens één nieuw** argument/bron, citeer
   **echte, opgehaalde** bronnen, noteer concessies.
 - Bronnen mogen URL's zijn of ingelezen commentaar-notebooks (`John/Luke/Matthew/Mark - exegesis`
   via de `nlm`-tool). Nieuwe, creatieve invalshoeken zijn welkom.
@@ -80,12 +80,12 @@ Karakter: negatief = neigt Grieks-Romeins, positief = neigt Joods.
 aanwijzingen (onomastiek, het praesens *estin*, de topografie) zouden alleen de ingebedde bronlaag
 raken, terwijl de late kant met de redactionele naden (Joh 21:23-24, het οἴδαμεν, de breuk bij
 14:31) juist de eindredactie zou dateren. Dat is het werkelijke twistpunt: niet of er een vroege
-kern is, maar of de eindvorm laat is. Ik val dat twistpunt nu frontaal aan met een argument dat
+kern is, maar of de eindvorm laat is. Ik val dat twistpunt nu rechtstreeks aan met een argument dat
 bewust níet op de tijdsvorm leunt (dat is verbruikt) en dat aantoonbaar op de compositielaag van de
 evangelist zelf zit, niet op een losweekbare brokstuk-terzijde.
 
 **Nieuwe evidentie:**
-Mijn nieuwe front is juridisch en constitutioneel: de Romeinse capitale jurisdictie in Joh 18:31.
+Ik verleg het debat naar het juridische en constitutionele: de Romeinse capitale jurisdictie in Joh 18:31.
 De joodse autoriteiten zeggen daar tegen Pilatus "οὐκ ἔξεστιν ἡμῖν ἀποκτεῖναι οὐδένα", het is ons
 niet toegestaan iemand ter dood te brengen. Dit weerspiegelt de feitelijke Romeinse provinciale
 ordening waarin het *ius gladii*, het recht over leven en dood, aan de prefect was voorbehouden en
@@ -107,7 +107,7 @@ zelf mogen executeren (anders was het steniging om godslastering geworden), moet
 en juist daardoor sterft Jezus aan het Romeinse kruis, wat zijn eigen woorden over "verhoogd worden"
 vervult (Joh 12:32-33; 18:32). Het feit is dus geen antiquarische voetnoot maar de theologische spil
 van de redactie zelf. Daarmee draait dit precies de diagnose van de vorige run om: hier zit accurate
-kennis van een vóór-70 constitutionele toestand op de eindredactionele laag, niet op een afpelbare
+kennis van een constitutionele toestand van vóór 70 op de eindredactionele laag, niet op een afpelbare
 fossiele terzijde. Bron: nlm-notebook "John - exegesis", Fortna (via nlm cross query). (opgehaald:
 ja; aard: secundair; primair nagezien: n.v.t.; type: juridisch)
 
@@ -133,22 +133,22 @@ provincie als het functionerende Sanhedrin. Ik presenteer dit als suggestief, ni
 **Concessies:** Ik overspeel dit niet. Een accurate juridische herinnering kán in beginsel in een
 late tekst bewaard zijn, net zoals topografie. Mijn winst zit niet in een absoluut jaartal maar in de
 laag: anders dan de eerdere vroege aanwijzingen, die volgens mijn eigen toegeving de bronlaag raakten,
-zit deze vóór-70-accuratesse op de redactionele compositie zelf, het terrein waar de late kant zijn
+zit deze accuratesse van vóór 70 op de redactionele compositie zelf, het terrein waar de late kant zijn
 beslissende punt claimde. Dat verkleint de ruimte voor een late eindredactie, maar sluit haar niet
 uit. En ik leun hier bewust niet op het praesens ἔξεστιν: dat staat op verteltijd, niet op
 schrijftijd, en zou slechts het verbruikte *estin*-argument herhalen.
 
 #### 🕰️ Opponent Laat (late datering, post-85)
 **Reactie op vorige:** Het juridische front van Vroeg is mooi gebouwd, maar het bewijst de
-verkeerde stelling. Wat hij aantoont is dat Joh 18:31 een accurate vóór-70 constitutionele
-herinnering bewaart. Daar ben ik het mee eens. Alleen: accuratesse en compositiedatum zijn twee
-verschillende dingen, en zijn eigen primaire kroongetuige laat dat zien. Hij beroept zich op b.
+verkeerde stelling. Wat hij aantoont is dat Joh 18:31 een accurate constitutionele
+herinnering van vóór 70 bewaart. Daar ben ik het mee eens. Alleen: accuratesse en compositiedatum zijn twee
+verschillende dingen, en zijn eigen primaire getuige laat dat zien. Hij beroept zich op b.
 Sanhedrin 41a, de baraita dat de halsrechtspraak veertig jaar vóór de verwoesting van Israël werd
 weggenomen. Die baraita staat óók in de Jeruzalemse Talmoed, en ik heb haar daar zelf nagelezen:
 Jeruzalemse Talmoed Sanhedrin 1:1 zegt letterlijk "Veertig jaar voordat de Tempel werd verwoest,
 werd de halsrechtspraak van Israël weggenomen" (קוֹדֶם לְאַרְבָּעִים שָׁנָה ... נִיטְלוּ דִינֵי נְפָשׁוֹת).
 Dat is precies het punt. De Jeruzalemse Talmoed is geredigeerd rond 400, de Babylonische nog later.
-Twee corpora die eeuwen ná de gebeurtenis een exacte vóór-70 jurisdictiebreuk feilloos bewaren,
+Twee corpora die eeuwen ná de gebeurtenis een exacte jurisdictiebreuk van vóór 70 feilloos bewaren,
 bewijzen dat dit soort juridische realia volkomen losstaat van de schrijfdatum. Als de redactoren
 van de Talmoedim deze constitutionele toestand in 400 of 600 correct konden doorgeven, kan een
 evangelist in de jaren 90 dat zonder enig probleem ook. Mijn tegenargument is dus niet dat Vroeg
@@ -160,7 +160,7 @@ een lange lijn (Lietzmann, Winter, Juster, Burkill, Goguel, met Barrett voorzich
 betoogt dat het Sanhedrin de halsmacht wél behield, met Stefanus, de executie van Jakobus de
 Rechtvaardige onder Ananus (Josephus, *Antiquitates* 20.200) en de tempelbalustrade-inscriptie als
 bewijs. Als zíj gelijk hebben, is Joh 18:31 helemaal geen accurate herinnering maar een
-theologische constructie van de evangelist, en dan is het vóór-70-argument hoogstens een argument
+theologische constructie van de evangelist, en dan is het argument voor een datum vóór 70 hoogstens een argument
 voor een redactionele theologie, niet voor een vroege datum. Ten tweede ondergraaft Vroegs eigen
 beroep op Fortna hem: Fortna's model veronderstelt juist een meertraps groeiproces (een Tekenenbron
 die over decennia werd herschreven), en wie Joh 18:30-31 aan "de johanneïsche redactie" toewijst,
@@ -170,7 +170,7 @@ bouwt. Tekenend: zelfs een behoudende verdediger als Craig Blomberg concludeert 
 "John - exegesis" (via nlm cross query).
 
 **Nieuwe evidentie:**
-Mijn nieuwe front ligt in de receptiegeschiedenis, een discipline die in de vorige run niet werd
+Mijn nieuwe lijn ligt in de receptiegeschiedenis, een discipline die in de vorige run niet werd
 gebruikt (daar ging het over interne naden en interne terzijdes, niet over de externe voetafdruk
 bij de kerkvaders). De vraag is simpel: als Johannes het oudste evangelie was (Van Kootens pijler,
 vóór 66, en de bron waaruit Mattheüs en Lucas putten), wat voor receptiepatroon zouden we dan
@@ -192,9 +192,9 @@ bovengrens (Ignatius, circa 110) als de hele geleerde reconstructie van de recep
 tekst in het laatste kwart van de eerste eeuw. Dat is precies mijn band, en het sluit Van Kootens
 fundament-thesis uit.
 - Receptiegeschiedenis: de externe attestatie (Ignatius circa 107-110 als terminus ante quem; eerste commentaar Heracleon circa 160-180; orthodoxe verankering pas bij Irenaeus circa 180) en de gehele geleerde reconstructie ervan (Bauer-Brown-Barrett én de tegenpool Charles Hill) convergeren op een compositie in de late eerste eeuw, nooit vóór 70. Raakt as: datering. Bron: nlm-notebook "John - exegesis" (opgehaald: ja; aard: secundair; primair nagezien: n.v.t., Ignatius niet in de Perseus-repo, fetch faalde 404; type: historisch/receptiegeschiedenis)
-- Weerlegging Vroeg: de "veertig jaar"-baraita over het verlies van de halsrechtspraak staat óók in de Jeruzalemse Talmoed (Sanhedrin 1:1), eeuwen ná 70 geredigeerd; accurate vóór-70 juridische realia is daarmee aantoonbaar dateringsneutraal. Raakt as: datering. Bron: Sefaria, Jeruzalemse Talmoed Sanhedrin 1:1 (opgehaald: ja; aard: primair; primair nagezien: ja, via brontekst sefaria "Jerusalem Talmud Sanhedrin 1:1", de zin "Forty years before the Temple was destroyed, criminal jurisdiction was removed from Israel" staat er letterlijk; type: juridisch/historisch)
+- Weerlegging Vroeg: de "veertig jaar"-baraita over het verlies van de halsrechtspraak staat óók in de Jeruzalemse Talmoed (Sanhedrin 1:1), eeuwen ná 70 geredigeerd; accurate juridische realia van vóór 70 is daarmee aantoonbaar dateringsneutraal. Raakt as: datering. Bron: Sefaria, Jeruzalemse Talmoed Sanhedrin 1:1 (opgehaald: ja; aard: primair; primair nagezien: ja, via brontekst sefaria "Jerusalem Talmud Sanhedrin 1:1", de zin "Forty years before the Temple was destroyed, criminal jurisdiction was removed from Israel" staat er letterlijk; type: juridisch/historisch)
 
-**Concessies:** Ik geef toe dat de receptiegeschiedenis op zichzelf vooral een bovengrens vastlegt en niet zelfstandig de ondergrens naar 85 duwt; haar kracht is negatief, namelijk dat zij Van Kootens pijler van Johannes als vroegst en foundationeel evangelie niet reproduceert. En ik erken dat Hills reconstructie de "trage orthodoxe receptie" betwist; mijn punt is juist dat zelfs zijn vroege-receptie-model bij de jaren 90 uitkomt, niet vóór 70. Het juridische feit van Vroeg laat ik staan als accuraat; ik betwist alleen de gevolgtrekking naar de datum.
+**Concessies:** Ik geef toe dat de receptiegeschiedenis op zichzelf vooral een bovengrens vastlegt en niet zelfstandig de ondergrens naar 85 duwt; haar kracht is negatief, namelijk dat zij Van Kootens pijler van Johannes als vroegst en grondleggend evangelie niet reproduceert. En ik erken dat Hills reconstructie de "trage orthodoxe receptie" betwist; mijn punt is juist dat zelfs zijn vroege-receptie-model bij de jaren 90 uitkomt, niet vóór 70. Het juridische feit van Vroeg laat ik staan als accuraat; ik betwist alleen de gevolgtrekking naar de datum.
 
 ### Karakter-as
 
@@ -203,7 +203,7 @@ fundament-thesis uit.
 op de joodse positie zoals die in de vorige run uitkristalliseerde. Daar luidde de slotsom dat het
 programmatische zwaartepunt van het evangelie (proloog, gepredikte *egō eimi*) weliswaar een
 hellenistisch-joodse Wijsheidslaag deelt, maar dat de johanneïsche christologie in de kern joods van
-substantie is. Ik open nu een front dat in de vorige run helemaal niet aan bod kwam en dat precies dit
+substantie is. Ik betreed nu een terrein dat in de vorige run helemaal niet aan bod kwam en dat precies dit
 zwaartepunt verlegt: niet de proloog, maar de narratieve climax van het evangelie en zijn enige
 expliciete heilstitel. Die climax is niet in het idioom van de Palestijnse Wijsheid gegoten, maar in
 dat van de Grieks-Romeinse keizercultus.
@@ -260,7 +260,7 @@ epigrafisch grondcorpus geverifieerd, wat dit ene punt iets lichter maakt.
 
 #### ✡️ Opponent Joods (joods karakter)
 **Reactie op vorige:** Grieks-Romeins zette zijn beste kaart op "redder van de wereld" (Joh 4:42), en
-gaf zelf al toe dat zijn andere kaart, Thomas' belijdenis, oudtestamentisch verankerd is in Psalm 35
+gaf zelf al toe dat zijn andere kaart, Thomas' belijdenis, oudtestamentisch geworteld is in Psalm 35
 LXX. Op die sterkste kaart wil ik hem ontmoeten, want daar valt de zaak juist andersom uit. De
 semantische matrix van *sōtēr* plus universele reikwijdte is niet de keizercultus maar Deutero-Jesaja.
 Jesaja 45:21-22 verklaart God tot de enige redder, "een rechtvaardige God en een verlosser (מוֹשִׁיעַ),
@@ -271,8 +271,8 @@ monotheïstische polemiek tegen alle rivalen. Ik heb die verzen zelf nagelezen; 
 de wending "alle einden der aarde" staan er letterlijk. Richard Bauckham wijst voor Joh 4:42 nadrukkelijk
 naar ditzelfde Jesaja 45:21-24 LXX als de dragende achtergrond, en Marianne Meye Thompson noemt de hele
 reeks Jes 43:3,11; 45:15,21-22; 49:26 waarin "redder" Gods eigen oudtestamentische titel met universele
-strekking is. De keizerlijke titel kán meeklinken als contrast, maar contrast is geen herkomst. Sterker
-nog dan dat woordveld is de dramatische enscenering tegen Grieks-Romeins: de uitroep komt uit de mond
+strekking is. De keizerlijke titel kán meeklinken als contrast, maar contrast is geen herkomst. Zwaarder
+dan dat woordveld weegt de dramatische enscenering tegen Grieks-Romeins: de uitroep komt uit de mond
 van Samaritanen, die hun canon tot de Pentateuch beperken en wier verwachting de Taheb is, de profeet
 als Mozes uit Deuteronomium 18:15-18. Een Romeins-keizerlijk referentiekader is voor díe sprekers
 juist het minst plausibele; een joods-Schriftuurlijk verlossingskader, gefilterd door de evangelist,
@@ -281,7 +281,7 @@ niet vanuit Priene. Bron: nlm-notebook "John - exegesis", Bauckham, Thompson, Bo
 cross query); primair getoetst aan Jesaja 45:21-22.
 
 **Nieuwe evidentie:**
-Mijn nieuwe front is halachisch en archeologisch, een laag die de vorige run helemaal niet aanboorde:
+Een onbesproken invalshoek is halachisch en archeologisch, een laag die de vorige run helemaal niet aanboorde:
 de reinheidshalacha achter het eerste teken te Kana. Joh 2:6 vermeldt niet zomaar zes waterkruiken,
 maar zes *stenen* kruiken, uitdrukkelijk "voor de reiniging van de Joden". Dat het materiaal steen is,
 is geen schilderachtig detail maar precieze halacha. Naar joods reinheidsrecht is aardewerk dat
@@ -291,16 +291,16 @@ Misjna Kelim 10:1 rekent כְּלֵי אֲבָנִים, stenen vaatwerk, tot de 
 Misjna Para 3:2 beschrijft hoe men bij het rode-koe-ritueel kinderen juist met כּוֹסוֹת שֶׁל אֶבֶן,
 stenen bekers, water uit de Siloam liet scheppen, omdat steen geen grafonreinheid aanneemt. Precies dit
 beginsel verklaart waarom een reinigingsinstallatie bij een bruiloft in steen is uitgevoerd en herbruikbaar
-blijft. Dit is geen latere rabbijnse projectie: er bestaat een uitgebreide vóór-70 chalksteen-industrie,
+blijft. Dit is geen latere rabbijnse projectie: er bestaat een uitgebreide chalksteen-industrie van vóór 70,
 door archeoloog Yitzhak Magen gedocumenteerd, met een grote werkplaats in de Hizma-grotten ten noorden
 van Jeruzalem, en stenen vaten van het door Johannes genoemde formaat (twee tot drie metretes, ongeveer
 tachtig tot honderdtwintig liter). Bij Khirbet Qana, de waarschijnlijke locatie, zijn zulke
-chalksteenresten naast mikwaot gevonden. De evangelist verankert het programmatische eerste teken dus in
+chalksteenresten naast mikwaot gevonden. De evangelist grondt het programmatische eerste teken dus in
 een specifiek joods-Palestijnse reinheidspraktijk die een Grieks-Romeins kader niet kan thuisbrengen:
 een Griekse of Romeinse lezer had geen reden stenen vaten met onvatbaarheid voor *tum'a* te associëren.
 Bron: nlm-notebook "John - exegesis", commentaar Marianne Meye Thompson, Urban C. von Wahlde (Magen-archeologie),
 Leon Morris, Jo-Ann Brant, Paul Rainbow (Kelim/Para), Craig Koester, Amy-Jill Levine (via nlm cross query).
-- De stenen kruiken van Joh 2:6 reflecteren de halacha dat steen onvatbaar is voor rituele onreinheid, en sluiten aan op de archeologisch geattesteerde vóór-70 chalksteen-industrie (Magen). Raakt as: karakter. Bron: nlm-notebook "John - exegesis" (opgehaald: ja; aard: secundair; primair nagezien: ja, via brontekst sefaria "Mishnah Kelim 10:1" en "Mishnah Parah 3:2", de stenen-vaatwerk-immuniteit resp. de "stenen bekers" staan er letterlijk; type: halachisch/archeologisch)
+- De stenen kruiken van Joh 2:6 reflecteren de halacha dat steen onvatbaar is voor rituele onreinheid, en sluiten aan op de archeologisch geattesteerde chalksteen-industrie van vóór 70 (Magen). Raakt as: karakter. Bron: nlm-notebook "John - exegesis" (opgehaald: ja; aard: secundair; primair nagezien: ja, via brontekst sefaria "Mishnah Kelim 10:1" en "Mishnah Parah 3:2", de stenen-vaatwerk-immuniteit resp. de "stenen bekers" staan er letterlijk; type: halachisch/archeologisch)
 - "Redder van de wereld" (Joh 4:42) heeft zijn matrix in Deutero-Jesaja's monotheïstisch universalisme (Jes 45:21-22, God als enige *moshia* die "alle einden der aarde" redt), niet in de keizercultus; bovendien gesproken door Samaritanen met een Taheb-verwachting (Deut 18). Raakt as: karakter. Bron: nlm-notebook "John - exegesis" (opgehaald: ja; aard: secundair; primair nagezien: ja, via brontekst sefaria "Isaiah 45:21-22", *moshia* en "alle einden der aarde" staan er letterlijk; type: exegetisch/literair)
 
 **Concessies:** Ik geef Grieks-Romeins één ding ruiterlijk toe: bij Joh 4:42 is de keizerlijke
@@ -314,23 +314,23 @@ chalksteen-industrie bloeide aantoonbaar al ruim vóór 70.
 
 ### ⚖️ Moderator (stand van zaken)
 **Samenvatting ronde:** Beide assen kregen ditmaal een gloednieuwe discipline. Op de datering-as
-opende Vroeg een juridisch front (de capitale jurisdictie van Joh 18:31 als vóór-70 realia op de
-redactielaag, niet op een afpelbare bronlaag), en Laat counterde met receptiegeschiedenis plus een
+opende Vroeg een juridisch front (de capitale jurisdictie van Joh 18:31 als realia van vóór 70 op de
+redactielaag, niet op een afpelbare bronlaag), en Laat pareerde met receptiegeschiedenis plus een
 scherpe weerlegging: dezelfde "veertig jaar"-baraita over het verlies van de halsrechtspraak staat
 ook in de eeuwen later geredigeerde Jeruzalemse Talmoed, wat de juridische accuratesse aantoonbaar
 losmaakt van de schrijfdatum. Op de karakter-as zette Grieks-Romeins in op keizerlijke titulatuur
 (Thomas' belijdenis tegenover Domitianus' "dominus et deus noster", en "redder van de wereld" als
 keizertitel), waarop Joods de sterkste kaart (Joh 4:42) terugvoerde op Deutero-Jesaja en daarbovenop
-een hard halachisch-archeologisch argument legde (de stenen kruiken van Joh 2:6 en de vóór-70
-chalksteen-industrie). Beide polen op beide assen waren serieus bemand.
+een hard halachisch-archeologisch argument legde (de stenen kruiken van Joh 2:6 en de
+chalksteen-industrie van vóór 70). Beide polen op beide assen waren serieus bemand.
 
 **Datering-as, sterkste Vroeg:** De capitale jurisdictiebreuk van Joh 18:31 weerspiegelt accuraat de
 Romeinse provinciale ordening van vóór 70 en zit blijkens Fortna op de johanneïsche redactie, niet op
 de bronlaag; bevestigd door b. Sanhedrin 41a (nlm "John - exegesis"; Sefaria, Sanhedrin 41a).
 
 **Datering-as, sterkste Laat:** Diezelfde baraita staat ook in de Jeruzalemse Talmoed (Sanhedrin
-1:1), rond 400 geredigeerd, wat aantoont dat correcte vóór-70 juridische realia dateringsneutraal is;
-aangevuld met receptiegeschiedenis die Van Kootens pijler van Johannes als oudste/foundationeel
+1:1), rond 400 geredigeerd, wat aantoont dat correcte juridische realia van vóór 70 dateringsneutraal is;
+aangevuld met receptiegeschiedenis die Van Kootens pijler van Johannes als oudste/grondleggend
 evangelie niet reproduceert (Sefaria, Yerushalmi Sanhedrin 1:1; nlm "John - exegesis").
 
 **Karakter-as, sterkste Grieks-Romeins:** John giet zijn christologische climax in keizerlijk idioom:
@@ -339,30 +339,30 @@ bevestigd in Suetonius (Perseus, *Divus Domitianus* 13.2; nlm "John - exegesis")
 
 **Karakter-as, sterkste Joods:** De stenen kruiken van Joh 2:6 "voor de reiniging" volgen de halacha
 dat steen onvatbaar is voor *tum'a* (Kelim 10:1, Para 3:2) en haken aan op de archeologisch harde
-vóór-70 chalksteen-industrie (Magen), een specifiek joods-Palestijns gegeven dat een Grieks-Romeins
+chalksteen-industrie van vóór 70 (Magen), een specifiek joods-Palestijns gegeven dat een Grieks-Romeins
 kader niet thuisbrengt (Sefaria, Mishnah Kelim 10:1 en Parah 3:2; nlm "John - exegesis").
 
 **Weging:** Op de datering-as deed Vroeg sterk primair werk, maar zijn eigen kroongetuige keerde zich
 tegen hem: omdat de halsrechtspraak-baraita in twee corpora eeuwen ná de gebeurtenis feilloos bewaard
-bleef, bewijst accurate vóór-70 kennis niets over de compositiedatum, en Vroeg gaf dat ook ruiterlijk
+bleef, bewijst accurate kennis van vóór 70 niets over de compositiedatum, en Vroeg gaf dat ook ruiterlijk
 toe ("mijn winst zit niet in een absoluut jaartal maar in de laag"). Laats receptie-argument weegt
 mee maar is grotendeels negatief, en hij erkende zelf dat het vooral een bovengrens vastlegt en de
 ondergrens niet naar 85 duwt; de scherpste bite is dat de externe voetafdruk Van Kootens "oudste
 evangelie"-pijler niet reproduceert. Samen verschuift dat de balans een klein stapje richting laat,
-zonder knockout. Op de karakter-as won Joods de uitwisseling op bewijskracht: hij ving de beste kaart
+zonder genadeslag. Op de karakter-as won Joods de uitwisseling op bewijskracht: hij ving de beste kaart
 van de tegenpartij (Joh 4:42) op met de primair getoetste Jesaja-matrix en plaatste daarnaast een
-halachisch exact, archeologisch verankerd en onweersproken argument; Grieks-Romeins behoudt wel een
+halachisch exact, archeologisch onderbouwd en onweersproken argument; Grieks-Romeins behoudt wel een
 reële winst, want hij toonde overtuigend dat de dramatische slotaccenten in keizerlijk idioom zijn
 ingekaderd, en Joods concedeerde de subversie-klankbodem. Dat houdt de as een lichte joodse kant op
 binnen een gemengd register (joodse substantie, hellenistisch-Romeinse retorische inkadering). De
 Priene-inscriptie weegt iets lichter omdat zij alleen in vertaling en niet tegen het epigrafisch
-grondcorpus is nagezien; geen enkel citaat oogde verzonnen, dus geen ⚠️ onverifieerbaar-markeringen.
+grondcorpus is nagezien; geen van de citaten oogde verzonnen, dus geen ⚠️ onverifieerbaar-markeringen.
 
 **Primaire toetsing:** Ik koos de twee scharnierclaims van de ronde. Eerst de datering-spil: ik haalde
 de Jeruzalemse Talmoed Sanhedrin 1:1 op (`brontekst sefaria "Jerusalem Talmud Sanhedrin 1:1"`) en de
 zin staat er letterlijk, "Forty years before the Temple was destroyed, criminal jurisdiction was
 removed from Israel" (קוֹדֶם לְאַרְבָּעִים שָׁנָה ... נִיטְלוּ דִינֵי נְפָשׁוֹת). Laats stelling dat
-dezelfde vóór-70 realia eeuwen later correct is doorgegeven, en dus dateringsneutraal, klopt. Daarna
+dezelfde realia van vóór 70 eeuwen later correct is doorgegeven, en dus dateringsneutraal, klopt. Daarna
 de karakter-spil: Jesaja 45:21-22 (`brontekst sefaria "Isaiah 45:21-22"`) bevat woordelijk אֵל־צַדִּיק
 וּמוֹשִׁיעַ ("een rechtvaardige God en een verlosser") en פְּנוּ־אֵלַי וְהִוָּשְׁעוּ כׇּל־אַפְסֵי־אָרֶץ
 ("wendt u tot Mij en wordt verlost, alle einden der aarde"), zodat de Deutero-Jesajaanse matrix achter
@@ -390,7 +390,7 @@ materiaal, dus zij lopen parallel zonder dat het ene het andere stuurt.
 **Reactie op vorige:** Vroegs juridische front uit ronde 1 bewees accuratesse, geen schrijfdatum, en
 die scheiding maakte ik in ronde 1 al hard met de Yerushalmi-parallel; dat herhaal ik niet. Eén losse
 draad verdient nog weerlegging: zijn suggestieve "asymmetrie", dat de evangelist vreemde joodse realia
-wél glosseert (2:6, 4:9, 19:40) maar de jurisdictiebeperking níet, wat op een nabij vóór-70 publiek
+wél glosseert (2:6, 4:9, 19:40) maar de jurisdictiebeperking níet, wat op een nabij publiek van vóór 70
 zou wijzen. Dat snijdt geen hout. Ten eerste glosseert de verteller de overdracht aan Pilatus juist
 wél: in Joh 18:32 staat een verklarende terzijde ("opdat het woord van Jezus vervuld zou worden,
 waarmee hij aanduidde welke dood hij sterven zou"), precies de uitleg die een lezer nodig heeft die
@@ -401,7 +401,7 @@ niet voor Judeeërs voor wie dit dagelijkse kost was. Het ontbreken van één gl
 dus geen dateringsgewicht; het patroon als geheel wijst eerder op afstand.
 
 **Nieuwe evidentie:**
-Mijn nieuwe front is de theologie-ontwikkeling, en wel pneumatologie en eschatologie, een discipline
+Hier breng ik de theologie-ontwikkeling in, en wel pneumatologie en eschatologie, een discipline
 die in deze run nog niet op de datering-as lag (ronde 1 ging over externe receptie, de vorige run over
 redactienaden). Het argument staat los van het culturele karakter van de tekst: het meet een
 verschuiving in de eschatologische structuur ten opzichte van een hard gedateerd ijkpunt, en is dus
@@ -459,7 +459,7 @@ traditionele toekomstverwachting. Heden en toekomst staan bij hem in spanning na
 elkaar niet, en Jörg Frey verwerpt Bultmanns wegredigeren van de toekomstteksten. Er is dus geen
 gemeten "wegbewegen van de nabije verwachting"; beide polen zijn er, zoals ook bij Paulus zelf, die
 naast 1 Tess 4:15 al een uitgesproken presente lijn heeft (2 Kor 5:17 "een nieuwe schepping"; Rom 6:4
-"met hem begraven"). Ten derde, en dat is beslissend: Laats eigen kroongetuige ontmantelt de klok.
+"met hem begraven"). Ten derde, en dat is beslissend: Laats eigen getuige ontmantelt de klok.
 Raymond Brown noemt theologische ontwikkeling met zoveel woorden een "onbetrouwbare chronometer" en
 stelt dat er in de theologie van Johannes niets is dat een datering in de eerste eeuw uitsluit, en dat
 veel van Johannes' denken niet "later" is dan dat van Paulus' Romeinenbrief uit de jaren 50. Dat Brown
@@ -473,12 +473,12 @@ nlm-notebook "John - exegesis", commentaar Brown, Schnackenburg, Käsemann, Cars
 cross query).
 
 **Nieuwe evidentie:**
-Ik open een nieuw front op de discipline die in dit hele vervolgdebat nog niet aan bod kwam: de
+Ik haal er een discipline bij die in dit hele vervolgdebat nog niet aan bod kwam: de
 geschiedenis van de joodse synagogale tucht. En ik doe dat preventief, want ik haal het sterkste interne
 argument van de late kant onderuit nog voordat het op tafel komt. Dat argument is dat van J. Louis Martyn:
 de drie aposynagōgos-passages (Joh 9:22; 12:42; 16:2, "uit de synagoge geworpen worden") zouden de Birkat
 ha-Minim weerspiegelen, de vloek over de ketters die rond 85-90 op de "synode van Jamnia" zou zijn
-ingevoerd, en daarmee zou Johannes ná 85 geschreven zijn. Dit is decennialang het beslissende anker
+ingevoerd, en daarmee zou Johannes ná 85 geschreven zijn. Dit is decennialang het beslissende steunpunt
 geweest voor een late eindredactie. Het houdt geen stand meer, en wel op drie punten.
 
 Ten eerste is de "synode van Jamnia" grotendeels een wetenschappelijke constructie. Daniel Boyarin betoogt
@@ -491,9 +491,9 @@ joodse sektariërs (minim) was en dat het woord notzrim (Nazoreeërs/christenen)
 bovendien hadden Palestijnse rabbijnen in de eerste eeuw geen jurisdictie om zo'n bede op te leggen aan
 synagogen door de hele Grieks-Romeinse diaspora. Ten derde, en dat is het hardst, bestond uitsluiting uit
 een joodse geloofsgemeenschap ruim vóór 70. Dit is geen accuraatheidsargument van het type dat in ronde 1
-dateringsneutraal bleek; ik beweer niet dat Johannes' kennis van een vóór-70 toestand hem vroeg dateert.
+dateringsneutraal bleek; ik beweer niet dat Johannes' kennis van een toestand van vóór 70 hem vroeg dateert.
 Ik beweer het omgekeerde en sterkere: de premisse dat het uitstotingsmotief een datum ná 85 vereist is
-onwaar, omdat het verschijnsel zelf vóór 70 bestond. Daarmee valt de vloer onder "post-85" weg.
+onwaar, omdat het verschijnsel zelf vóór 70 bestond. Daarmee valt de vloer onder "ná 85" weg.
 
 Die laatste claim heb ik primair getoetst, en zij houdt op twee onafhankelijke bronnen stand. Ezra 10:8
 bepaalt dat wie niet binnen drie dagen verschijnt "afgezonderd zal worden uit de gemeente" (יִבָּדֵל
@@ -503,7 +503,7 @@ de "reine Maaltijd" als permanente verbanning: wie één woord van de Wet van Mo
 expelled from the Council of the Community and shall return no more", en wie de gemeenschap belastert
 "shall be expelled from among them and shall return no more". Een Palestijns-joodse gemeenschap kende dus
 ruim vóór 70 een formeel verbanningsapparaat. Wie aposynagōgos wil gebruiken om Johannes ná 85 te
-verankeren, moet eerst verklaren waarom een vóór-70 evangelist niet over hetzelfde verschijnsel kon
+verankeren, moet eerst verklaren waarom een evangelist van vóór 70 niet over hetzelfde verschijnsel kon
 schrijven dat Ezra en de Qumran-gemeente al kenden. Bron: nlm-notebook "John - exegesis" (Boyarin,
 Reinhartz, Kimelman, Meeks, Bernier, Klink, Morris via nlm cross query); primair getoetst aan Ezra 10:8
 (Sefaria) en aan de 1QS-strafcode (notebook "De Complete Dode Zeerollen", Engelse vertaling).
@@ -536,14 +536,14 @@ rechtstreeks tot Jezus. Dat "mijn Heer en mijn God" is precies de gebedstaal van
 de bidder JHWH persoonlijk aanspreekt. Ik heb de dragende parallel zelf nagelezen: Psalm 35:23 heeft
 woordelijk אֱלֹהַ֖י וַאדֹנָ֣י, "mijn God en mijn Heer", dezelfde dubbelaanspraak in omgekeerde
 volgorde, en vergelijkbaar Psalm 5:3 en 84:4 ("mijn Koning en mijn God"). De doublure kyrios plus
-theos is bovendien de vaste Septuagint-weergave van het paar JHWH en Elohim. Thomas spreekt dus geen
+theos is bovendien de vaste Septuaginta-weergave van het paar JHWH en Elohim. Thomas spreekt dus geen
 keizerlijke kanselarijtitel uit maar een liturgische doxologie uit de joodse gebedstraditie. De
 keizerlijke acclamatie kan als contrastklank meeklinken, zoals bij Joh 4:42, maar de taalvorm zelf,
 de persoonlijke vocatief met possessief, komt uit de synagogale en psalmische eredienst, niet uit de
 Romeinse bestuurspraktijk. Bron: nlm-notebook "John - exegesis"; primair getoetst aan Psalm 35:23.
 
 **Nieuwe evidentie:**
-Ik open een nieuw liturgisch-exegetisch front op een feest dat in dit hele debat nog niet is
+Een verse liturgisch-exegetische invalshoek dient zich aan rond een feest dat in dit hele debat nog niet is
 aangeraakt: Chanoeka, het Inwijdingsfeest, achter Joh 10:22-39. De evangelist dateert de scène
 nauwkeurig: "het was het feest van de Tempelwijding te Jeruzalem; het was winter" (Joh 10:22). Dat
 "het was winter" is geen weerbericht maar een liturgische aanwijzing, want Chanoeka valt op 25 Kislev.
@@ -606,7 +606,7 @@ acclamatie aan een aanwezige heer-en-god" is in de jaren negentig juist het keiz
 uitstek.
 
 **Nieuwe evidentie:**
-Mijn nieuwe front is narratologisch-dramaturgisch, een discipline die in dit hele debat nog niet aan
+Deze ronde kies ik een narratologisch-dramaturgische invalshoek, een discipline die in dit hele debat nog niet aan
 bod kwam: de Griekse herkenningsscène (ἀναγνώρισις) als de dragende verhaalgrammatica van Johannes.
 Niet een los motief, maar de structuur waarmee het evangelie zijn lezer door het boek voert.
 Aristoteles codificeert de vorm in de Poetica, hoofdstuk 11, en ik heb de definitie primair opgehaald:
@@ -649,18 +649,18 @@ Griekse heerserskader van het Antiochus-contrast, niet in een vervanging van de 
 ### ⚖️ Moderator (stand van zaken)
 **Samenvatting ronde:** Op de datering-as zette Laat een theologie-ontwikkelingsargument neer
 (gerealiseerde eschatologie en Paraklen-leer als tweedegeneratie-verschijnsel, gemeten tegen Paulus'
-nog nabije verwachting in 1 Tess 4:15), maar dekte het zelf zwaar in. Vroeg counterde scherp en
-ontmantelde bovendien preventief het traditioneel sterkste interne late anker, de
+nog nabije verwachting in 1 Tess 4:15), maar dekte het zelf zwaar in. Vroeg pareerde scherp en
+ontmantelde bovendien preventief het traditioneel sterkste interne late steunpunt, de
 Martyn-these over de Birkat ha-Minim, door te tonen dat formele uitsluiting uit een joodse
 gemeenschap al ruim vóór 70 bestond (Ezra 10:8, 1QS). Op de karakter-as botsten twee sterke,
-primair gestaafde nieuwe fronten frontaal: Joods verankerde de christologie van Joh 10 in de
+primair gestaafde nieuwe invalshoeken recht tegenover elkaar: Joods grondde de christologie van Joh 10 in de
 Chanoeka-consecratietaal (ἡγίασεν tegen חנוכת המזבח), terwijl Grieks-Romeins de Griekse
 herkenningsscène (ἀναγνώρισις, Aristoteles Poetica 11) als dragende verhaalgrammatica van het hele
 evangelie inbracht en het Thomas-registeronderscheid aanvocht.
 
 **Datering-as, sterkste Vroeg:** Het uitstotingsmotief (Joh 9:22; 12:42; 16:2) vereist geen datum ná
 85, want formele verbanning uit een joodse gemeenschap bestond aantoonbaar vóór 70 (Ezra 10:8,
-"afgezonderd uit de gemeente"; de 1QS-strafcode), waarmee de vloer onder het Birkat ha-Minim-anker
+"afgezonderd uit de gemeente"; de 1QS-strafcode), waarmee de vloer onder de Birkat ha-Minim-grondslag
 wegvalt (Sefaria, Ezra 10:8; nlm "John - exegesis" met Boyarin, Reinhartz, Kimelman, Meeks).
 
 **Datering-as, sterkste Laat:** De gerealiseerde eschatologie (Joh 5:24-25) en de Paraklen-leer (Joh
@@ -687,16 +687,16 @@ gerealiseerde eschatologie geen betrouwbare klok is, dat Johannes een sterke toe
 behoudt (6:39-54; 5:28-29) en dat zijn punt probabilistisch blijft. Vroeg versterkte dat met de
 observatie dat presente eschatologie al in de oudste traditie zit (Mt 12:28; Lc 17:21) en dat zelfs
 Browns eigen oordeel theologische ontwikkeling een "onbetrouwbare chronometer" noemt. Bovenal nam
-Vroeg het traditioneel beslissende interne late anker, de Birkat ha-Minim/Jamnia-these, preventief
+Vroeg het traditioneel beslissende interne late steunpunt, de Birkat ha-Minim/Jamnia-these, preventief
 weg. Dat argument is wel dateringsneutraal van aard, zoals Vroeg ruiterlijk concedeerde: het haalt de
-vloer onder post-85 weg maar bewijst zelf geen datum vóór 70. De residuele late neiging berust dus nu
+vloer onder ná 85 weg maar bewijst zelf geen datum vóór 70. De residuele late neiging berust dus nu
 vooral nog op het receptie-argument uit ronde 1 (Van Kootens "oudste evangelie"-pijler wordt niet
 gereproduceerd), en die staat. Per saldo schuift de datering-as één punt terug richting het midden.
 
 Op de karakter-as botsten twee even sterke, primair gestaafde fronten. Joods' Chanoeka-argument is
 exegetisch scherp en primair bevestigd, maar Grieks-Romeins concedeerde de feestlens grotendeels en
 verlegde zijn winst naar de hellenistisch-joodse literaire bedding (Grieks gestelde Makkabeeënboeken,
-de naam ἐγκαίνια, het Antiochus-als-θεὸς-ἐπιφανής-contrast). Tegelijk bracht Grieks-Romeins met de
+de naam ἐγκαίνια, en het contrast waarin Antiochus zich als θεὸς ἐπιφανής liet vereren). Tegelijk bracht Grieks-Romeins met de
 anagnorisis voor het eerst een sterk, generaliseerbaar én primair getoetst structureel argument in dat
 de Griekse kant herstelt: niet een los motief maar de verhaalgrammatica van het hele boek, met een
 woordelijk kloppende Aristoteles-definitie als drager. Op Thomas heroverde hij bovendien terrein:
@@ -705,7 +705,7 @@ wél als tweede-persoons acclamatie), terwijl de psalmische klankbodem onbetwist
 karakter-uitwisseling deze ronde dichter bij evenwicht dan in ronde 1, toen Grieks-Romeins' keizercultus
 grotendeels werd gepareerd. De as blijft joods leunen (het reinheidshalacha- en Jesaja-fundament uit
 ronde 1 staat, de diepste christologische verwijzingswereld is joods), maar het Griekse structurele
-tegengewicht is reëel en getoetst, dus de as schuift één punt richting het midden. Geen enkel citaat
+tegengewicht is reëel en getoetst, dus de as schuift één punt richting het midden. Niets in de aangehaalde citaten
 oogde verzonnen; geen ⚠️ onverifieerbaar-markeringen.
 
 **Primaire toetsing:** Ik toetste de drie scharnierclaims van de ronde, één per omstreden front.
@@ -728,7 +728,7 @@ op secundaire commentaren rusten.
 **Datering: +1 · Δ: −1** en **Karakter: +3 · Δ: −1**
 
 **Verhouding assen:** Beide assen bewogen deze ronde één punt naar het midden, maar om geheel
-onafhankelijke redenen: de datering omdat Vroeg een laat anker wegnam, het karakter omdat Grieks-Romeins
+onafhankelijke redenen: de datering omdat Vroeg een laat steunpunt wegnam, het karakter omdat Grieks-Romeins
 een sterk Grieks structureel front opende, zodat de bewegingen toevallig parallel lopen zonder dat de
 ene as de andere stuurt.
 
@@ -763,7 +763,7 @@ worden. Die aanlooptijd is vriendelijker voor een vroegere compositie dan voor e
 de eeuwwisseling.
 
 **Nieuwe evidentie:**
-Mijn nieuwe front is papyrologisch en codicologisch, een discipline die in deze hele run nog niet op
+Ik richt me nu op het papyrologische en codicologische, een discipline die in deze hele run nog niet op
 de datering-as lag (ronde 1 ging over juridische realia en externe citaten bij de kerkvaders, ronde 2
 over theologie-ontwikkeling en synagogale tucht).
 
@@ -806,9 +806,9 @@ rustte, het receptie-argument, is door de papyrologische realiteit ondergraven. 
 de late kant zonder de vroege datum zelfstandig te bewijzen.
 
 #### 🕰️ Opponent Laat (late datering, post-85)
-**Reactie op vorige:** Vroeg deed twee dingen met de papyri, en bij beide keer ik hem het mes terug.
+**Reactie op vorige:** Vroeg deed twee dingen met de papyri, en bij beide gebruik ik zijn eigen argument tegen hem.
 Zijn dragende punt is de geaggregeerde voetafdruk: Johannes is met zesentwintig handschriften het
-breedst geattesteerde boek, en Llewelyn ziet geen periode-skew, dus de "Johannophobie"-constructie van
+breedst geattesteerde boek, en Llewelyn ziet geen vertekening per periode, dus de "Johannophobie"-constructie van
 Bauer en Aland stort in. Goed. Maar die constructie was nooit mijn dragende pijler. In ronde 1 schreef
 ik met zoveel woorden dat mijn receptie-argument "vooral een bovengrens vastlegt" en dat juist beide
 concurrerende reconstructies erop uitkomen, zowel de Bauer-Brown-Barrett-school áls haar conservatieve
@@ -829,10 +829,10 @@ Hij ontsnapt er alleen aan door P52's vroege datum te verloochenen, en dan houdt
 verspreidingsargument meer over. Hoe je het ook wendt, de papyrologie raakt Van Kootens "oudste
 evangelie"-pijler niet, want die pijler gaat over de eerste-eeuwse verhouding tot Mattheüs en Lucas,
 een vraag die afschriften uit de derde eeuw niet kunnen bereiken. Die vraag beslecht je op relatieve
-chronologie, en daar open ik nu mijn front.
+chronologie, en daar open ik nu mijn aanval.
 
 **Nieuwe evidentie:**
-Mijn nieuwe front is de relatieve chronologie, een discipline die in deze hele run nog niet op de
+Ik open het terrein van de relatieve chronologie, een discipline die in deze hele run nog niet op de
 datering-as lag (ronde 1 ging over externe receptie, ronde 2 over theologie-ontwikkeling en synagogale
 tucht, ronde 3 van Vroeg over papyrologie). Het richt zich rechtstreeks op Van Kootens derde en vierde
 pijler, de Lukaanse posterioriteit en het overbodig maken van Q, die allebei staan of vallen met de
@@ -870,7 +870,7 @@ lezers van Marcus" schreef. Dat de lezers het synoptische verhaal al kenden, ver
 eerder was, ongeacht of Johannes het kopieerde. Ten tweede plaatst de relatieve chronologie Johannes ná
 de synoptische traditie, niet automatisch ná 85 in absolute jaren; de absolute datum volgt pas als je
 Marcus rond 65 tot 70 en Mattheüs rond 80 aanhoudt, wat de gangbare ijkpunten zijn. Mijn winst is dat
-Van Kootens kernpijler, Johannes als het oudste en foundationele evangelie, frontaal wordt tegengesproken
+Van Kootens kernpijler, Johannes als het oudste en grondleggende evangelie, wordt rechtstreeks tegengesproken
 door de eigen tekst van Johannes, die zijn lezer voortdurend op een al bestaande traditie terugwijst.
 
 ### Karakter-as
@@ -889,11 +889,11 @@ vaste verwijt aan een Xerxes, een Alexander, een Antiochus, en in Johannes' eige
 keizer. De feestlens is dus joods, maar het strijdpunt waarop die lens scherpstelt, zelfvergoddelijking
 tegenover wettige zending, is een Grieks-hellenistische heerserstheologie. Het sterkste joodse argument
 opent zelf op een Grieks-Romeins kader, en bevestigt daarmee de gemengde matrix in plaats van een
-zuiver joods eindkarakter. Mijn nieuwe front raakt nu juist de dragende discoursvorm van het boek,
+zuiver joods eindkarakter. Mijn volgende lijn raakt nu juist de dragende discoursvorm van het boek,
 waar deze festival-twisten deel van zijn.
 
 **Nieuwe evidentie:**
-Ik open een front dat in dit hele debat nog niet aan bod kwam: de afscheidsredes (Joh 13-17) als een
+Onbesproken in dit hele debat is het volgende: de afscheidsredes (Joh 13-17) als een
 Grieks-Romeins symposion verbonden met de antieke troostrede (consolatio) en het wijsgerige
 afscheid van de stervende leraar aan zijn vrienden. Het gaat niet om een los motief maar om het
 literaire bouwplan van het grootste aaneengesloten redegedeelte van het evangelie.
@@ -951,8 +951,8 @@ mediterraan; de inkleuring hier is paschaal.
 Beslissender is wat in diezelfde hoofdstukken staat. Grieks-Romeins claimt Joh 13-17 voor het symposion,
 maar het leerstellige hart van precies die redes is geen Platoonse vriendschapsleer. De Trooster heet er
 driemaal "de Geest der waarheid", τὸ πνεῦμα τῆς ἀληθείας (Joh 14:17; 15:26; 16:13), en dat is woordelijk
-de titel uit de Verhandeling over de Twee Geesten in de Gemeenschapsregel van Qumran. Daar staat mijn
-nieuwe front; ik werk het hieronder uit. Wie de afscheidsredes opent, vindt onder de symposion-schaal een
+de titel uit de Verhandeling over de Twee Geesten in de Gemeenschapsregel van Qumran. Daar ligt mijn
+nieuwe terrein; ik werk het hieronder uit. Wie de afscheidsredes opent, vindt onder de symposion-schaal een
 sektarisch-joodse dualistiek, niet de Phaedo.
 
 En over Joh 10: de aanklacht "σὺ ἄνθρωπος ὢν ποιεῖς σεαυτὸν θεόν", jij die een mens bent maakt jezelf tot
@@ -965,7 +965,7 @@ rails. Antiochus als θεὸς ἐπιφανής is hooguit een verre echo, en z
 bereikt die echo de tekst enkel via de joodse feestherinnering.
 
 **Nieuwe evidentie:**
-Mijn nieuwe front is de Qumran-dualistiek, een discipline en een brontekst die in deze hele run nog niet
+Hier voer ik de Qumran-dualistiek op, een discipline en een brontekst die in deze hele run nog niet
 op de karakter-as lag. De Verhandeling over de Twee Geesten in de Gemeenschapsregel (1QS, kolommen 3-4)
 stelt twee geesten tegenover elkaar "waarin de mens wandelt tot de tijd van Gods bezoeking: de geesten van
 waarheid en onrecht", met een kosmische licht-duister-tegenstelling: "wie uit waarheid geboren zijn
@@ -998,9 +998,9 @@ Deuteronomium 32-33). Mijn claim betreft niet de vorm maar de leerstellige subst
 is in haar kernbegrip, de Geest der waarheid, qumranisch.
 
 ### ⚖️ Moderator (stand van zaken)
-**Samenvatting ronde:** Beide assen kregen opnieuw een verse discipline en op beide werd frontaal
+**Samenvatting ronde:** Beide assen kregen opnieuw een verse discipline en op beide werd hard
 gebotst. Op de datering-as opende Vroeg een papyrologisch front (de geaggregeerde voetafdruk van
-zesentwintig Johannes-handschriften en Llewelyns afwezige periode-skew tegen de Johannophobie-these,
+zesentwintig Johannes-handschriften en Llewelyns afwezige vertekening per periode tegen de Johannophobie-these,
 plus de P52-verspreidingsvertraging), maar Laat keerde dat tegen hem (Llewelyn sloopt alleen Bauer,
 niet Hill, die zelf op de jaren 90 uitkomt; de papyri zijn derde-eeuws en blijven een terminus ante
 quem; Vroegs eigen rekensom landt op ongeveer 90 tot 100) en opende daarna een relatieve-chronologie-
@@ -1012,7 +1012,7 @@ afscheidsredes (Joh 13-17) als Grieks-Romeins symposion en consolatio neer (Plat
 de Verhandeling over de Twee Geesten van 1QS.
 
 **Datering-as, sterkste Vroeg:** De papyrologische voetafdruk weerlegt de Bauer-Aland-constructie van
-vertraagde, schuwe receptie (Llewelyn: geen periode-skew, aanhoudende voorkeur voor Johannes),
+vertraagde, schuwe receptie (Llewelyn: geen vertekening per periode, aanhoudende voorkeur voor Johannes),
 waarmee een steunpilaar onder de late neiging wegvalt (nlm "John - exegesis", Llewelyn). Het is
 echter een negatieve winst, door Vroeg zelf erkend als dateringsneutraal.
 
@@ -1020,7 +1020,7 @@ echter een negatieve winst, door Vroeg zelf erkend als dateringsneutraal.
 synoptische traditie, het scherpst in Joh 3:24 ("Johannes was nog niet in de gevangenis geworpen",
 periphrastisch ἦν βεβλημένος dat terugverwijst naar een arrestatie die Johannes nergens vertelt),
 wat zelfs een onafhankelijkheidsverdediger als Bauckham toegeeft ("voor lezers van Marcus"); dit
-plaatst Johannes ná de gevormde traditie en raakt Van Kootens oudste-evangelie-pijler frontaal
+plaatst Johannes ná de gevormde traditie en raakt Van Kootens oudste-evangelie-pijler recht in de kern
 (biblehub Joh 3:24; nlm "John - exegesis" met Barrett, Frey, Thyen, Lindars, Bauckham).
 
 **Karakter-as, sterkste Grieks-Romeins:** Joh 13-17 voert het Grieks-Romeinse symposion en de
@@ -1041,13 +1041,13 @@ naar eigen toegeving datumonafhankelijk, zijn ondersteunende punt (P52-verspreid
 hij door tot ongeveer 90 tot 100 (dus in Laats band), en de palaeografie van P52 is betwist (Nongbri,
 Rylands richting 200). De winst is louter negatief: zij haalt één steun onder de late kant weg.
 Laat liet bovendien overtuigend zien dat zijn receptie-argument nooit alleen op Bauer rustte, zodat
-Hills datering in de jaren 90 staan blijft, en hij voegde een nieuw, grammaticaal verankerd
+Hills datering in de jaren 90 staan blijft, en hij voegde een nieuw, grammaticaal gefundeerd
 relatieve-chronologie-argument toe dat sterker is dan het receptie-argument dat het aanvult: het
 rust op een echte terugverwijzing in de tekst (Joh 3:24) en zelfs op de concessie van een
-onafhankelijkheidsverdediger. Wel is ook dit gehedged, want het bewijst posterioriteit aan de
+onafhankelijkheidsverdediger. Wel is ook dit ingedekt, want het bewijst posterioriteit aan de
 synoptische traditie en niet automatisch een datum ná 85; Laat erkent dat de absolute datum pas
 volgt uit de gangbare ijkpunten (Marcus 65 tot 70, Mattheüs 80). Per saldo herwint de late kant de
-grond die zij in ronde 2 verloor, zonder een knockout.
+grond die zij in ronde 2 verloor, zonder een beslissende klap.
 
 Op de karakter-as botsten twee sterke, primair gestaafde fronten. Grieks-Romeins' symposion-lezing
 is een verse, generaliseerbare en primair bevestigde structurele claim over het grootste redegedeelte
@@ -1062,7 +1062,7 @@ concedeerde zelf de genre-vorm van het wijsgerige afscheid als deels gedeeld (jo
 traditie, Genesis 49, Deuteronomium 32-33). Het patroon van eerdere rondes herhaalt zich dus: de
 Griekse kant wint op literaire vorm en enscenering, de joodse kant op leerstellige substantie en
 verwijzingswereld, met daarbovenop een geneutraliseerde Griekse aanwijzing. De as schuift daarom één
-punt terug richting joods. Geen enkel citaat oogde verzonnen; geen ⚠️ onverifieerbaar-markeringen.
+punt terug richting joods. Geen van de citaten kwam verzonnen over; geen ⚠️ onverifieerbaar-markeringen.
 Het 1QS-materiaal komt via het Dode Zeerollen-notebook (Engelse vertaling), dus het weegt als sterk
 maar niet als een volwaardige Sefaria- of Perseus-toets.
 
@@ -1074,7 +1074,7 @@ woordelijk Agathons uitnodiging "δεῦρʼ ... Σώκρατες, παρʼ ἐ�
 van het aanliggen-naast-de-wijze-om-zijn-wijsheid-te-delen staat er letterlijk. Mishnah Pesachim 10:1
 (`brontekst sefaria "Mishnah Pesachim 10:1"`) bevat woordelijk וַאֲפִלּוּ עָנִי שֶׁבְּיִשְׂרָאֵל לֹא
 יֹאכַל עַד שֶׁיָּסֵב ("zelfs de armste in Israël eet niet voordat hij aanligt, zoals vrije mensen
-aanliggen"), dus Joods' counter dat aanliggen de voorgeschreven seder-houding is, staat er eveneens
+aanliggen"), dus Joods' weerlegging dat aanliggen de voorgeschreven seder-houding is, staat er eveneens
 letterlijk. Beide claims houden stand, en juist daarom heft het aanligdetail zichzelf op als
 karakter-aanwijzing: het is gedeeld mediterraan, niet onderscheidend. Aanvullend bevestigde ik op de
 datering-as via biblehub dat Joh 3:24 de periphrastische plusquamperfectum ἦν βεβλημένος bevat; dat
@@ -1090,7 +1090,7 @@ notebook-vertaling van 1QS rusten.
 **Datering: +2 · Δ: +1** en **Karakter: +4 · Δ: +1**
 
 **Verhouding assen:** Beide assen bewogen één punt verder van het midden, maar om geheel
-onafhankelijke redenen: de datering omdat Laat de papyrologie pareerde en een grammaticaal verankerd
+onafhankelijke redenen: de datering omdat Laat de papyrologie pareerde en een grammaticaal gefundeerd
 relatieve-chronologie-argument toevoegde, het karakter omdat Joods een Griekse aanwijzing neutraliseerde
 en de leerstellige kern van de afscheidsredes als qumranisch terugwon; de parallelle richting is
 toeval, niet koppeling.
@@ -1111,13 +1111,13 @@ Eén draad uit zijn reactie verdient nog een antwoord, want zij snijdt juist mij
 Marcus-analogie. Vroeg pareerde mijn receptie-argument met de stelling dat dunne vroege attestatie
 genrebreed is, want ook Marcus wordt pas laat geciteerd en toch vroeg gedateerd. Akkoord, maar let op
 wat dat toegeeft. Als Johannes zich in de receptie precies gedraagt als een gewone evangelist, als
-Marcus, dan gedraagt hij zich juist niet als het foundationele bronevangelie waaruit Mattheüs en Lucas
+Marcus, dan gedraagt hij zich juist niet als het grondleggende bronevangelie waaruit Mattheüs en Lucas
 zouden hebben geput. Van Kootens pijler vraagt om een uitzonderlijk attestatieprofiel, een bron aan de
 kop van de stroom; Vroeg levert mij een doodgewoon profiel. De analogie ontkracht dus zijn eigen
 prioriteitsthese in plaats van mijn datering.
 
 **Nieuwe evidentie:**
-Mijn nieuwe front is de interne ontwikkeling van het johanneïsche corpus: de verhouding van het
+Ik leg een nieuwe invalshoek neer: de interne ontwikkeling van het johanneïsche corpus, de verhouding van het
 evangelie tot 1-3 Johannes, een discipline die in deze hele run en in de vorige run niet op de
 datering-as lag (daar ging het over receptie bij de kerkvaders, theologie-ontwikkeling, synagogale
 tucht, papyrologie en relatieve chronologie ten opzichte van de synoptici). Dit is geen
@@ -1146,19 +1146,19 @@ en die eerste Paracleet wordt nergens in het evangelie benoemd, maar wél in 1 J
 de rechtvaardige. De belofte van een "andere" Trooster in de eindvorm van het evangelie is dus pas
 volledig te begrijpen voor wie de eerste Paracleet, Jezus, al uit de brief kent. Von Wahlde concludeert
 daaruit dat de eindredactie van het evangelie de theologie van 1 Johannes al veronderstelt: de eindvorm
-staat downstream van de brief, niet ervoor. Of men nu Browns lineaire volgorde aanhoudt of von Wahldes
+staat ná de brief, niet ervoor. Of men nu Browns lineaire volgorde aanhoudt of von Wahldes
 verweven model, in beide gevallen behoort de eindvorm van het evangelie tot een corpustraject waarvan
 een laat-eerste-eeuwse scheuring een geattesteerd onderdeel is. Daarmee kan de eindvorm onmogelijk in
 de jaren 60 worden geperst zonder het hele traject ineen te drukken.
 - Het johanneïsche corpus toont een gemeenschapstraject van externe synagoge-crisis (evangelie) naar interne doketische scheuring (1 Joh 2:19; 4:2-3; 2 Joh 7), wat een tientallen jaren oude gemeenschap veronderstelt; commentatoren verwerpen daarom een datum vóór 70 en plaatsen evangelie en brieven samen rond 85-100. Raakt as: datering. Bron: nlm-notebook "John - exegesis", Raymond Brown (evangelie vóór brieven; 1 Joh als orthodoxe correctie van een doketische lezing van het evangelie), Schnackenburg, Strecker, von Wahlde, Judith Lieu (via nlm cross query) (opgehaald: ja; aard: secundair; primair nagezien: ja, zie volgende twee punten; type: historisch/sociaal-historisch)
 - 1 Joh 2:19 ("ἐξ ἡμῶν ἐξῆλθαν, ἀλλ' οὐκ ἦσαν ἐξ ἡμῶν") en 1 Joh 4:2 ("ὁμολογεῖ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα") attesteren de scheuring en de doketische inzet ervan letterlijk in de grondtekst. Raakt as: datering. Bron: https://biblehub.com/interlinear/1_john/2-19.htm en https://biblehub.com/interlinear/1_john/4-2.htm (opgehaald: ja; aard: primair; primair nagezien: ja, beide Griekse clausules staan er letterlijk; NT zit niet in de brontekst-databases; type: grammaticaal/tekstkritisch)
-- Volgorde-argument von Wahlde: Joh 14:16 "ἄλλον παράκλητον" (een ándere Paracleet) veronderstelt lexicaal een eerste Paracleet, die alleen in 1 Joh 2:1 ("παράκλητον ἔχομεν πρὸς τὸν πατέρα, Ἰησοῦν Χριστὸν δίκαιον") wordt benoemd; de eindvorm van het evangelie veronderstelt dus de theologie van de brief en staat er downstream van. Raakt as: datering. Bron: nlm-notebook "John - exegesis" (von Wahlde) + https://biblehub.com/interlinear/john/14-16.htm en https://biblehub.com/interlinear/1_john/2-1.htm (opgehaald: ja; aard: secundair + primair; primair nagezien: ja, ἄλλον Παράκλητον resp. Παράκλητον ... Ἰησοῦν Χριστὸν δίκαιον staan er letterlijk; type: grammaticaal/literair)
+- Volgorde-argument von Wahlde: Joh 14:16 "ἄλλον παράκλητον" (een ándere Paracleet) veronderstelt lexicaal een eerste Paracleet, die alleen in 1 Joh 2:1 ("παράκλητον ἔχομεν πρὸς τὸν πατέρα, Ἰησοῦν Χριστὸν δίκαιον") wordt benoemd; de eindvorm van het evangelie veronderstelt dus de theologie van de brief en staat er stroomafwaarts van. Raakt as: datering. Bron: nlm-notebook "John - exegesis" (von Wahlde) + https://biblehub.com/interlinear/john/14-16.htm en https://biblehub.com/interlinear/1_john/2-1.htm (opgehaald: ja; aard: secundair + primair; primair nagezien: ja, ἄλλον Παράκλητον resp. Παράκλητον ... Ἰησοῦν Χριστὸν δίκαιον staan er letterlijk; type: grammaticaal/literair)
 
 **Concessies:** Drie eerlijke grenzen. Ten eerste is de exacte volgorde binnen het corpus betwist:
 Schnackenburg achtte haar onzeker en Strecker plaatst 2 en 3 Johannes vóór 1 Johannes, dus ik claim
 geen simpele rechte lijn; mijn punt is robuust onder beide modellen, want ook von Wahldes verweven
 reconstructie laat de eindvorm laat landen. Ten tweede is dit een relatief-sequentieel argument: het
-verankert de eindvorm ten opzichte van de brieven en het traject, en de absolute datering van de
+pint de eindvorm vast ten opzichte van de brieven en het traject, en de absolute datering van de
 brieven zelf (rond 100) is een afgeleide, geen onafhankelijk vast jaartal; op zichzelf sluit dit een
 vroege kern niet uit, het sluit een vroege eindvorm uit. Ten derde, en dat noem ik uit eerlijkheid
 zelf: Judith Lieu waarschuwt nadrukkelijk tegen het gladde gebruik van de scheuring en de
@@ -1186,24 +1186,24 @@ als orthodoxe correctie van een doketische herlezing van het evangelie. Maar dat
 met zoveel woorden dat het evangelie vóór de brieven komt, en dat Joh 14:16 volkomen intern werkt.
 Browns volgorde en von Wahldes volgorde wijzen tegengesteld: de een evangelie-vóór-brief, de ander
 brief-vóór-evangelie. Laat kan niet beide tegelijk als steunbalk gebruiken voor "late eindvorm", want
-ze zagen elkaars fundament door. Neemt hij Brown, dan vervalt het downstream-argument; neemt hij von
+ze zagen elkaars fundament door. Neemt hij Brown, dan vervalt het stroomafwaarts-argument; neemt hij von
 Wahlde, dan vervalt het traject-argument dat juist op Browns evangelie-eerst-model rust.
 
 Daar komt het zwakste van zijn keten bij, dat hij zelf half toegeeft: dit is een relatief-sequentieel
-argument. Het verankert de eindvorm tegen de brieven, maar de absolute datum van de brieven (rond 100)
+argument. Het pint de eindvorm vast tegen de brieven, maar de absolute datum van de brieven (rond 100)
 is volgens Laats eigen woorden "een afgeleide, geen onafhankelijk vast jaartal". Daarmee sluit het
 betoog alleen een vroege eindvorm uit als je de late brieven al hebt aangenomen, en dat is precies wat
 bewezen moest worden. Ten slotte de sociologie: een interne christologische scheuring vergt geen
 decennia. Paulus' gemeenten scheurden binnen enkele jaren na hun stichting over christologie en
 partijschap (Galatië, Korinte, Kolosse), en doketische tendensen waren vroeg in omloop. "Interne
-splitsing, dus tientallen jaren oud" is een losse gevolgtrekking, en Laats eigen kroongetuige Judith
+splitsing, dus tientallen jaren oud" is een losse gevolgtrekking, en Laats eigen getuige Judith
 Lieu waarschuwt nadrukkelijk tegen juist dit soort gladde gemeenschapsreconstructie.
 
 **Nieuwe evidentie:**
-Mijn nieuwe front is van een logisch type dat in deze hele run nog niet is ingezet: niet de
+Mijn nieuwe argument is van een logisch type dat in deze hele run nog niet is ingezet: niet de
 accuratesse van een bewaard detail (dat bleek sinds ronde 1 dateringsneutraal), maar het zwijgen van
-de eindredacteur zelf, vergelijkend gemeten via redactiekritiek tegen Lucas. Dit ontwijkt de
-neutraliteitsval bewust, want stilzwijgen gaat niet over wat een vroege bron heeft doorgegeven maar
+de eindredacteur zelf, vergelijkend gemeten via redactiekritiek tegen Lucas. Dit ontwijkt bewust de
+val dat accurate kennis geen datum bewijst, want stilzwijgen gaat niet over wat een vroege bron heeft doorgegeven maar
 over wat de auteur op het schrijfmoment wist en in zijn eigen redactionele stem wel of niet verwerkt.
 
 Het scharnier is Joh 11:48. De hogepriesters vrezen daar: "οἱ Ῥωμαῖοι ... ἀροῦσιν ἡμῶν καὶ τὸν τόπον
@@ -1230,17 +1230,17 @@ het tegendeel, een onverzilverde profetie zonder enige redactionele bijstelling,
 Johannes nu juist de gewoonte heeft alles voor zijn lezer in te kleuren. Met hetzelfde
 weegcriterium waarmee men Lucas laat dateert, leest Johannes vroeg. En omdat het om Johannes' eigen
 redactiestem gaat, zit dit argument op de compositielaag, niet op een afpelbare bronlaag, juist het
-terrein waar de neutraliteitsval mijn eerdere fronten trof.
+terrein waar de val dat accurate kennis geen datum bewijst mijn eerdere fronten trof.
 - Joh 11:48 ("οἱ Ῥωμαῖοι ... ἀροῦσιν ἡμῶν καὶ τὸν τόπον καὶ τὸ ἔθνος") is een onverzilverde voorzegging van de val van tempel en volk; Johannes voegt overal elders vervullingsglossen toe (2:21-22; 12:33; 18:32 "σημαίνων ποίῳ θανάτῳ"; 21:23) maar hier juist niet, wat Robinson en Morris als argument uit stilzwijgen voor een datum vóór 70 gebruiken; het zwijgen zit op Johannes' eigen redactielaag en is daarmee niet dateringsneutraal zoals bewaarde accuratesse. Raakt as: datering. Bron: nlm-notebook "John - exegesis" (Robinson, Morris vóór 70; Carson, Köstenberger, O'Day lezen het als dramatische ironie) + https://biblehub.com/interlinear/john/11-48.htm (opgehaald: ja; aard: secundair + primair; primair nagezien: ja, het Griekse Joh 11:48 staat letterlijk op biblehub; NT zit niet in de brontekst-databases; type: literair/historisch, argument uit stilzwijgen)
 - Symmetrietoets via Lucas: het late kamp dateert Lucas ná 70 omdat Lucas Marcus' "gruwel" (Mc 13:14) redactioneel omzet in expliciete belegeringstaal (Lc 21:20 "Ἰερουσαλὴμ κυκλουμένην ὑπὸ στρατοπέδων"; Lc 19:43 "παρεμβαλοῦσιν χάρακά σοι ... περικυκλώσουσίν σε"); past men datzelfde criterium toe op Johannes, dan ontbreekt elke gebeurtenis-gevormde redactie en wijst de balans naar vóór 70. Raakt as: datering. Bron: nlm-notebook "Luke - exegesis" (Kümmel "beslissend", Esler, Edwards, Conzelmann, Tannehill voor het ex-eventu-argument; Dodd, Morris, Manson ertegen) + https://biblehub.com/interlinear/luke/21-20.htm en https://biblehub.com/interlinear/luke/19-43.htm (opgehaald: ja; aard: secundair + primair; primair nagezien: ja, beide Griekse verzen staan letterlijk op biblehub; type: literair/relatieve chronologie)
 
 **Concessies:** Drie eerlijke grenzen. Ten eerste is het argument uit stilzwijgen probabilistisch, geen
-bewijs: de post-70 lezing van Joh 11:48 als doelbewuste dramatische ironie voor een publiek dat de
+bewijs: de lezing van Joh 11:48 als doelbewuste dramatische ironie ná 70 voor een publiek dat de
 verwoesting zelf had meegemaakt (Carson, Köstenberger, O'Day) is een reële alternatieve verklaring, en
 ik geef toe dat zij niet weerlegbaar is. Mijn punt is enkel dat zij Johannes een uitgerekende
 subtiliteit toeschrijft op precies de plaats waar hij elders onsubtiel uitlegt, en dat een vroege datum
 de eenvoudiger verklaring van zijn eigen glos-gewoonte is. Ten tweede tempert de tegenkant van mijn
-symmetrie mij zelf: Dodd, Morris en Manson betogen dat ook Lucas' belegeringstaal uit de Septuagint
+symmetrie mij zelf: Dodd, Morris en Manson betogen dat ook Lucas' belegeringstaal uit de Septuaginta
 (586 v.Chr., Jesaja 29, Jeremia 6, Ezechiël 4) komt en niet per se de feiten van 70 spiegelt. Als dat
 klopt, verzwakt dat de Lucas-helft van mijn vergelijking, maar het ondermijnt mijn kern niet: het
 betreft een criterium dat het láte kamp zelf inbrengt, en zelfs onder hun eigen maatstaf scoort
@@ -1271,7 +1271,7 @@ Tanach, niet het Platoonse drinkgelag. De symposion-vorm kan de tafel inrichten;
 woord "vriend" komt uit Abraham.
 
 **Nieuwe evidentie:**
-Mijn nieuwe front is de midrasj-techniek, en wel toegepast op één tekstcrux die alleen in het
+Een nog onbespeelde invalshoek is de midrasj-techniek, en wel toegepast op één tekstcrux die alleen in het
 Hebreeuws bestaat. In Joh 1:51 belooft Jezus: "u zult de hemel geopend zien en de engelen van God
 opstijgen en neerdalen op de Mensenzoon" (ἐπὶ τὸν υἱὸν τοῦ ἀνθρώπου). Dat is een nauwkeurige
 herschrijving van Jakobs droom te Betel, Genesis 28:12: "een ladder stond op de aarde en zijn top
@@ -1332,7 +1332,7 @@ vriendschapsleer. De inhoud van het geheim mag Abrahamitisch zijn, de sociale gr
 tegenover slaaf is hellenistisch.
 
 **Nieuwe evidentie:**
-Ik open een front dat in dit hele debat nog niet aan bod kwam: de antieke genezingscultus en het
+Ik kies een terrein dat in dit hele debat nog niet aan bod kwam: de antieke genezingscultus en het
 genezingswonder als Grieks-Romeins literair type, met de blindgeborene van Joh 9 en de vijver van
 Bethesda (Joh 5) als inzet. Dit raakt niet een randmotief maar twee van de zeven tekenen die de
 narratieve ruggengraat van het evangelie vormen.
@@ -1403,24 +1403,24 @@ en von Wahlde is hier de betwiste minderheid; bovendien legde Vroeg een echte te
 Laats coalitie bloot, want Brown (evangelie vóór brieven) en von Wahlde (brief vóór eindvorm) wijzen
 tegengesteld en kunnen niet allebei "late eindvorm" schragen. Ten tweede zit Vroegs eigen nieuwe
 argument bewust op de compositielaag en ontwijkt zo de neutraliteitsval die zijn vroegere fronten trof.
-Toch is het een aanwijzing, geen sluitsteen: Vroeg gaf zelf toe dat de post-70 lezing van Joh 11:48 als
-dramatische ironie (Carson, Köstenberger, O'Day) een reële, onweerlegbare verklaring is, dat de
-Lucas-helft verzwakt door de Septuagint-oorsprong van belegeringstaal (Dodd, Morris, Manson), en dat
+Toch is het een aanwijzing, geen sluitsteen: Vroeg gaf zelf toe dat de lezing van Joh 11:48 als
+dramatische ironie ná 70 (Carson, Köstenberger, O'Day) een reële, onweerlegbare verklaring is, dat de
+Lucas-helft verzwakt door de Septuaginta-oorsprong van belegeringstaal (Dodd, Morris, Manson), en dat
 zijn betoog geen positief jaartal vóór 70 oplevert. Laats corpus-traject behoudt enige restkracht maar
 is relatief-sequentieel en door Laats eigen kroongetuige Lieu getemperd. Per saldo herwint de vroege
-kant de in ronde 3 verloren notch zonder knockout. Op de karakter-as botsten twee sterke, primair
+kant het in ronde 3 verloren punt zonder genadeslag. Op de karakter-as botsten twee sterke, primair
 gestaafde fronten. Joods' 1:51-midrasj is methodologisch het hardst: een generaliseerbare grammaticale
 observatie die alleen in het Hebreeuws bestaat en die ik woordelijk in Genesis Rabbah 68:12 terugvond.
 Grieks-Romeins pareerde scherp op het eindkarakter (de lezer ontvangt een ondubbelzinnig "op de
 Mensenzoon", een zonder Hebreeuws leesbare middelaarsfiguur), al kon hij zijn Philo-steun niet primair
 ophalen en leunt die framing dus op bewering. Zijn genezingscultus-front is het sterkste verse materiaal
-van de Griekse kant in deze run, primair bevestigd en op de narratieve ruggengraat, maar hij hedde het
-zwaar: het patroon is "presenteren én overtreffen" (subversie veronderstelt het Griekse kader, wat
+van de Griekse kant in deze run, primair bevestigd en op de narratieve ruggengraat, maar hij dekte het
+zwaar in: het patroon is "presenteren én overtreffen" (subversie veronderstelt het Griekse kader, wat
 eerder inkadering dan herkomst is), speeksel is niet exclusief Grieks, theios-anēr is omstreden, en het
 asklepion bij Bethesda is tweede-eeuws, zodat de cultische duiding van de eerste-eeuwse vijver een
 gevolgtrekking blijft. Het Abraham-punt bij Joh 15:15 ruilden beide deels (joodse inhoud van "vriend",
-hellenistische sociale grammatica van slaaf-naar-vriend). Netto trok de Griekse kant de as één notch
-naar het midden zonder de joodse fundamenten te slopen. Geen citaat oogde verzonnen; geen ⚠️
+hellenistische sociale grammatica van slaaf-naar-vriend). Netto trok de Griekse kant de as één punt
+naar het midden zonder de joodse fundamenten te slopen. Geen citaat maakte een verzonnen indruk; geen ⚠️
 onverifieerbaar-markeringen, al weegt de Philo-claim en de tweede-eeuwse asklepion-datering lichter.
 
 **Primaire toetsing:** Ik koos de twee scharnierclaims van de ronde en een derde steekproef. Voor de
@@ -1443,7 +1443,7 @@ rusten nog louter op secundaire commentaren.
 
 **Datering: +1 · Δ: −1** en **Karakter: +3 · Δ: −1**
 
-**Verhouding assen:** Beide assen schoven deze ronde één notch terug naar het midden, datering richting
+**Verhouding assen:** Beide assen schoven deze ronde één stapje terug naar het midden, datering richting
 vroeg en karakter richting Grieks, maar op geheel eigen, onafhankelijk materiaal, zodat de bewegingen
 parallel lopen zonder dat de ene as de andere stuurt.
 
