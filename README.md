@@ -4,34 +4,57 @@ Een skill die een **iteratief, brongebaseerd debat** voert over de datering van 
 Johannesevangelie: het strijdpunt uit George (Geurt Henk) van Kootens *Echo's van het goede
 nieuws: De evangeliën in context, toen en nu* (2025/2026).
 
-Twee tegengestelde subagent-opponenten reageren om de beurt op elkaar via een gedeeld
-"whiteboard", dragen elke ronde **echte, online gezochte bronnen** aan (ook grammaticaal en
-syntactisch), en een **neutrale moderator** scoort de stand van de evidentie. Zodra de score
-stabiliseert, stopt het debat met een eindrapport.
+Vier subagent-opponenten debatteren in **twee paren, één per as**: ze reageren om de beurt op elkaar
+via een gedeeld "whiteboard", dragen elke ronde **echte, online gezochte bronnen** aan (ook
+grammaticaal en syntactisch), en een **neutrale moderator** scoort de stand van de evidentie op twee
+onafhankelijke assen (datering en cultureel karakter). Zodra beide scores stabiliseren, stopt het
+debat met een eindrapport.
 
 ---
 
-## De twee kampen
+## De vier opponenten (twee per as)
 
-| Opponent | Standpunt | Kernargumenten |
-|---|---|---|
-| 🏛️ **Grieks** | Pro Van Kooten: Johannes is het **oudste** evangelie (vóór 66–70 n.Chr.), gelezen in Grieks-Romeinse context | `estin`-praesens in Joh 5:2 (Betzata); superieure pre-70-topografie van Jeruzalem; Lukaanse posterioriteit (Lucas 93–130, leunt op Johannes); bron Q overbodig |
-| ✡️ **Joods** | Late datering (**post-85 n.Chr.**) en joodse invloed op het NT | praesens historicum is geen dateringsbewijs; joodse/OT-symboliek en hermeneutiek; `aposynagōgos` / Martyn; joods-Palestijns milieu (Qumran) |
+De datering en het culturele karakter zijn twee aparte vragen. Daarom heeft elke as **twee
+opponenten**, één per pool, en blijft iedere opponent strikt op zijn eigen as.
 
-Beide opponenten zoeken **echte bronnen** op het open web en raadplegen daarnaast ingelezen
+| As | Opponent | Standpunt | Kernargumenten |
+|---|---|---|---|
+| Datering | ⏳ **Vroeg** | Johannes is **vroeg** (vóór 66–70 n.Chr.), mogelijk het oudste evangelie | `estin`-praesens in Joh 5:2 (Betzata); superieure pre-70-topografie; Lukaanse posterioriteit; bron Q overbodig |
+| Datering | 🕰️ **Laat** | Johannes is **laat** (post-85 n.Chr.) | praesens historicum is geen dateringsbewijs; `aposynagōgos` / Martyn; externe attestatie (P52); redactielagen (Joh 21) |
+| Karakter | 🏛️ **Grieks-Romeins** | Overwegend **Grieks-Romeins** van karakter | genre als antieke biografie (*bios*); Logos-filosofie (Stoa, middenplatonisme); dramatische en retorische vorm; hellenistisch publiek |
+| Karakter | ✡️ **Joods** | Overwegend **joods** van karakter | joodse hermeneutiek; Logos met Memra-/wijsheidswortels; feestcyclus; joods-Palestijns milieu (Qumran) |
+
+Van Kootens stelling "vroeg én Grieks-Romeins" is zo geen ingebouwde aanname meer, maar het resultaat
+als Vroeg én Grieks-Romeins beiden overtuigen. Sams tegenvoorbeeld "laat én Grieks-Romeins" (via de
+Parting of the Ways) is nu een apart scoorbaar kwadrant.
+
+Alle opponenten zoeken **echte bronnen** op het open web en raadplegen daarnaast ingelezen
 **commentaar-notebooks** per bijbelboek (`John - exegesis`, `Luke - exegesis`, `Matthew - exegesis`,
 `Mark - exegesis`, en meer) via de **`nlm` command-line tool** (NotebookLM), met
-`nlm cross query "..." -n "John - exegesis"`. Vanaf de tweede ronde mogen ze ook nieuwe, creatieve
-invalshoeken inbrengen (papyrologie, tekstkritiek, patristiek, sociaal-historisch, enz.). Ze
-schrijven in het Nederlands.
+`nlm cross query "..." -n "John - exegesis"`. Als notebook staat daarnaast één primaire-tekstcorpus
+klaar, `De Complete Dode Zeerollen (English)`, voor Qumran-/Dode Zeerollen-claims (1QS enz.) die niet
+in Sefaria of Perseus zitten. Naast deze commentaren toetsen de opponenten toetsbare
+beweringen waar mogelijk zelf aan de **primaire teksten**. Daarvoor is er een eigen command-line
+tool, `brontekst` (in `.agents/tools/`), die teksten deterministisch ophaalt uit **Sefaria** (joodse
+bronnen) en de **Perseus/Scaife**-corpora (klassiek Grieks en Latijn); voor de NT-grondtekst blijven
+biblehub/NA28 in gebruik, en voor Qumran het Dode Zeerollen-notebook. Elke bron wordt getagd als primair of secundair. Ze mogen
+nieuwe, creatieve invalshoeken inbrengen (papyrologie, tekstkritiek, patristiek, filosofische
+receptie, sociaal-historisch, enz.), zolang die op hun eigen as blijven. Ze schrijven in het
+Nederlands.
 
-De **moderator** is neutraal en geeft per ronde één score:
+De **moderator** is neutraal en scoort per ronde op **twee onafhankelijke assen**, omdat datering en
+cultureel karakter niet hoeven samen te vallen. Een late Johannes kan via de *Parting of the Ways*
+juist Grikser zijn, en een vroege Johannes kan diep joods van kleur zijn; "vroeg dus Grieks" is geen
+automatisme. De moderator toetst bovendien zelf steekproeven aan de primaire tekst en rapporteert
+hoezeer het oordeel op secundaire bronnen rust.
 
 ```
--10 ........ -5 ........ 0 ........ +5 ........ +10
- sterk      neigt    evidentie    neigt      sterk
- GRIEKS     Grieks   in midden    Joods      JOODS
-(vroeg John)                             (laat John, joods)
+DATERING-as                         KARAKTER-as
+⏳ Vroeg  <-->  🕰️ Laat              🏛️ Grieks-Romeins  <-->  ✡️ Joods
+
+-10 ..... 0 ..... +10               -10 ..... 0 ..... +10
+ vroeg  midden  laat                 Grieks-  midden  Joods
+(vóór 70)      (post-85)             Romeins
 ```
 
 ---
@@ -59,15 +82,6 @@ Standaard draait het debat tot maximaal 8 rondes en stopt zodra de score 2 ronde
 
 > "Start het evangelie-debat met maximaal 4 rondes."
 
-### Een onderbroken run hervatten (optioneel)
-Stopte een run halverwege, dan kun je hem voortzetten zonder opnieuw te beginnen:
-
-> "Hervat de laatste run."
-> "Zet run-20260627-203757 voort."
-
-De orchestrator leest de bestaande run-map (`whiteboard.md`, `state.json`, `sources.md`), neemt de
-parameters en het laatste rondenummer over, en gaat verder bij de volgende ronde.
-
 | Parameter | Default | Betekenis |
 |---|---|---|
 | `MAX_RONDES` | 8 | Harde bovengrens op het aantal rondes |
@@ -75,15 +89,19 @@ parameters en het laatste rondenummer over, en gaat verder bij de volgende ronde
 | `CONV_GEDULD` | 2 | Aantal opeenvolgende stabiele rondes om te stoppen |
 
 ### Wat er per ronde gebeurt
-1. **Opponent A** leest het whiteboard, weerlegt de vorige beurt, zoekt online ≥1 nieuw argument/bron,
-   schrijft zijn beurt onderaan en logt elke geciteerde bron in `sources.md`.
-2. **Opponent B** (de andere zijde) doet hetzelfde en ziet daarbij de verse beurt van A.
-3. De **moderator** vat de ronde samen, weegt de argumenten, markeert onverifieerbare citaten en
-   geeft een score (−10..+10) met onderbouwing; hij werkt `state.json` bij.
+1. De **datering-as** debatteert: Opponent **Vroeg** en Opponent **Laat** weerleggen elkaar en
+   brengen elk ≥1 nieuw dateringsargument/bron in.
+2. De **karakter-as** debatteert: Opponent **Grieks-Romeins** en Opponent **Joods** doen hetzelfde
+   over het culturele karakter.
+3. De **moderator** vat de ronde samen, weegt de argumenten, markeert onverifieerbare citaten,
+   toetst een claim aan de primaire tekst en geeft twee scores (datering op grond van Vroeg/Laat,
+   karakter op grond van Grieks-Romeins/Joods, elk −10..+10) met onderbouwing; hij werkt `state.json`
+   bij.
 4. De orchestrator leest `state.json` en bepaalt of het debat doorgaat of stopt.
 
-De opponenten draaien **sequentieel**, zodat de tweede altijd op de eerste kan reageren; dat is
-nodig omdat subagents geen geheugen delen.
+De vier opponenten draaien **sequentieel**, zodat elke volgende altijd op de voorgaande beurten kan
+reageren; dat is nodig omdat subagents geen geheugen delen. De openingsvolgorde wisselt per ronde
+tegen first-mover-bias.
 
 ---
 
@@ -94,13 +112,13 @@ Elke run schrijft naar een eigen map onder `debat-output/`:
 ```
 debat-output/run-<datum-tijd>/
   whiteboard.md     # het volledige debat, ronde voor ronde, met bronnen
-  sources.md        # bronnenlog: elke geciteerde bron met volledige herkomst
-  state.json        # scoregeschiedenis (ronde, score, delta), machineleesbaar
+  state.json        # scoregeschiedenis (ronde, datering, karakter, delta's), machineleesbaar
+  sources.md        # bronnenlog: per claim de herkomst, primair/secundair, opgehaald ja/nee
   eindrapport.md    # eindoordeel, scoreverloop, sterkste argumenten, openstaande vragen
 ```
 
-Lees `eindrapport.md` voor de conclusie, `whiteboard.md` voor het volledige verloop en `sources.md`
-voor de aangedragen bronnen per ronde.
+Lees `eindrapport.md` voor de conclusie en `whiteboard.md` voor het volledige verloop met alle
+geciteerde bronnen.
 
 Een overzicht van alle uitgevoerde runs met directe links naar de eindrapporten staat in
 **[`debat-output/README.md`](debat-output/README.md)**.
@@ -112,19 +130,24 @@ Een overzicht van alle uitgevoerde runs met directe links naar de eindrapporten 
 ```
 .agents/
   agents/
-    evangelie-grieks.md       # subagent: Opponent Grieks (pro Van Kooten)
-    evangelie-joods.md        # subagent: Opponent Joods (late datering / joods)
-    evangelie-moderator.md    # subagent: neutrale jury → samenvatting + score
+    evangelie-vroeg.md            # subagent: Opponent Vroeg (datering, vóór 66-70)
+    evangelie-laat.md             # subagent: Opponent Laat (datering, post-85)
+    evangelie-grieks-romeins.md   # subagent: Opponent Grieks-Romeins (karakter, hellenistisch)
+    evangelie-joods.md            # subagent: Opponent Joods (karakter, joods)
+    evangelie-moderator.md        # subagent: neutrale jury → samenvatting + score op twee assen
   skills/evangelie-debat/
     SKILL.md                  # orchestrator: de volautomatische debatlus
     reference/
       achtergrond.md          # Van Kootens 4 pijlers + tegenargumenten (uit de docx)
-      scoring-rubric.md       # schaal -10..+10 + weegcriteria + anti-fabricatie
-      bronnen.md              # seed-bibliografie (URL's), gecategoriseerd
+      scoring-rubric.md       # twee assen (datering + karakter) + weegcriteria + anti-fabricatie
+      bronnen.md              # seed-bibliografie (secundair + primair corpus), gecategoriseerd
+      primaire-bronnen.md     # handleiding bij de brontekst-CLI (Sefaria + Perseus/Scaife)
     templates/
       whiteboard-template.md  # format van het gedeelde whiteboard
-      sources-template.md     # format van de bronnenlog per run
-      state-template.json     # startstructuur voor de scoregeschiedenis
+      state-template.json     # startstructuur voor de scoregeschiedenis (twee assen)
+      sources-template.md     # format van de bronnenlog (primair/secundair, opgehaald)
+  tools/
+    brontekst                 # CLI voor primaire teksten (Sefaria joods + Perseus/Scaife klassiek)
 achtergrondmateriaal/         # bronartikel over de Van Kooten-casus (.docx)
 debat-output/                 # gegenereerde runs (per run een submap)
   README.md                   # index van alle runs met links naar de eindrapporten
@@ -133,7 +156,13 @@ debat-output/                 # gegenereerde runs (per run een submap)
 ### Ontwerpprincipes
 - **Whiteboard = gedeeld geheugen.** Subagents zijn stateless; alle debatstaat leeft in
   `whiteboard.md`. Elke agent leest het volledig en appendt zijn beurt.
-- **Neutrale scoring.** Niet de partijdige opponenten maar een aparte moderator scoort.
+- **Eén opponent per pool.** Vier opponenten, twee per as, zodat elke pool (vroeg, laat,
+  Grieks-Romeins, joods) een eigen verdediger heeft en geen kant onbepleit blijft.
+- **Neutrale scoring op twee assen.** Niet de partijdige opponenten maar een aparte moderator
+  scoort, en datering en cultureel karakter worden los van elkaar gewogen; geen enkele opponent
+  koppelt de assen.
+- **Primair én secundair.** Opponenten en moderator scheiden moderne commentaren (secundair) van
+  antieke teksten (primair) en toetsen claims waar mogelijk zelf aan de primaire tekst.
 - **Deterministische stop.** Convergentie wordt gemeten aan de scoregeschiedenis in `state.json`,
   niet op gevoel.
 - **Anti-fabricatie.** Opponenten mogen alleen echt opgehaalde URL's citeren; de moderator
@@ -149,6 +178,8 @@ debat-output/                 # gegenereerde runs (per run een submap)
   meerdere webverzoeken per ronde.
 - De **commentaar-notebooks** vereisen de `nlm` CLI (NotebookLM Tools) op het PATH en een geldige
   login (`nlm login`). Ontbreekt die, dan vallen de opponenten automatisch terug op het open web.
+- De **`brontekst` CLI** (`.agents/tools/brontekst`) voor primaire teksten heeft alleen `python3` en
+  een internetverbinding nodig (Sefaria-API en de Perseus-TEI op GitHub); geen installatie of sleutel.
 - De inhoud is bewust **brongedreven en eerlijk**: het doel is winnen op bewijskracht, niet op
   retoriek. Controleer bij twijfel de geciteerde bronnen in `whiteboard.md` zelf.
 - Voor een snelle proefrun: start met `MAX_RONDES=2`.

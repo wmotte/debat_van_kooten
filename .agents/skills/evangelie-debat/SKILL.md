@@ -1,26 +1,34 @@
 ---
 name: evangelie-debat
-description: Voer een iteratief, brongebaseerd debat over de datering van het Johannesevangelie (de triangulatie van George/Geurt Henk van Kooten). Twee subagent-opponenten, "Grieks" (pro Van Kooten, vroege Johannes) en "Joods" (late datering, joodse invloed), reageren om de beurt op elkaar via een gedeeld whiteboard met online gezochte bronnen; een neutrale moderator scoort elke ronde -10..+10 tot de score stabiliseert. Gebruik dit wanneer de gebruiker dit debat, een "evangelie-debat", of een dispuut over de datering van Johannes / Van Kooten wil starten.
+description: Voer een iteratief, brongebaseerd debat over de datering van het Johannesevangelie (de triangulatie van George/Geurt Henk van Kooten). Vier subagent-opponenten debatteren in twee paren, één per as: "Vroeg" tegen "Laat" op de datering-as en "Grieks-Romeins" tegen "Joods" op de karakter-as, via een gedeeld whiteboard met online gezochte bronnen; een neutrale moderator scoort elke ronde op twee onafhankelijke assen (datering vroeg..laat en karakter Grieks-Romeins..Joods, elk -10..+10) tot beide scores stabiliseren. Gebruik dit wanneer de gebruiker dit debat, een "evangelie-debat", of een dispuut over de datering van Johannes / Van Kooten wil starten.
 ---
 
 # Orchestrator: evangelie-debat
 
 Jij (de hoofdsessie) bent de **orchestrator**. Je voert zelf geen argumenten aan en bewaart geen
-debatinhoud in je eigen context, je **bestuurt de lus** en delegeert al het denkwerk aan drie
-subagent-rollen. De rolinstructies staan in losse bestanden:
+debatinhoud in je eigen context, je **bestuurt de lus** en delegeert al het denkwerk aan vijf
+subagent-rollen: vier opponenten (twee per as) en een moderator. De rolinstructies staan in losse
+bestanden:
 
-- Opponent Grieks (pro Van Kooten, vroege Johannes) → `.agents/agents/evangelie-grieks.md`
-- Opponent Joods (late datering, joodse invloed) → `.agents/agents/evangelie-joods.md`
-- Moderator (neutrale jury: samenvat + scoort + bewaakt convergentie) → `.agents/agents/evangelie-moderator.md`
+- **Datering-as** (vroeg of laat):
+  - Opponent Vroeg (vóór 66-70, pro Van Kootens dateringsargumenten) → `.agents/agents/evangelie-vroeg.md`
+  - Opponent Laat (post-85) → `.agents/agents/evangelie-laat.md`
+- **Karakter-as** (Grieks-Romeins of joods):
+  - Opponent Grieks-Romeins (hellenistisch karakter) → `.agents/agents/evangelie-grieks-romeins.md`
+  - Opponent Joods (joods karakter) → `.agents/agents/evangelie-joods.md`
+- Moderator (neutrale jury: samenvat + scoort op twee assen + bewaakt convergentie) → `.agents/agents/evangelie-moderator.md`
+
+Elke opponent debatteert **strikt op zijn eigen as**: Vroeg en Laat alleen over de datum,
+Grieks-Romeins en Joods alleen over het culturele karakter. Zo blijven de twee assen ontkoppeld.
 
 ### Hoe je een rol aanroept (belangrijk)
 Spawn elke rol met de **Agent-tool**. Gebruik bij voorkeur `subagent_type` gelijk aan de
-agent-naam (`evangelie-grieks` / `evangelie-joods` / `evangelie-moderator`). **Zijn die niet
-beschikbaar** (bv. de agents zijn pas aangemaakt en nog niet geladen, je krijgt dan een
-"agent type not found"-fout), val dan terug op `subagent_type: general-purpose` en geef in de
-prompt het **absolute pad naar het rolbestand** met de instructie: *"Lees eerst dit rolbestand
-volledig en handel exact volgens die rol."* De rolbestanden zijn de enige bron van waarheid voor
-het gedrag; je hoeft de inhoud niet te dupliceren.
+agent-naam (`evangelie-vroeg` / `evangelie-laat` / `evangelie-grieks-romeins` / `evangelie-joods` /
+`evangelie-moderator`). **Zijn die niet beschikbaar** (bv. de agents zijn pas aangemaakt en nog niet
+geladen, je krijgt dan een "agent type not found"-fout), val dan terug op `subagent_type:
+general-purpose` en geef in de prompt het **absolute pad naar het rolbestand** met de instructie:
+*"Lees eerst dit rolbestand volledig en handel exact volgens die rol."* De rolbestanden zijn de enige
+bron van waarheid voor het gedrag; je hoeft de inhoud niet te dupliceren.
 
 > **Kernmechanisme:** subagents zijn stateless en delen geen geheugen. Het **whiteboard-bestand op
 > schijf is het enige gedeelde geheugen.** Elke subagent leest het en appendt eraan. Jij houdt
@@ -53,46 +61,62 @@ het gedrag; je hoeft de inhoud niet te dupliceren.
 5. Vertel de gebruiker kort dat het debat start en waar de artefacten komen.
 
 ## Stap 2, De debatlus
-Herhaal voor `ronde = START, START+1, …, MAX_RONDES` (bij een nieuwe run is `START = 1`; bij
-hervatten is `START = state.round + 1`):
+Per ronde komen **vier opponenten** aan het woord (twee per as), daarna de moderator. Binnen een as
+debatteren de twee polen tegen elkaar; de twee assen staan los. Herhaal voor
+`ronde = START, START+1, …, MAX_RONDES` (bij een nieuwe run is `START = 1`; bij hervatten is
+`START = state.round + 1`):
 
-1. **Openingszijde** (tegen first-mover-bias): oneven ronde → Grieks eerst, dan Joods; even ronde →
-   Joods eerst, dan Grieks.
-2. **Roep opponent A aan** met de Agent-tool (`subagent_type` = de eerste zijde). Geef in de prompt:
+1. **Volgorde van de ronde** (tegen first-mover-bias, wissel per ronde af):
+   - **Oneven ronde:** eerst de datering-as (Vroeg, dan Laat), dan de karakter-as (Grieks-Romeins,
+     dan Joods).
+   - **Even ronde:** eerst de karakter-as (Joods, dan Grieks-Romeins), dan de datering-as (Laat, dan
+     Vroeg).
+2. **Roep de vier opponenten één voor één aan** met de Agent-tool, in de volgorde van stap 1
+   (`subagent_type` = de agent-naam van die opponent). Geef elke opponent in de prompt:
    - het absolute pad naar `whiteboard.md`;
    - het absolute pad naar `sources.md` (de bronnenlog van deze run);
-   - de **absolute paden** naar de reference-bestanden `reference/achtergrond.md` en
-     `reference/bronnen.md` (de subagent draait mogelijk in een andere werkmap en kan ze anders
-     niet vinden);
+   - de **absolute paden** naar de reference-bestanden `reference/achtergrond.md`,
+     `reference/bronnen.md` en `reference/primaire-bronnen.md` (de subagent draait mogelijk in een
+     andere werkmap en kan ze anders niet vinden);
+   - het **absolute pad naar de `brontekst`-CLI** (`.agents/tools/brontekst`), zodat de opponent
+     primaire teksten kan ophalen ongeacht zijn werkmap;
    - het rondenummer;
-   - de instructie: "Lees het hele whiteboard + de reference-bestanden, weerleg de laatste beurt,
-     breng ≥1 nieuw geverifieerd argument/bron (uit het open web of uit de commentaar-notebooks
-     via de `nlm` CLI, bv. `nlm cross query "..." -n "John - exegesis"`), en append je beurt volgens
-     je rolinstructie. Log elke geciteerde bron met volledige herkomst in `sources.md`. Vanaf ronde
-     2 mag je nieuwe, creatieve invalshoeken inbrengen. Schrijf natuurlijk Nederlands zonder
-     em-dashes of stijltics. Retourneer alleen een korte statusregel."
-   **Wacht** tot de subagent klaar is.
-3. **Roep opponent B aan** (de andere zijde) op identieke wijze. B ziet nu A's verse beurt op het
-   whiteboard. Wacht tot klaar.
-4. **Roep de moderator aan** (`evangelie-moderator`). Geef paden naar `whiteboard.md`, `state.json`
-   én `sources.md`, het rondenummer, en "Dit is een RONDE-evaluatie." Wacht tot klaar. De moderator
-   werkt ook de scorebord-tabel boven in `whiteboard.md` bij.
-5. **Lees `state.json`** (Read). Pak het laatste `history`-item (de score + delta van deze ronde).
-6. **Stop-condities**, stop de lus als één hiervan geldt:
+   - de instructie: "Lees het hele whiteboard + de reference-bestanden, weerleg de laatste beurt van
+     je tegenstander op jouw as, breng ≥1 nieuw geverifieerd argument/bron (uit het open web of uit
+     de commentaar-notebooks via de `nlm` CLI, bv. `nlm cross query "..." -n "John - exegesis"`), en
+     toets toetsbare claims over primaire teksten met de `brontekst`-CLI (zie `primaire-bronnen.md`).
+     Append je beurt volgens je rolinstructie onder het juiste as-kopje. Blijf strikt op je eigen as.
+     Log elke geciteerde bron met volledige herkomst in `sources.md`. Creatieve, verrassende
+     invalshoeken zijn welkom. Schrijf natuurlijk Nederlands zonder em-dashes of stijltics.
+     Retourneer alleen een korte statusregel."
+   **Wacht** telkens tot de subagent klaar is voordat je de volgende aanroept, zodat elke opponent de
+   verse beurten ziet.
+3. **Roep de moderator aan** (`evangelie-moderator`). Geef paden naar `whiteboard.md`, `state.json`
+   én `sources.md`, het absolute pad naar de `brontekst`-CLI (`.agents/tools/brontekst`) en
+   `reference/primaire-bronnen.md`, het rondenummer, en "Dit is een RONDE-evaluatie." Wacht tot klaar.
+   De moderator
+   scoort de datering-as op grond van Vroeg/Laat en de karakter-as op grond van Grieks-Romeins/Joods,
+   en werkt ook de scorebord-tabel boven in `whiteboard.md` bij.
+4. **Lees `state.json`** (Read). Pak het laatste `history`-item (beide scores + delta's van deze ronde).
+5. **Stop-condities**, stop de lus als één hiervan geldt:
    - `converged == true` of `stop_reason` gezet (moderator zag volledige capitulatie); **of**
-   - de laatste `CONV_GEDULD` rondes hebben elk `|delta| ≤ CONV_DREMPEL` (score is stabiel); **of**
-   - de laatste `CONV_GEDULD` rondes hebben elk `new_evidence_grieks == 0` én
-     `new_evidence_joods == 0` (beide kanten zijn uitgeput, ook als de score nog wat beweegt); **of**
+   - de laatste `CONV_GEDULD` rondes hebben elk **beide** assen stabiel, dat wil zeggen
+     `|delta_datering| ≤ CONV_DREMPEL` **én** `|delta_karakter| ≤ CONV_DREMPEL`; **of**
+   - de laatste `CONV_GEDULD` rondes hebben elk **alle vier** tellingen op nul
+     (`new_evidence_vroeg`, `new_evidence_laat`, `new_evidence_grieks_romeins`,
+     `new_evidence_joods` alle `0`), dus beide assen zijn volledig uitgeput; **of**
    - `ronde == MAX_RONDES`.
 
-   Negeer bij de twee stabiliteits-checks ronde 1 (`delta: null` telt **niet** als stabiel);
-   evalueer ze pas zodra er minstens `CONV_GEDULD` rondes met een ingevulde `delta` zijn, dus ten
-   vroegste vanaf ronde `CONV_GEDULD + 1`.
+   Negeer bij de stabiliteits-check ronde 1 (`delta_datering`/`delta_karakter: null` telt **niet** als
+   stabiel); evalueer hem pas zodra er minstens `CONV_GEDULD` rondes met ingevulde delta's zijn, dus
+   ten vroegste vanaf ronde `CONV_GEDULD + 1`. Een ronde telt alleen als stabiel als **beide** assen
+   binnen de drempel blijven.
    Noteer de reden (`concessie` / `stabiele score` / `uitputting` / `max rondes`).
-7. Print één regel voortgang aan de gebruiker, bv. `Ronde 3, score −4 (Δ −1)`, en ga door of stop.
+6. Print één regel voortgang aan de gebruiker, bv. `Ronde 3, datering −4 (Δ −1), karakter +2 (Δ 0)`,
+   en ga door of stop.
 
-Voer de subagents **sequentieel** uit (niet parallel): binnen een ronde moet de tweede opponent de
-beurt van de eerste kunnen lezen, en de moderator beide.
+Voer de subagents **sequentieel** uit (niet parallel): binnen een ronde moet elke opponent de
+voorgaande beurten kunnen lezen, en de moderator alle vier.
 
 ## Stap 3, Eindrapport
 1. Werk in `state.json` `stop_reason` bij als die nog niet gezet is (Edit).

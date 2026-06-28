@@ -1,0 +1,416 @@
+#!/usr/bin/env python3
+"""brontekst, een CLI om primaire teksten deterministisch op te halen.
+
+Twee databases:
+  - Sefaria (joodse bronnen: Tanakh, targumim, Mishna/Talmoed, midrasj, Ben Sira)
+  - Perseus/Scaife (klassiek Grieks en Latijn, via de ruwe TEI op GitHub)
+
+Alleen de Python-standaardbibliotheek; geen installatie nodig. Net als de nlm-CLI
+bedoeld om door de debat-subagents via Bash te worden aangeroepen, zodat een
+secundaire claim tegen de echte primaire tekst getoetst kan worden.
+
+Subcommando's:
+  brontekst sefaria "<ref>" [--lang he|en|both]
+  brontekst resolve "<query>"
+  brontekst perseus "<cts-urn>"
+  brontekst scaife-url "<cts-urn>"
+
+Exitcode 0 bij succes, niet-nul wanneer een ref/URN niet bestaat of de tekst
+niet bereikbaar is. Noteer in dat geval eerlijk `primair nagezien: nee`.
+"""
+
+import argparse
+import html
+import html.entities
+import json
+import re
+import sys
+import urllib.parse
+import urllib.request
+import urllib.error
+import xml.etree.ElementTree as ET
+
+UA = "brontekst/1.0 (evangelie-debat; primaire-bron-verificatie)"
+TEI_NS = "{http://www.tei-c.org/ns/1.0}"
+
+SEFARIA = "https://www.sefaria.org"
+
+# greekLit en latinLit staan in aparte canonical-repos; greekLit valt bij missen
+# terug op First1KGreek (OpenGreekAndLatin).
+PERSEUS_REPOS = {
+    "greekLit": [
+        "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master",
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master",
+    ],
+    "latinLit": [
+        "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master",
+    ],
+}
+
+
+def err(msg):
+    sys.stderr.write(msg.rstrip() + "\n")
+
+
+def fail(msg, code=1):
+    err("FOUT: " + msg)
+    sys.exit(code)
+
+
+def http_get(url, timeout=30):
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.read().decode("utf-8", "replace"), r.status
+    except urllib.error.HTTPError as e:
+        return None, e.code
+    except (urllib.error.URLError, TimeoutError, OSError) as e:
+        return None, "netfout: %s" % (getattr(e, "reason", e),)
+
+
+def strip_html(s):
+    s = re.sub(r"<[^>]+>", "", s)
+    return html.unescape(s).strip()
+
+
+def flatten_text(t):
+    """Sefaria 'text' kan string of geneste lijst zijn."""
+    out = []
+
+    def walk(x):
+        if isinstance(x, list):
+            for y in x:
+                walk(y)
+        elif isinstance(x, str):
+            cleaned = strip_html(x)
+            if cleaned:
+                out.append(cleaned)
+
+    walk(t)
+    return "\n".join(out)
+
+
+# ---------------------------------------------------------------- sefaria
+
+def normalize_ref(ref):
+    """Maak van een menselijke ref de Sefaria-tref-vorm.
+
+    'Targum Onkelos, Genesis 1:1' -> 'Targum_Onkelos_Genesis.1.1'
+    'Ben Sira 24:8'               -> 'Ben_Sira.24.8'
+    """
+    ref = ref.strip().replace(",", "")
+    m = re.search(r"\s(\d+(?:[:.]\d+){0,3}(?:-\d+(?:[:.]\d+){0,3})?)\s*$", ref)
+    if m:
+        title = ref[: m.start()].strip().replace(" ", "_")
+        loc = m.group(1).replace(":", ".")
+        return title + "." + loc
+    return ref.replace(" ", "_")
+
+
+def sefaria_fetch(ref):
+    """Probeer enkele ref-vormen; geef (data, gebruikte_url) terug of (None, laatste_status)."""
+    candidates = []
+    for c in (normalize_ref(ref), ref.strip().replace(",", "").replace(" ", "_"), ref.strip()):
+        if c not in candidates:
+            candidates.append(c)
+    last = None
+    for c in candidates:
+        quoted = urllib.parse.quote(c, safe="")
+        url = ("%s/api/v3/texts/%s?return_format=text_only"
+               "&version=primary&version=translation" % (SEFARIA, quoted))
+        body, status = http_get(url)
+        last = status
+        if body is None:
+            continue
+        try:
+            data = json.loads(body)
+        except json.JSONDecodeError:
+            continue
+        if isinstance(data, dict) and data.get("error"):
+            last = data["error"]
+            continue
+        if data.get("versions"):
+            return data, url
+    return None, last
+
+
+def cmd_sefaria(args):
+    ref = args.ref.strip()
+    data, info = sefaria_fetch(ref)
+    if data is None:
+        fail("Sefaria heeft geen bereikbare tekst voor '%s' (%s).\n"
+             "Zoek de juiste ref met: brontekst resolve \"%s\"" % (ref, info, ref))
+
+    versions = data.get("versions") or []
+    canon = data.get("ref") or ref
+    want = args.lang
+    he = next((v for v in versions if (v.get("actualLanguage") or v.get("language")) == "he"), None)
+    en = next((v for v in versions if (v.get("actualLanguage") or v.get("language")) == "en"), None)
+
+    print("Ref:    %s" % canon)
+    print("Bron:   Sefaria (%s)" % info)
+
+    printed = False
+    if want in ("he", "both") and he is not None:
+        txt = flatten_text(he.get("text"))
+        if txt:
+            print("\n[Hebreeuws/Aramees] %s" % (he.get("versionTitle") or ""))
+            print(txt)
+            printed = True
+    if want in ("en", "both") and en is not None:
+        txt = flatten_text(en.get("text"))
+        if txt:
+            print("\n[Engels] %s" % (en.get("versionTitle") or ""))
+            print(txt)
+            printed = True
+
+    if not printed:
+        # val terug op de eerste versie met tekst, ongeacht taal
+        for v in versions:
+            txt = flatten_text(v.get("text"))
+            if txt:
+                print("\n[%s] %s" % (v.get("actualLanguage") or "?", v.get("versionTitle") or ""))
+                print(txt)
+                printed = True
+                break
+    if not printed:
+        fail("Sefaria gaf lege tekst voor '%s'." % ref)
+    return 0
+
+
+# ---------------------------------------------------------------- resolve
+
+def cmd_resolve(args):
+    quoted = urllib.parse.quote(args.query.strip(), safe="")
+    url = "%s/api/name/%s" % (SEFARIA, quoted)
+    body, status = http_get(url)
+    if body is None:
+        fail("Sefaria onbereikbaar (%s)." % status)
+    try:
+        data = json.loads(body)
+    except json.JSONDecodeError:
+        fail("Sefaria gaf geen geldige JSON.")
+    is_ref = data.get("is_ref")
+    comps = data.get("completions") or []
+    if data.get("ref"):
+        print("Exacte ref: %s" % data.get("ref"))
+    print("is_ref: %s" % is_ref)
+    if not comps:
+        print("(geen kandidaten)")
+        return 0
+    print("Kandidaten:")
+    for c in comps:
+        print("  - %s" % c)
+    return 0
+
+
+# ---------------------------------------------------------------- perseus
+
+def parse_urn(urn):
+    """urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.1 -> (namespace, work, passage)."""
+    m = re.match(r"urn:cts:([^:]+):([^:]+)(?::(.*))?$", urn.strip())
+    if not m:
+        fail("Onherkenbare CTS-URN: '%s'. Verwacht urn:cts:<ns>:<werk>[:<passage>]." % urn)
+    ns, work, passage = m.group(1), m.group(2), m.group(3) or ""
+    return ns, work, passage
+
+
+def urn_to_paths(ns, work):
+    parts = work.split(".")
+    if len(parts) < 2:
+        fail("Werk-component '%s' mist textgroup/work (verwacht tg.work[.editie])." % work)
+    tg, wk = parts[0], parts[1]
+    bases = PERSEUS_REPOS.get(ns)
+    if not bases:
+        fail("Onbekende CTS-namespace '%s' (alleen greekLit/latinLit ondersteund)." % ns)
+    return ["%s/data/%s/%s/%s.xml" % (b, tg, wk, work) for b in bases]
+
+
+def sanitize_tei(s):
+    """Perseus-TEI gebruikt benoemde entiteiten (&dagger; &mdash; ...) die ET niet kent.
+    Vervang ze door hun Unicode; behoud de standaard-XML-entiteiten; gooi onbekende weg."""
+    def repl(m):
+        ent = m.group(1)
+        if ent in ("amp", "lt", "gt", "quot", "apos") or ent.startswith("#"):
+            return m.group(0)
+        cp = html.entities.html5.get(ent + ";") or html.entities.html5.get(ent)
+        return cp if cp else ""
+    return re.sub(r"&([A-Za-z0-9]+);", repl, s)
+
+
+def local(tag):
+    return tag.split("}", 1)[-1]
+
+
+CONTAINER = ("div", "div1", "div2", "div3", "div4", "div5")
+TEXTLEAF = ("p", "l", "head", "label", "seg", "ab")
+
+
+def find_body_root(root):
+    body = root.find(".//%sbody" % TEI_NS)
+    if body is None:
+        body = root.find(".//body")
+    if body is None:
+        return None
+    # begin bij de edition/translation-div, anders body zelf
+    for child in body:
+        if local(child.tag) in CONTAINER and child.get("type") in ("edition", "translation", None):
+            return child
+    return body
+
+
+def find_container_child(node, part):
+    """Zoek alleen onder de DIRECTE kind-divs: een CTS-ref is strikt één niveau per
+    ref-deel. Een descendants-zoektocht zou een dieper element met hetzelfde @n eerder
+    in documentvolgorde kunnen pakken (bv. subchapter 1.11 vóór chapter 11)."""
+    for el in list(node):
+        if local(el.tag) in CONTAINER and el.get("n") == part:
+            return el
+    return None
+
+
+def milestone_slice(node, part):
+    """Verzamel tekstdragende elementen tussen <milestone n=part> en de volgende milestone."""
+    out, collecting = [], False
+    for el in node.iter():
+        lname = local(el.tag)
+        if lname == "milestone":
+            if el.get("n") == part:
+                collecting = True
+            elif collecting:
+                break
+        elif collecting and lname in TEXTLEAF:
+            out.append(el)
+    return out or None
+
+
+def find_passage(root, passage):
+    """Daal af langs de punt-gescheiden ref. Ondersteunt geneste textpart-divs
+    (EpiDoc) en de legacy div1/div2 + milestone-opmaak. Geeft een Element of een
+    lijst Elements terug, of None."""
+    node = find_body_root(root)
+    if node is None:
+        return None
+    if not passage:
+        return node
+    for part in passage.split("."):
+        child = find_container_child(node, part)
+        if child is not None:
+            node = child
+            continue
+        slice_ = milestone_slice(node, part)
+        if slice_ is not None:
+            return slice_
+        return None
+    return node
+
+
+def node_text(node):
+    elements = node if isinstance(node, list) else [node]
+    chunks = []
+    for top in elements:
+        if isinstance(node, list):
+            t = "".join(top.itertext())
+            t = re.sub(r"\s+", " ", t).strip()
+            if t:
+                chunks.append(t)
+            continue
+        for el in top.iter():
+            if local(el.tag) in TEXTLEAF:
+                t = "".join(el.itertext())
+                t = re.sub(r"\s+", " ", t).strip()
+                if t:
+                    chunks.append(t)
+    if not chunks and not isinstance(node, list):
+        t = "".join(node.itertext())
+        t = re.sub(r"\s+", " ", t).strip()
+        if t:
+            chunks.append(t)
+    return "\n".join(chunks)
+
+
+def scaife_url(urn):
+    return "https://scaife.perseus.org/reader/%s/" % urn.strip()
+
+
+def cmd_perseus(args):
+    urn = args.urn.strip()
+    ns, work, passage = parse_urn(urn)
+    paths = urn_to_paths(ns, work)
+    body = None
+    used = None
+    last = None
+    for url in paths:
+        b, status = http_get(url)
+        if b is not None:
+            body, used = b, url
+            break
+        last = (url, status)
+    if body is None:
+        fail("TEI niet gevonden voor '%s' (laatste poging %s, status %s).\n"
+             "Zoek de juiste URN in de Scaife-bibliotheek: %s"
+             % (urn, last[0] if last else "?", last[1] if last else "?",
+                "https://scaife.perseus.org/library/"))
+
+    try:
+        root = ET.fromstring(sanitize_tei(body))
+    except ET.ParseError as e:
+        fail("Kon TEI niet parsen (%s) uit %s" % (e, used))
+
+    print("URN:      %s" % urn)
+    print("TEI:      %s" % used)
+    print("Scaife:   %s" % scaife_url(urn))
+
+    node = find_passage(root, passage)
+    if node is None:
+        edition = find_passage(root, "")
+        sample = node_text(edition)[:600] if edition is not None else ""
+        err("\nLET OP: passage '%s' niet gevonden in het citatieschema. "
+            "Controleer de ref handmatig via de Scaife-URL hierboven." % passage)
+        if sample:
+            print("\n[begin van het werk, ter oriëntatie]\n%s" % sample)
+        sys.exit(2)
+
+    txt = node_text(node)
+    if not txt:
+        fail("Passage '%s' bevat geen leesbare tekst." % passage)
+    print("\n[passage %s]\n%s" % (passage or "(volledig werk)", txt))
+    return 0
+
+
+def cmd_scaife_url(args):
+    print(scaife_url(args.urn))
+    return 0
+
+
+# ---------------------------------------------------------------- main
+
+def main():
+    p = argparse.ArgumentParser(
+        prog="brontekst",
+        description="Haal primaire teksten op uit Sefaria (joods) of Perseus/Scaife (klassiek).")
+    sub = p.add_subparsers(dest="cmd", required=True)
+
+    ps = sub.add_parser("sefaria", help="Joodse tekst via Sefaria, bv. \"Targum Onkelos, Genesis 1:1\"")
+    ps.add_argument("ref")
+    ps.add_argument("--lang", choices=["he", "en", "both"], default="both")
+    ps.set_defaults(func=cmd_sefaria)
+
+    pr = sub.add_parser("resolve", help="Zoek de juiste Sefaria-ref (autocomplete)")
+    pr.add_argument("query")
+    pr.set_defaults(func=cmd_resolve)
+
+    pp = sub.add_parser("perseus", help="Klassieke tekst via CTS-URN, bv. urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.1")
+    pp.add_argument("urn")
+    pp.set_defaults(func=cmd_perseus)
+
+    pu = sub.add_parser("scaife-url", help="Print enkel de Scaife-reader-URL voor een URN")
+    pu.add_argument("urn")
+    pu.set_defaults(func=cmd_scaife_url)
+
+    args = p.parse_args()
+    sys.exit(args.func(args) or 0)
+
+
+if __name__ == "__main__":
+    main()

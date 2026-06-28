@@ -1,6 +1,7 @@
 {
-  "thesis": "Datering Johannesevangelie: vroeg (Grieks/Van Kooten) vs laat (Joods)",
-  "scale": "-10 = sterk Grieks (vroeg) .. 0 = midden .. +10 = sterk Joods (laat)",
+  "thesis": "Johannesevangelie op twee onafhankelijke assen: datering (vroeg vs laat) en cultureel karakter (Grieks-Romeins vs Joods)",
+  "scale_datering": "-10 = sterk vroeg (voor 70) .. 0 = midden .. +10 = sterk laat (post-85)",
+  "scale_karakter": "-10 = sterk Grieks-Romeins .. 0 = midden .. +10 = sterk Joods",
   "params": {
     "max_rondes": 8,
     "conv_drempel": 1,
