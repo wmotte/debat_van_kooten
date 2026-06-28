@@ -1,0 +1,70 @@
+{
+  "thesis": "Johannesevangelie op twee onafhankelijke assen: datering (vroeg vs laat) en cultureel karakter (Grieks-Romeins vs Joods)",
+  "scale_datering": "-10 = sterk vroeg (voor 70) .. 0 = midden .. +10 = sterk laat (post-85)",
+  "scale_karakter": "-10 = sterk Grieks-Romeins .. 0 = midden .. +10 = sterk Joods",
+  "vervolg_op": "run-20260627-203757",
+  "startpunt_datering": 1,
+  "startpunt_karakter": 3,
+  "params": {
+    "max_rondes": 4,
+    "conv_drempel": 1,
+    "conv_geduld": 99
+  },
+  "round": 4,
+  "history": [
+    {
+      "round": 1,
+      "score_datering": 2,
+      "delta_datering": 1,
+      "score_karakter": 4,
+      "delta_karakter": 1,
+      "rationale": "Vroegs accurate voor-70 jurisdictie (Joh 18:31) bleek dateringsneutraal omdat dezelfde baraita ook in de eeuwen later geredigeerde Yerushalmi staat; Laats receptie-argument ondermijnt Van Kootens oudste-evangelie-pijler; op karakter voerde Joods Joh 4:42 terug op Deutero-Jesaja en legde een hard halachisch-archeologisch argument (stenen kruiken, chalksteen) neer dat Grieks-Romeins niet pareerde.",
+      "new_evidence_vroeg": 2,
+      "new_evidence_laat": 2,
+      "new_evidence_grieks_romeins": 2,
+      "new_evidence_joods": 2,
+      "concession": "Vroeg: accurate juridische herinnering kan ook in een late tekst bewaard zijn, winst zit in de laag niet in een jaartal. Laat: receptie legt vooral een bovengrens vast en duwt de ondergrens niet naar 85; Vroegs juridische feit blijft accuraat. Grieks-Romeins: Thomas-formule heeft OT-wortels (inkadering, geen herkomst) en Priene alleen via vertaling getoetst. Joods: keizerlijke soter is een reele klankbodem bij Joh 4:42 en subversie veronderstelt bekendheid met de keizercultus."
+    },
+    {
+      "round": 2,
+      "score_datering": 1,
+      "delta_datering": -1,
+      "score_karakter": 3,
+      "delta_karakter": -1,
+      "rationale": "Op de datering-as won Vroeg de uitwisseling: hij pareerde Laats eschatologie-ontwikkeling (gerealiseerde eschatologie zit al in de oudste traditie, John behoudt toekomstverwachting, Brown noemt theologische ontwikkeling een onbetrouwbare chronometer) en nam preventief het Birkat ha-Minim/Jamnia-anker weg door pre-70 uitsluiting aan te tonen (Ezra 10:8, 1QS); dat is dateringsneutraal maar verzwakt de late zaak, terwijl de residuele late neiging op het receptie-argument uit ronde 1 blijft rusten. Op de karakter-as botsten twee even sterke primair gestaafde fronten: Joods' Chanoeka-consecratie (1 Makk 4:54-59) tegen Grieks-Romeins' anagnorisis (Aristoteles Poetica 11), met een geslaagde Thomas-herovering (appellare) door Grieks-Romeins, wat de as dichter bij evenwicht brengt zonder de joodse fundamenten uit ronde 1 te slopen.",
+      "new_evidence_vroeg": 2,
+      "new_evidence_laat": 2,
+      "new_evidence_grieks_romeins": 2,
+      "new_evidence_joods": 2,
+      "concession": "Vroeg: het synagoge-argument is negatief/dateringsneutraal (haalt de vloer onder post-85 weg, bewijst geen vroege datum) en de presente eschatologie is reeel, de winst is dat de klok onbetrouwbaar is, niet dat ontwikkeling tot nul is weerlegd. Laat: gerealiseerde eschatologie is niet onfeilbaar laat, John behoudt toekomstverwachting (5:28-29), het punt blijft probabilistisch, en Vroegs juridische feit blijft accuraat. Joods: agiazo is een Grieks woord en de claim betreft de verwijzingswereld niet de taal; de anti-imperiale lading loopt via een joods-liturgisch filter. Grieks-Romeins: anagnorisis is niet exclusief Grieks (Gen 45) en de Chanoeka-feestlens en consecratietaal zijn joods; de winst zit in de hellenistisch-joodse literaire bedding en het Griekse heerserskader."
+    },
+    {
+      "round": 3,
+      "score_datering": 2,
+      "delta_datering": 1,
+      "score_karakter": 4,
+      "delta_karakter": 1,
+      "rationale": "Op de datering-as won Laat de uitwisseling: hij pareerde Vroegs verse papyrologie (de geaggregeerde voetafdruk is datumonafhankelijk en blijft een terminus ante quem, Vroegs eigen P52-diffusie-lag landt op 90-100, Llewelyn sloopt alleen Bauer terwijl Hill op de jaren 90 blijft) en voegde een grammaticaal verankerd relatieve-chronologie-argument toe (Joh 3:24 lezersveronderstelling, zelfs door Bauckham toegegeven) dat Van Kootens oudste-evangelie-pijler frontaal raakt; Vroegs winst was louter negatief en deels zelf-ondermijnend, dus de late kant herwint de in ronde 2 verloren grond zonder knockout. Op de karakter-as botsten twee sterke primair gestaafde fronten: Grieks-Romeins' symposion/consolatio-lezing van Joh 13-17 (Plato Symposion 175) tegen Joods, die het symposion-aanliggen neutraliseerde als gedeelde seder-houding (Pesachim 10:1, primair getoetst, beide teksten houden stand zodat het detail zichzelf opheft) en de leerstellige kern van diezelfde redes, de Geest der waarheid, terugwon als woordelijke 1QS-titel; Grieks-Romeins concedeerde de genre-vorm deels als gedeeld, zodat de as een punt richting joods schuift.",
+      "new_evidence_vroeg": 2,
+      "new_evidence_laat": 2,
+      "new_evidence_grieks_romeins": 2,
+      "new_evidence_joods": 2,
+      "concession": "Vroeg: de papyrologische winst is negatief/dateringsneutraal (haalt een steunpilaar onder de late kant weg, bewijst geen datum voor 70), de geaggregeerde attestatie is datumonafhankelijk, de P52-verspreidingsvertraging is ondersteunend en landt op 90-100, en P52's palaeografie is betwist (Nongbri, Rylands richting 200). Laat: de relatieve chronologie plaatst Johannes na de synoptische traditie maar niet automatisch na 85 in absolute jaren; de absolute datum volgt pas uit de gangbare ijkpunten (Marcus 65-70, Mattheus 80). Grieks-Romeins: het symposion is geen exclusief Griekse afscheidsvorm (joodse testament-traditie Gen 49, Deut 32-33) en agape is niet eros; de winst betreft de genrevorm van het tafelgesprek, niet de gelijkstelling van liefdesbegrippen. Joods: aanliggen bewijst niets exclusiefs (ook Grieks-Romeins), John transformeert de Qumran-dualistiek tot een dualisme van de beslissing zonder bewezen directe literaire afhankelijkheid, en de genre-schaal van het wijsgerige afscheid onder vrienden wordt aan Grieks-Romeins toegegeven."
+    },
+    {
+      "round": 4,
+      "score_datering": 1,
+      "delta_datering": -1,
+      "score_karakter": 3,
+      "delta_karakter": -1,
+      "rationale": "Op de datering-as won Vroeg de uitwisseling: hij neutraliseerde Laats nieuwe corpus-volgorde-front (von Wahldes ἄλλον παράκλητον werkt intratekstueel, want de eerste Paracleet is de vertrekkende Jezus zelf; Brown en von Wahlde wijzen bovendien tegengesteld zodat Laat niet beide kan schragen) en legde een argument uit stilzwijgen op Johannes' eigen redactielaag neer (Joh 11:48 zonder vervullingsglos, symmetrisch gemeten tegen Lucas' belegeringstaal Lc 21:20, premisse primair bevestigd), wat de neutraliteitsval ontwijkt; toch geen knockout, want het stilzwijgen is probabilistisch met een reele post-70 ironie-lezing en levert geen positief jaartal, en Laats corpus-traject behoudt restkracht. Op de karakter-as botsten twee primair gestaafde fronten: Joods' grammaticaal harde 1:51-midrasj (de Hebreeuwse בּוֹ-ambiguiteit, woordelijk bevestigd in Genesis Rabbah 68:12) tegenover Grieks-Romeins' verse, primair gestaafde genezingscultus op de narratieve ruggengraat (Joh 9 tegen Suetonius Vesp. 7, Vespasianus/Serapis) plus een scherpe eindkarakter-weerlegging van 1:51; Grieks-Romeins hedde zijn front zwaar (presenteren-en-overtreffen, speeksel niet exclusief, asklepion tweede-eeuws), maar trok de as een notch naar het midden zonder de joodse fundamenten te slopen.",
+      "new_evidence_vroeg": 2,
+      "new_evidence_laat": 2,
+      "new_evidence_grieks_romeins": 2,
+      "new_evidence_joods": 2,
+      "concession": "Vroeg: het argument uit stilzwijgen is probabilistisch, de post-70 dramatische-ironie-lezing van Joh 11:48 (Carson, Kostenberger, O'Day) is een reele onweerlegbare alternatieve verklaring, de Lucas-helft verzwakt door de Septuagint-oorsprong van belegeringstaal (Dodd, Morris, Manson), en het levert geen positief jaartal voor 70. Laat: de corpus-volgorde is betwist (Schnackenburg, Strecker), het argument is relatief-sequentieel (de absolute datum van de brieven rond 100 is afgeleid, geen vast jaartal) en Lieu waarschuwt tegen gladde gemeenschapsreconstructie en betwijfelt directe literaire afhankelijkheid. Joods: Genesis Rabbah is vijfde-eeuws (gedeelde techniek, geen literaire afhankelijkheid), Brown noemt de Jezus-voor-Jakob-substitutie 'dubious', en 'zijn leven geven voor zijn vrienden' (Joh 15:13) heeft een reele Grieks-Romeinse klankbodem. Grieks-Romeins: het patroon is presenteren-en-overtreffen (subversie veronderstelt het Griekse kader, inkadering geen herkomst), speeksel is ook joodse/mediterrane volksgeneeskunde, theios-aner is omstreden (Holladay, Tiede), het asklepion bij Bethesda is tweede-eeuws zodat de cultische duiding een gevolgtrekking blijft, en de 1:51-crux is in oorsprong Hebreeuws."
+    }
+  ],
+  "converged": false,
+  "stop_reason": "max rondes"
+}
