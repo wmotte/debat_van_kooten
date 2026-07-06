@@ -1,0 +1,44 @@
+{
+  "thesis": "Synoptische bron Q: gedeelde bron van Mattheus en Lucas tegenover Lucas' gebruik van Mattheus zonder Q",
+  "scale_q": "-10 = sterk voor Q .. 0 = midden .. +10 = sterk tegen Q",
+  "params": {
+    "max_rondes": 8,
+    "conv_drempel": 1,
+    "conv_geduld": 2
+  },
+  "round": 3,
+  "score_q": -3,
+  "delta_q": 0,
+  "rationale": "Bergrede/Veldrede houdt de balans voor Q, maar Farrer/Goulder verklaart verkorting en verspreiding concreet genoeg om geen verdere verschuiving te eisen.",
+  "history": [
+    {
+      "round": 1,
+      "score_q": -2,
+      "delta_q": null,
+      "rationale": "De primaire tekstobservatie neigt licht naar Q, terwijl de niet-Q verklaring voor Lucas' adreswijziging concreet genoeg is om een sterkere Q-score te vermijden.",
+      "new_evidence_voor_q": 2,
+      "new_evidence_tegen_q": 3,
+      "concession": "Beide zijden erkennen dat Mattheus 3/Lucas 3 een niet-Marcaanse literaire relatie toont, maar de perikoop Q niet zelfstandig bewijst."
+    },
+    {
+      "round": 2,
+      "score_q": -3,
+      "delta_q": -1,
+      "rationale": "De primaire Mattheus 11/Lucas 10-parallel en concrete notebookcontrole wegen iets zwaarder richting Q dan de relevante maar betwiste vermoeidheidsvoorbeelden richting Farrer.",
+      "new_evidence_voor_q": 2,
+      "new_evidence_tegen_q": 2,
+      "concession": "Voor Q erkent dat Lucas 19 een drukpunt blijft en geen Q-manuscript levert; Tegen Q erkent dat vermoeidheid in dubbeltraditie minder zuiver is dan bij Marcusprioriteit."
+    },
+    {
+      "round": 3,
+      "score_q": -3,
+      "delta_q": 0,
+      "rationale": "De primaire Bergrede/Veldrede-observatie ondersteunt Q/gedeelde traditie licht, maar Farrer en Goulder bieden een concreet model voor Lucas' verkorting en verspreiding.",
+      "new_evidence_voor_q": 2,
+      "new_evidence_tegen_q": 3,
+      "concession": "Voor Q erkent dat Bergrede/Veldrede geen exact reconstrueerbaar Q-document bewijst; Tegen Q erkent dat de gedeelde kernvolgorde een reeel drukpunt voor Farrer blijft."
+    }
+  ],
+  "converged": true,
+  "stop_reason": "Convergentie: de laatste 2 geldige rondes hadden |delta_q| <= 1."
+}
