@@ -1,4 +1,4 @@
-# Evangelie- en Q-debat, LLM-skills
+# Evangelie- en Q-debat
 
 Deze repo bevat skills die **iteratieve, brongebaseerde debatten** voeren rond George (Geurt Henk)
 van Kootens *Echo's van het goede nieuws: De evangeliën in context, toen en nu* (2025/2026).
