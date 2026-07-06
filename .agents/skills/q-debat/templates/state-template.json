@@ -1,0 +1,13 @@
+{
+  "thesis": "Synoptische bron Q: gedeelde bron van Mattheus en Lucas tegenover Lucas' gebruik van Mattheus zonder Q",
+  "scale_q": "-10 = sterk voor Q .. 0 = midden .. +10 = sterk tegen Q",
+  "params": {
+    "max_rondes": 8,
+    "conv_drempel": 1,
+    "conv_geduld": 2
+  },
+  "round": 0,
+  "history": [],
+  "converged": false,
+  "stop_reason": null
+}

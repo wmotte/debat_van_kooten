@@ -1,10 +1,12 @@
-# Evangelie-debat, een LLM-skill
+# Evangelie- en Q-debat, LLM-skills
 
-Een skill die een **iteratief, brongebaseerd debat** voert over de datering van het
-Johannesevangelie: het strijdpunt uit George (Geurt Henk) van Kootens *Echo's van het goede
-nieuws: De evangeliën in context, toen en nu* (2025/2026).
+Deze repo bevat skills die **iteratieve, brongebaseerde debatten** voeren rond George (Geurt Henk)
+van Kootens *Echo's van het goede nieuws: De evangeliën in context, toen en nu* (2025/2026).
 
-Vier subagent-opponenten debatteren in **twee paren, één per as**: ze reageren om de beurt op elkaar
+Het eerste debat gaat over de datering en het culturele karakter van het Johannesevangelie. Het
+tweede debat gaat over **Q**, de hypothetische bron achter de dubbele traditie in Mattheüs en Lucas.
+
+Voor het Johannesdebat debatteren vier subagent-opponenten in **twee paren, één per as**: ze reageren om de beurt op elkaar
 via een gedeeld "whiteboard", dragen elke ronde **echte, online gezochte bronnen** aan (ook
 grammaticaal en syntactisch), en een **neutrale moderator** scoort de stand van de evidentie op twee
 onafhankelijke assen (datering en cultureel karakter). Zodra beide scores stabiliseren, stopt het
@@ -76,6 +78,27 @@ Roep de skill aan in een taalmodel-CLI in deze repo:
 De hoofdsessie fungeert als **orchestrator**: hij maakt een run-map aan, kopieert de templates en
 draait de debatlus volautomatisch tot convergentie.
 
+### Q-debat starten
+Roep de Q-skill aan in dezelfde repo:
+
+```
+/q-debat
+```
+
+…of in natuurlijke taal, bijvoorbeeld:
+
+> "Start het Q-debat."
+> "Voer een debat over bron Q met een voorstander en tegenstander."
+
+Dit debat gebruikt twee opponenten en één moderator:
+
+| Opponent | Standpunt | Kernargumenten |
+|---|---|---|
+| 📜 **Voor Q** | Mattheüs en Lucas gebruikten naast Marcus een gedeelde, niet bewaarde bron | dubbele traditie; volgordeverschillen; afwisselende primitiviteit; redactionele waarschijnlijkheid |
+| 🪶 **Tegen Q** | Q is overbodig, Lucas kan Mattheüs hebben gekend en gebruikt | Van Kootens latere Lucas; geen bewaard Q-geschrift; Farrer-Goulder-Goodacre-lijn; minor agreements; redactionele vermoeidheid |
+
+De moderator scoort op één as: `−10 = sterk vóór Q`, `0 = midden`, `+10 = sterk tegen Q`.
+
 ### Parameters aanpassen (optioneel)
 Standaard draait het debat tot maximaal 8 rondes en stopt zodra de score 2 rondes stabiel is
 (|Δ| ≤ 1). Je kunt dit bij het starten overschrijven, bijvoorbeeld:
@@ -107,7 +130,8 @@ tegen first-mover-bias.
 
 ## Resultaten bekijken
 
-Elke run schrijft naar een eigen map onder `debat-output/`:
+Elke run schrijft naar een eigen map onder `debat-output/`. Het Johannesdebat gebruikt `run-*`, het
+Q-debat gebruikt `q-run-*`:
 
 ```
 debat-output/run-<datum-tijd>/
@@ -115,6 +139,11 @@ debat-output/run-<datum-tijd>/
   state.json        # scoregeschiedenis (ronde, datering, karakter, delta's), machineleesbaar
   sources.md        # bronnenlog: per claim de herkomst, primair/secundair, opgehaald ja/nee
   eindrapport.md    # eindoordeel, scoreverloop, sterkste argumenten, openstaande vragen
+debat-output/q-run-<datum-tijd>/
+  whiteboard.md     # het volledige Q-debat, ronde voor ronde, met bronnen
+  state.json        # scoregeschiedenis op de Q-as
+  sources.md        # bronnenlog
+  eindrapport.md    # eindoordeel over Q
 ```
 
 Lees `eindrapport.md` voor de conclusie en `whiteboard.md` voor het volledige verloop met alle
@@ -135,6 +164,9 @@ Een overzicht van alle uitgevoerde runs met directe links naar de eindrapporten 
     evangelie-grieks-romeins.md   # subagent: Opponent Grieks-Romeins (karakter, hellenistisch)
     evangelie-joods.md            # subagent: Opponent Joods (karakter, joods)
     evangelie-moderator.md        # subagent: neutrale jury → samenvatting + score op twee assen
+    q-voorstander.md              # subagent: Opponent Voor Q
+    q-tegenstander.md             # subagent: Opponent Tegen Q
+    q-moderator.md                # subagent: neutrale jury → samenvatting + score op de Q-as
   skills/evangelie-debat/
     SKILL.md                  # orchestrator: de volautomatische debatlus
     reference/
@@ -146,6 +178,16 @@ Een overzicht van alle uitgevoerde runs met directe links naar de eindrapporten 
       whiteboard-template.md  # format van het gedeelde whiteboard
       state-template.json     # startstructuur voor de scoregeschiedenis (twee assen)
       sources-template.md     # format van de bronnenlog (primair/secundair, opgehaald)
+  skills/q-debat/
+    SKILL.md                  # orchestrator: volautomatische debatlus over Q
+    reference/
+      achtergrond.md          # artikelpassage over Q + centrale vragen
+      scoring-rubric.md       # Q-as + weegcriteria + anti-fabricatie
+      bronnen.md              # seed-zoekroutes voor Q en niet-Q modellen
+    templates/
+      whiteboard-template.md  # format van het Q-whiteboard
+      state-template.json     # startstructuur voor de Q-scoregeschiedenis
+      sources-template.md     # format van de Q-bronnenlog
   tools/
     brontekst                 # CLI voor primaire teksten (Sefaria joods + Perseus/Scaife klassiek)
 achtergrondmateriaal/         # bronartikel over de Van Kooten-casus (.docx)
@@ -156,11 +198,10 @@ debat-output/                 # gegenereerde runs (per run een submap)
 ### Ontwerpprincipes
 - **Whiteboard = gedeeld geheugen.** Subagents zijn stateless; alle debatstaat leeft in
   `whiteboard.md`. Elke agent leest het volledig en appendt zijn beurt.
-- **Eén opponent per pool.** Vier opponenten, twee per as, zodat elke pool (vroeg, laat,
-  Grieks-Romeins, joods) een eigen verdediger heeft en geen kant onbepleit blijft.
-- **Neutrale scoring op twee assen.** Niet de partijdige opponenten maar een aparte moderator
-  scoort, en datering en cultureel karakter worden los van elkaar gewogen; geen enkele opponent
-  koppelt de assen.
+- **Eén opponent per pool.** In het Johannesdebat zijn dat vier opponenten, twee per as. In het
+  Q-debat zijn dat twee opponenten op één as, Voor Q en Tegen Q.
+- **Neutrale scoring.** Niet de partijdige opponenten maar een aparte moderator scoort. Bij Johannes
+  gebeurt dat op twee onafhankelijke assen; bij Q op één as van sterk vóór Q tot sterk tegen Q.
 - **Primair én secundair.** Opponenten en moderator scheiden moderne commentaren (secundair) van
   antieke teksten (primair) en toetsen claims waar mogelijk zelf aan de primaire tekst.
 - **Deterministische stop.** Convergentie wordt gemeten aan de scoregeschiedenis in `state.json`,
