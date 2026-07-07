@@ -1,5 +1,7 @@
 # Evangelie- en Q-debat
 
+👉 **Direct naar de uitgevoerde debatten:** [debat-output/README.md](debat-output/README.md)
+
 Deze repo bevat skills die **iteratieve, brongebaseerde debatten** voeren rond George (Geurt Henk)
 van Kootens *Echo's van het goede nieuws: De evangeliën in context, toen en nu* (2025/2026).
 

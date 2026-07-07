@@ -11,4 +11,10 @@ Overzicht van de uitgevoerde debat-runs. Per run de verwijzingen naar het eindra
 
 ## Q-debat
 
-- **Q-run 1 (bron Q tegenover Lucas gebruikt Mattheus):** [eindrapport](q-run-20260706-210227/eindrapport.md) · [whiteboard](q-run-20260706-210227/whiteboard.md) · [bronnen](q-run-20260706-210227/sources.md) · [state](q-run-20260706-210227/state.json); oorspronkelijk 3 ronden tot convergentie, daarna handmatig voortgezet met 2 creatieve vervolgrondes. Huidige stand na 5 ronden: Q-score **-1** (`-10 = sterk voor Q`, `+10 = sterk tegen Q`). Scoreverloop: **-2, -3, -3, -2, -1**. Ronde 4 bracht minor agreements in de drievoudige traditie in, vooral Mattheüs 26:68/Lucas 22:64 tegenover Marcus 14:65. Ronde 5 verschoof naar het Onze Vader, liturgische traditie en late Lucas-datering. Conclusie: Q blijft nog licht de betere werkhypothese, maar de Farrer/Goulder/Van Kooten-route is dichter naar het midden getrokken.
+Er is op dit moment één Q-runmap: `q-run-20260706-210227`. De twee latere Q-rondes zijn dus geen losse `Q-run 2` en `Q-run 3`, maar vervolgrondes binnen dezelfde run. Het whiteboard is het hoofdverslag.
+
+- **Q-run 1 (bron Q tegenover Lucas gebruikt Mattheüs):** [eindrapport](q-run-20260706-210227/eindrapport.md) · [whiteboard](q-run-20260706-210227/whiteboard.md) · [bronnen](q-run-20260706-210227/sources.md) · [state](q-run-20260706-210227/state.json)
+  - **Rondes 1-3:** oorspronkelijke run tot convergentie. Scoreverloop: **-2, -3, -3**. Tussenstand: Q bleef de iets betere werkhypothese voor de besproken dubbele traditie.
+  - **Ronde 4:** handmatige voortzetting met kleine overeenkomsten tussen Mattheüs en Lucas tegen Marcus, vooral Mattheüs 26:68/Lucas 22:64 tegenover Marcus 14:65. Q-score: **-2**.
+  - **Ronde 5:** creatieve vervolgronde over het Onze Vader, liturgische traditie en late Lucas-datering. Q-score: **-1**.
+  - **Huidige stand:** na 5 ronden is het scoreverloop **-2, -3, -3, -2, -1** (`-10 = sterk voor Q`, `+10 = sterk tegen Q`). Q blijft nog licht de betere werkhypothese, maar de Farrer/Goulder/Van Kooten-lezing is dichter naar het midden getrokken.
