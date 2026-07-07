@@ -1,8 +1,8 @@
 # 📚 Bronnenlog, run run-20260626-223602-creatief
 
 Traceerbaar overzicht van elke geraadpleegde bron, zodat nalezers exact kunnen zien welke
-commentaar of webpagina achter een claim zit. Dit is het naslagwerk bij het whiteboard:
-het whiteboard bevat de argumenten, dit bestand de volledige herkomst.
+commentaar of webpagina achter een claim zit. Dit is het naslagwerk bij het werkdossier:
+het werkdossier bevat de argumenten, dit bestand de volledige herkomst.
 
 **Hoe te lezen.** Per ronde en per zijde één blok. Elke bron krijgt een korte regel met de
 claim die hij staaft, gevolgd door de herkomst:

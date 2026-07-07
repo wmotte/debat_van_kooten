@@ -1,4 +1,4 @@
-# 🗂️ Whiteboard, Debat over de datering van het Johannesevangelie
+# 🗂️ Werkdossier, Debat over de datering van het Johannesevangelie
 
 **Run:** run-20260628-181303-vervolg
 
@@ -12,7 +12,7 @@ deze run, niet het eindpunt.
 
 De volledige argumentengeschiedenis van de vorige run staat in:
 - eindrapport (synthese + scoreverloop): `../run-20260627-203757/eindrapport.md`
-- whiteboard (alle beurten, ronde 1-4): `../run-20260627-203757/whiteboard.md`
+- werkdossier (alle beurten, ronde 1-4): `../run-20260627-203757/werkdossier.md`
 - bronnenlog: `../run-20260627-203757/sources.md`
 
 **Harde regel voor alle opponenten.** Alles wat in de vorige run al op tafel lag is **verbruikt

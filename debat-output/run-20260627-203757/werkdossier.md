@@ -1,4 +1,4 @@
-# 🗂️ Whiteboard, Debat over de datering van het Johannesevangelie
+# 🗂️ Werkdossier, Debat over de datering van het Johannesevangelie
 
 **Run:** run-20260627-203757
 

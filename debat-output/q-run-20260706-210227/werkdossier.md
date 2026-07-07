@@ -1,4 +1,4 @@
-# 🗂️ Whiteboard, Q-debat over de synoptische bron
+# 🗂️ Werkdossier, Q-debat over de synoptische bron
 
 **Run:** q-run-20260706-210227
 

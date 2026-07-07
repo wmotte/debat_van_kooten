@@ -1,4 +1,4 @@
-# 🗂️ Whiteboard, Q-debat over de synoptische bron
+# 🗂️ Werkdossier, Q-debat over de synoptische bron
 
 **Run:** {{RUN_NAAM}}
 **Gestart:** {{DATUM}}

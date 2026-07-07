@@ -115,7 +115,7 @@ claim **niet** de score bepalen. Doe bij twijfel een steekproef-WebFetch op de g
   rondes heen, zodat een echt uitgedebatteerd onderwerp vanzelf stabiliseert.
 
 ## Output van de moderator per ronde
-1. Append aan het whiteboard onder `### ⚖️ Moderator (stand van zaken)`:
+1. Append aan het werkdossier onder `### ⚖️ Moderator (stand van zaken)`:
    - **Samenvatting** van de ronde (2–4 zinnen).
    - **Datering-as, sterkste Vroeg** / **sterkste Laat** en **Karakter-as, sterkste Grieks-Romeins**
      / **sterkste Joods** (elk 1 zin + bron).
@@ -127,7 +127,7 @@ claim **niet** de score bepalen. Doe bij twijfel een steekproef-WebFetch op de g
      rust (hoeveel claims tegen de primaire tekst getoetst zijn en hoeveel niet).
    - **Datering: D · Δ: dD** en **Karakter: K · Δ: dK**.
    - **Verhouding assen**: in één zin of datering en karakter deze ronde samen bewegen of uiteenlopen.
-2. Werk de scorebord-tabel (`## 📊 Scorebord`) boven in het whiteboard bij met een rij voor deze
+2. Werk de scorebord-tabel (`## 📊 Scorebord`) boven in het werkdossier bij met een rij voor deze
    ronde: `| N | D (dD) | K (dK) | stand in één zin |`.
 3. Werk `state.json` bij: voeg een `history`-item toe `{round, score_datering, delta_datering,
    score_karakter, delta_karakter, rationale, new_evidence_vroeg, new_evidence_laat,

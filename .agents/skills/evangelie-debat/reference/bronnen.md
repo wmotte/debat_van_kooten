@@ -3,7 +3,7 @@
 Startpunten uit de "Geciteerd werk"-lijst van het achtergrondmateriaal, grof gecategoriseerd.
 **Dit is een vertrekpunt, geen volledige lijst.** Opponenten moeten met WebSearch verder zoeken
 (o.a. naar peer-reviewed artikelen en primaire teksten) en elke geciteerde bron echt ophalen
-(WebFetch) voordat ze hem in het whiteboard zetten. Vermeld bij elke gebruikte bron of je hem
+(WebFetch) voordat ze hem in het werkdossier zetten. Vermeld bij elke gebruikte bron of je hem
 daadwerkelijk hebt geopend.
 
 ## Commentaar-notebooks (NotebookLM via de `nlm` CLI), gebruik deze actief

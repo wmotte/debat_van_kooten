@@ -1,6 +1,6 @@
 # 📚 Bronnenlog, Q-debat q-run-20260706-210227
 
-Traceerbaar overzicht van elke geraadpleegde bron. Het whiteboard bevat de argumenten, dit bestand bevat de volledige herkomst.
+Traceerbaar overzicht van elke geraadpleegde bron. Het werkdossier bevat de argumenten, dit bestand bevat de volledige herkomst.
 
 ## Hoe te lezen
 

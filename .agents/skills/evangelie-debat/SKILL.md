@@ -1,6 +1,6 @@
 ---
 name: evangelie-debat
-description: Voer een iteratief, brongebaseerd debat over de datering van het Johannesevangelie (de triangulatie van George/Geurt Henk van Kooten). Vier subagent-opponenten debatteren in twee paren, één per as: "Vroeg" tegen "Laat" op de datering-as en "Grieks-Romeins" tegen "Joods" op de karakter-as, via een gedeeld whiteboard met online gezochte bronnen; een neutrale moderator scoort elke ronde op twee onafhankelijke assen (datering vroeg..laat en karakter Grieks-Romeins..Joods, elk -10..+10) tot beide scores stabiliseren. Gebruik dit wanneer de gebruiker dit debat, een "evangelie-debat", of een dispuut over de datering van Johannes / Van Kooten wil starten.
+description: Voer een iteratief, brongebaseerd debat over de datering van het Johannesevangelie (de triangulatie van George/Geurt Henk van Kooten). Vier subagent-opponenten debatteren in twee paren, één per as: "Vroeg" tegen "Laat" op de datering-as en "Grieks-Romeins" tegen "Joods" op de karakter-as, via een gedeeld werkdossier met online gezochte bronnen; een neutrale moderator scoort elke ronde op twee onafhankelijke assen (datering vroeg..laat en karakter Grieks-Romeins..Joods, elk -10..+10) tot beide scores stabiliseren. Gebruik dit wanneer de gebruiker dit debat, een "evangelie-debat", of een dispuut over de datering van Johannes / Van Kooten wil starten.
 ---
 
 # Orchestrator: evangelie-debat
@@ -30,7 +30,7 @@ general-purpose` en geef in de prompt het **absolute pad naar het rolbestand** m
 *"Lees eerst dit rolbestand volledig en handel exact volgens die rol."* De rolbestanden zijn de enige
 bron van waarheid voor het gedrag; je hoeft de inhoud niet te dupliceren.
 
-> **Kernmechanisme:** subagents zijn stateless en delen geen geheugen. Het **whiteboard-bestand op
+> **Kernmechanisme:** subagents zijn stateless en delen geen geheugen. Het **werkdossier-bestand op
 > schijf is het enige gedeelde geheugen.** Elke subagent leest het en appendt eraan. Jij houdt
 > alleen de lus-status bij door `state.json` te lezen.
 
@@ -43,7 +43,7 @@ bron van waarheid voor het gedrag; je hoeft de inhoud niet te dupliceren.
 0. **Hervatten?** Vroeg de gebruiker een onderbroken run voort te zetten (bv. "hervat de laatste
    run" of een concrete run-naam), zoek dan de run-map (bij "laatste": de nieuwste `debat-output/run-*`),
    lees haar `state.json`, en **sla het aanmaken/kopiëren over**. Hergebruik het bestaande
-   `whiteboard.md` en `state.json`, neem `params` en `round` daaruit over, en start de lus in Stap 2
+   `werkdossier.md` en `state.json`, neem `params` en `round` daaruit over, en start de lus in Stap 2
    bij `round + 1` (is `round` al `>= max_rondes` of `stop_reason` gezet, ga direct naar Stap 3).
    Ontbreekt `sources.md` in een oudere run-map, kopieer dan alsnog `templates/sources-template.md`
    ernaartoe (en vul `{{RUN_NAAM}}` in) voordat je de lus start.
@@ -51,10 +51,10 @@ bron van waarheid voor het gedrag; je hoeft de inhoud niet te dupliceren.
 1. Bepaal een run-naam: `run-$(date +%Y%m%d-%H%M%S)`. Maak de map
    `debat-output/<run-naam>/` aan (met Bash `mkdir -p`).
 2. Kopieer de templates naar de run-map:
-   - `templates/whiteboard-template.md` → `debat-output/<run-naam>/whiteboard.md`
+   - `templates/werkdossier-template.md` → `debat-output/<run-naam>/werkdossier.md`
    - `templates/state-template.json` → `debat-output/<run-naam>/state.json`
    - `templates/sources-template.md` → `debat-output/<run-naam>/sources.md`
-3. Vul de placeholders `{{RUN_NAAM}}` en `{{DATUM}}` in `whiteboard.md` in, en `{{RUN_NAAM}}` in
+3. Vul de placeholders `{{RUN_NAAM}}` en `{{DATUM}}` in `werkdossier.md` in, en `{{RUN_NAAM}}` in
    `sources.md` (Edit).
 4. Als de gebruiker afwijkende parameters gaf, pas ze aan in `state.json` (`params`-blok) en gebruik
    ze hieronder.
@@ -73,7 +73,7 @@ debatteren de twee polen tegen elkaar; de twee assen staan los. Herhaal voor
      Vroeg).
 2. **Roep de vier opponenten één voor één aan** met de Agent-tool, in de volgorde van stap 1
    (`subagent_type` = de agent-naam van die opponent). Geef elke opponent in de prompt:
-   - het absolute pad naar `whiteboard.md`;
+   - het absolute pad naar `werkdossier.md`;
    - het absolute pad naar `sources.md` (de bronnenlog van deze run);
    - de **absolute paden** naar de reference-bestanden `reference/achtergrond.md`,
      `reference/bronnen.md` en `reference/primaire-bronnen.md` (de subagent draait mogelijk in een
@@ -81,7 +81,7 @@ debatteren de twee polen tegen elkaar; de twee assen staan los. Herhaal voor
    - het **absolute pad naar de `brontekst`-CLI** (`.agents/tools/brontekst`), zodat de opponent
      primaire teksten kan ophalen ongeacht zijn werkmap;
    - het rondenummer;
-   - de instructie: "Lees het hele whiteboard + de reference-bestanden, weerleg de laatste beurt van
+   - de instructie: "Lees het hele werkdossier + de reference-bestanden, weerleg de laatste beurt van
      je tegenstander op jouw as, breng ≥1 nieuw geverifieerd argument/bron (uit het open web of uit
      de commentaar-notebooks via de `nlm` CLI, bv. `nlm cross query "..." -n "John - exegesis"`), en
      toets toetsbare claims over primaire teksten met de `brontekst`-CLI (zie `primaire-bronnen.md`).
@@ -91,12 +91,12 @@ debatteren de twee polen tegen elkaar; de twee assen staan los. Herhaal voor
      Retourneer alleen een korte statusregel."
    **Wacht** telkens tot de subagent klaar is voordat je de volgende aanroept, zodat elke opponent de
    verse beurten ziet.
-3. **Roep de moderator aan** (`evangelie-moderator`). Geef paden naar `whiteboard.md`, `state.json`
+3. **Roep de moderator aan** (`evangelie-moderator`). Geef paden naar `werkdossier.md`, `state.json`
    én `sources.md`, het absolute pad naar de `brontekst`-CLI (`.agents/tools/brontekst`) en
    `reference/primaire-bronnen.md`, het rondenummer, en "Dit is een RONDE-evaluatie." Wacht tot klaar.
    De moderator
    scoort de datering-as op grond van Vroeg/Laat en de karakter-as op grond van Grieks-Romeins/Joods,
-   en werkt ook de scorebord-tabel boven in `whiteboard.md` bij.
+   en werkt ook de scorebord-tabel boven in `werkdossier.md` bij.
 4. **Lees `state.json`** (Read). Pak het laatste `history`-item (beide scores + delta's van deze ronde).
 5. **Stop-condities**, stop de lus als één hiervan geldt:
    - `converged == true` of `stop_reason` gezet (moderator zag volledige capitulatie); **of**
@@ -120,11 +120,11 @@ voorgaande beurten kunnen lezen, en de moderator alle vier.
 
 ## Stap 3, Eindrapport
 1. Werk in `state.json` `stop_reason` bij als die nog niet gezet is (Edit).
-2. Roep de `evangelie-moderator` aan met "Schrijf het EINDRAPPORT" + paden naar `whiteboard.md`,
+2. Roep de `evangelie-moderator` aan met "Schrijf het EINDRAPPORT" + paden naar `werkdossier.md`,
    `state.json`, `sources.md` en de run-map. De moderator schrijft `eindrapport.md` en baseert de
    bronnenlijst op `sources.md`.
 3. Lees `eindrapport.md` en geef de gebruiker een bondige samenvatting: **eindscore**, stop-reden,
-   het scoreverloop in één zin, en de paden naar `whiteboard.md` en `eindrapport.md`.
+   het scoreverloop in één zin, en de paden naar `werkdossier.md` en `eindrapport.md`.
 
 ## Robuustheid
 - **Faalt een subagent** of komt hij zonder bruikbare beurt terug, roep hem éénmaal opnieuw aan met
@@ -135,7 +135,7 @@ voorgaande beurten kunnen lezen, en de moderator alle vier.
   dat hij geldige JSON moet wegschrijven met een `history`-item voor deze ronde. Blijft het stuk,
   meld het aan de gebruiker en stop netjes met een deel-eindrapport op basis van de laatst geldige
   staat. Bewerk `state.json` niet zelf inhoudelijk.
-- **Verzin nooit zelf debatinhoud of scores** en bewerk het whiteboard niet inhoudelijk, dat is
+- **Verzin nooit zelf debatinhoud of scores** en bewerk het werkdossier niet inhoudelijk, dat is
   het werk van de subagents. Jij doet alleen setup, lus-besturing, en het lezen van `state.json`.
 - Geef de subagents **absolute paden** zodat ze de juiste bestanden vinden, ongeacht hun werkmap.
-- Houd je eigen context licht: lees per ronde alleen `state.json`, niet het hele whiteboard.
+- Houd je eigen context licht: lees per ronde alleen `state.json`, niet het hele werkdossier.

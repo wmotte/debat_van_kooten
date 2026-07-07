@@ -9,7 +9,7 @@ Het eerste debat gaat over de datering en het culturele karakter van het Johanne
 tweede debat gaat over **Q**, de hypothetische bron achter de dubbele traditie in Mattheüs en Lucas.
 
 Voor het Johannesdebat debatteren vier subagent-opponenten in **twee paren, één per as**: ze reageren om de beurt op elkaar
-via een gedeeld "whiteboard", dragen elke ronde **echte, online gezochte bronnen** aan (ook
+via een gedeeld "werkdossier", dragen elke ronde **echte, online gezochte bronnen** aan (ook
 grammaticaal en syntactisch), en een **neutrale moderator** scoort de stand van de evidentie op twee
 onafhankelijke assen (datering en cultureel karakter). Zodra beide scores stabiliseren, stopt het
 debat met een eindrapport.
@@ -137,18 +137,18 @@ Q-debat gebruikt `q-run-*`:
 
 ```
 debat-output/run-<datum-tijd>/
-  whiteboard.md     # het volledige debat, ronde voor ronde, met bronnen
+  werkdossier.md     # het volledige debat, ronde voor ronde, met bronnen
   state.json        # scoregeschiedenis (ronde, datering, karakter, delta's), machineleesbaar
   sources.md        # bronnenlog: per claim de herkomst, primair/secundair, opgehaald ja/nee
   eindrapport.md    # eindoordeel, scoreverloop, sterkste argumenten, openstaande vragen
 debat-output/q-run-<datum-tijd>/
-  whiteboard.md     # het volledige Q-debat, ronde voor ronde, met bronnen
+  werkdossier.md     # het volledige Q-debat, ronde voor ronde, met bronnen
   state.json        # scoregeschiedenis op de Q-as
   sources.md        # bronnenlog
   eindrapport.md    # eindoordeel over Q
 ```
 
-Lees `eindrapport.md` voor de conclusie en `whiteboard.md` voor het volledige verloop met alle
+Lees `eindrapport.md` voor de conclusie en `werkdossier.md` voor het volledige verloop met alle
 geciteerde bronnen.
 
 Een overzicht van alle uitgevoerde runs met directe links naar de eindrapporten staat in
@@ -177,7 +177,7 @@ Een overzicht van alle uitgevoerde runs met directe links naar de eindrapporten 
       bronnen.md              # seed-bibliografie (secundair + primair corpus), gecategoriseerd
       primaire-bronnen.md     # handleiding bij de brontekst-CLI (Sefaria + Perseus/Scaife)
     templates/
-      whiteboard-template.md  # format van het gedeelde whiteboard
+      werkdossier-template.md  # format van het gedeelde werkdossier
       state-template.json     # startstructuur voor de scoregeschiedenis (twee assen)
       sources-template.md     # format van de bronnenlog (primair/secundair, opgehaald)
   skills/q-debat/
@@ -187,7 +187,7 @@ Een overzicht van alle uitgevoerde runs met directe links naar de eindrapporten 
       scoring-rubric.md       # Q-as + weegcriteria + anti-fabricatie
       bronnen.md              # seed-zoekroutes voor Q en niet-Q modellen
     templates/
-      whiteboard-template.md  # format van het Q-whiteboard
+      werkdossier-template.md  # format van het Q-werkdossier
       state-template.json     # startstructuur voor de Q-scoregeschiedenis
       sources-template.md     # format van de Q-bronnenlog
   tools/
@@ -198,8 +198,8 @@ debat-output/                 # gegenereerde runs (per run een submap)
 ```
 
 ### Ontwerpprincipes
-- **Whiteboard = gedeeld geheugen.** Subagents zijn stateless; alle debatstaat leeft in
-  `whiteboard.md`. Elke agent leest het volledig en appendt zijn beurt.
+- **Werkdossier = gedeeld geheugen.** Subagents zijn stateless; alle debatstaat leeft in
+  `werkdossier.md`. Elke agent leest het volledig en appendt zijn beurt.
 - **Eén opponent per pool.** In het Johannesdebat zijn dat vier opponenten, twee per as. In het
   Q-debat zijn dat twee opponenten op één as, Voor Q en Tegen Q.
 - **Neutrale scoring.** Niet de partijdige opponenten maar een aparte moderator scoort. Bij Johannes
@@ -224,5 +224,5 @@ debat-output/                 # gegenereerde runs (per run een submap)
 - De **`brontekst` CLI** (`.agents/tools/brontekst`) voor primaire teksten heeft alleen `python3` en
   een internetverbinding nodig (Sefaria-API en de Perseus-TEI op GitHub); geen installatie of sleutel.
 - De inhoud is bewust **brongedreven en eerlijk**: het doel is winnen op bewijskracht, niet op
-  retoriek. Controleer bij twijfel de geciteerde bronnen in `whiteboard.md` zelf.
+  retoriek. Controleer bij twijfel de geciteerde bronnen in `werkdossier.md` zelf.
 - Voor een snelle proefrun: start met `MAX_RONDES=2`.

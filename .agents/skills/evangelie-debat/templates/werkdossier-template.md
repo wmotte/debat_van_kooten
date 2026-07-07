@@ -1,4 +1,4 @@
-# 🗂️ Whiteboard, Debat over de datering van het Johannesevangelie
+# 🗂️ Werkdossier, Debat over de datering van het Johannesevangelie
 
 **Run:** {{RUN_NAAM}}
 **Gestart:** {{DATUM}}

@@ -1,8 +1,8 @@
 # 📚 Bronnenlog, run run-20260628-181303-vervolg
 
 Traceerbaar overzicht van elke geraadpleegde bron, zodat nalezers exact kunnen zien welke
-commentaar of webpagina achter een claim zit. Dit is het naslagwerk bij het whiteboard:
-het whiteboard bevat de argumenten, dit bestand de volledige herkomst.
+commentaar of webpagina achter een claim zit. Dit is het naslagwerk bij het werkdossier:
+het werkdossier bevat de argumenten, dit bestand de volledige herkomst.
 
 **Hoe te lezen.** Per ronde en per zijde één blok. Elke bron krijgt een korte regel met de
 claim die hij staaft, gevolgd door de herkomst:
@@ -344,7 +344,7 @@ claim die hij staaft, gevolgd door de herkomst:
   - **Commando:** n.v.t. (notebook)
   - **Opgehaald:** ja · **Type:** archeologisch/historisch
 - **Claim (weerlegging Joods, Joh 1:51):** Johannes bewaart de Hebreeuwse בּוֹ-ambiguïteit niet maar lost haar op tot ἐπὶ τὸν υἱὸν τοῦ ἀνθρώπου, een afgeronde christologische middelaarsuitspraak die zonder Hebreeuws te begrijpen is; de op- en neerdalende engelen op één middelaarsfiguur is de hellenistisch-joodse/middenplatoonse as-mundi-kosmologie (Philo, De Somniis 1). Substraat Hebreeuws toegegeven; eindkarakter Grieks.
-  - **Bron:** eigen tekstargument op basis van het whiteboard; Philo-verwijzing niet primair geverifieerd deze ronde.
+  - **Bron:** eigen tekstargument op basis van het werkdossier; Philo-verwijzing niet primair geverifieerd deze ronde.
   - **Specifiek:** Joh 1:51 grondtekst ἐπὶ τὸν υἱὸν τοῦ ἀνθρώπου (geen open antecedent); κλίμαξ vrouwelijk (Joods' eigen punt); Philo *De Somniis* 1 (ladder als met zielen/daimones gevulde lucht) genoemd maar niet opgehaald.
   - **Raakt as:** karakter · **Aard:** secundair (eigen exegese) · **Primair nagezien:** nee (Philo De Somniis 1 niet via Perseus opgehaald: tlg0018-URN's gaven 404)
   - **Commando:** poging mislukt: `brontekst perseus "urn:cts:greekLit:tlg0018.tlg028.perseus-grc2:1.133"` (404)

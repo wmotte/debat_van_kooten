@@ -33,11 +33,11 @@ Zie `README.md` voor de uitleg voor mensen.
   skills/evangelie-debat/
     SKILL.md                      orchestrator: de volautomatische debatlus
     reference/                    achtergrond.md, scoring-rubric.md, bronnen.md, primaire-bronnen.md
-    templates/                    whiteboard-template.md, state-template.json, sources-template.md
+    templates/                    werkdossier-template.md, state-template.json, sources-template.md
   skills/q-debat/
     SKILL.md                      orchestrator: debat over de synoptische bron Q
     reference/                    achtergrond.md, scoring-rubric.md, bronnen.md
-    templates/                    whiteboard-template.md, state-template.json, sources-template.md
+    templates/                    werkdossier-template.md, state-template.json, sources-template.md
   tools/
     brontekst                     CLI om primaire teksten op te halen (Sefaria + Perseus/Scaife)
 achtergrondmateriaal/             bronartikel over de Van Kooten-casus (.docx)
@@ -59,8 +59,8 @@ De orchestrator delegeert al het inhoudelijke werk aan de rollen in `.agents/age
 de enige bron van waarheid voor hun gedrag.
 
 ## Belangrijke werkafspraken (gelden voor alle rollen)
-- **Gedeeld geheugen is het whiteboard-bestand.** Subagents zijn stateless; ze lezen het hele
-  whiteboard en appenden hun beurt. De orchestrator leest alleen `state.json`.
+- **Gedeeld geheugen is het werkdossier-bestand.** Subagents zijn stateless; ze lezen het hele
+  werkdossier en appenden hun beurt. De orchestrator leest alleen `state.json`.
 - **Bronnen.** Opponenten gebruiken het open web (WebSearch/WebFetch) én de NotebookLM-commentaren
   via de `nlm` CLI, bijvoorbeeld `nlm cross query "..." -n "John - exegesis"` (notebooks:
   `John/Luke/Matthew/Mark - exegesis`, en meer). Naast de commentaren staat er één primaire-tekstcorpus
