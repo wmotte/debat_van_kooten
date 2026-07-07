@@ -1,9 +1,11 @@
 # 📄 Eindrapport, creatief vervolgdebat over de datering van het Johannesevangelie
 
 **Run:** run-20260626-223602-creatief
+
 **Opzet:** vervolg op run-20260626-203948 (6 rondes, geëindigd rond het midden). De opdracht aan
 beide opponenten was deze keer expliciet om **creatieve, nieuwe, onorthodoxe, verrassende invalshoeken** te
 openen in plaats van de vier vertrouwde pijlers te herkauwen.
+
 **Verloop:** 5 rondes, gestopt op de afgesproken maximumlengte.
 
 ---
@@ -23,6 +25,7 @@ De kern van het oordeel is een terugkerend, structureel asymmetrisch patroon dat
 de rondes heen herhaalde. Vrijwel elk creatief Grieks anker (onomastiek, Qumran-sociolect,
 reinheidshalacha, Semitisch substraat, Sukkot-liturgie) wortelde overtuigend in een **pre-70
 Palestijnse herkomst en een competente, tweetalige hand**, maar liet zich op de eigenlijke
+
 **dateringsvraag** telkens neutraliseren tot dateringsneutraal: het dateert de stof en de herkomst, niet
 de pen-datum van de eindvorm. De Joodse fronten daarentegen richtten zich, na een valse start met de
 twee-machten-these, juist op **het tijdstip van de eindvorm** (het colofon 21:24, de externaliserende

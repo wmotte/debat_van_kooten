@@ -1,8 +1,11 @@
 # ⚖️ Eindrapport, Debat over de datering van het Johannesevangelie
 
 **Run:** run-20260626-203948
+
 **Datum:** 2026-06-26
+
 **Rondes:** 6 (gestopt wegens stabiele score: laatste twee rondes |Δ| ≤ 1)
+
 **Schaal:** −10 (sterk Grieks, vroege Johannes, pro Van Kooten) … 0 (midden) … +10 (sterk Joods, late datering)
 
 ## 1. Eindoordeel en eindscore

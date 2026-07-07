@@ -1,6 +1,7 @@
 # 🗂️ Whiteboard, Debat over de datering van het Johannesevangelie
 
 **Run:** run-20260628-181303-vervolg
+
 **Gestart:** 2026-06-28
 
 ## 📥 Inleestekst: dit is een vervolgdebat
@@ -76,6 +77,7 @@ Karakter: negatief = neigt Grieks-Romeins, positief = neigt Joods.
 ### Datering-as
 
 #### ⏳ Opponent Vroeg (vroege datering, vóór 66-70)
+
 **Reactie op vorige:** De vorige run sloot met een scherpe diagnose tegen mij. Mijn vroege
 aanwijzingen (onomastiek, het praesens *estin*, de topografie) zouden alleen de ingebedde bronlaag
 raken, terwijl de late kant met de redactionele naden (Joh 21:23-24, het οἴδαμεν, de breuk bij
@@ -139,6 +141,7 @@ uit. En ik leun hier bewust niet op het praesens ἔξεστιν: dat staat op v
 schrijftijd, en zou slechts het verbruikte *estin*-argument herhalen.
 
 #### 🕰️ Opponent Laat (late datering, post-85)
+
 **Reactie op vorige:** Het juridische front van Vroeg is mooi gebouwd, maar het bewijst de
 verkeerde stelling. Wat hij aantoont is dat Joh 18:31 een accurate constitutionele
 herinnering van vóór 70 bewaart. Daar ben ik het mee eens. Alleen: accuratesse en compositiedatum zijn twee
@@ -199,6 +202,7 @@ fundament-thesis uit.
 ### Karakter-as
 
 #### 🏛️ Opponent Grieks-Romeins (Grieks-Romeins karakter)
+
 **Reactie op vorige:** Op deze as heeft Opponent Joods in deze run nog niet geschreven, dus ik richt me
 op de joodse positie zoals die in de vorige run uitkristalliseerde. Daar luidde de slotsom dat het
 programmatische zwaartepunt van het evangelie (proloog, gepredikte *egō eimi*) weliswaar een
@@ -259,6 +263,7 @@ veeleer keizerlijk dan joods-messiaans, en de Priene-inscriptie heb ik in vertal
 epigrafisch grondcorpus geverifieerd, wat dit ene punt iets lichter maakt.
 
 #### ✡️ Opponent Joods (joods karakter)
+
 **Reactie op vorige:** Grieks-Romeins zette zijn beste kaart op "redder van de wereld" (Joh 4:42), en
 gaf zelf al toe dat zijn andere kaart, Thomas' belijdenis, oudtestamentisch geworteld is in Psalm 35
 LXX. Op die sterkste kaart wil ik hem ontmoeten, want daar valt de zaak juist andersom uit. De
@@ -313,6 +318,7 @@ detail is halachisch exact en archeologisch hard, en het staat los van enige dat
 chalksteen-industrie bloeide aantoonbaar al ruim vóór 70.
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** Beide assen kregen ditmaal een gloednieuwe discipline. Op de datering-as
 opende Vroeg een juridisch front (de capitale jurisdictie van Joh 18:31 als realia van vóór 70 op de
 redactielaag, niet op een afpelbare bronlaag), en Laat pareerde met receptiegeschiedenis plus een
@@ -387,6 +393,7 @@ materiaal, dus zij lopen parallel zonder dat het ene het andere stuurt.
 ### Datering-as
 
 #### 🕰️ Opponent Laat (late datering, post-85)
+
 **Reactie op vorige:** Vroegs juridische front uit ronde 1 bewees accuratesse, geen schrijfdatum, en
 die scheiding maakte ik in ronde 1 al hard met de Yerushalmi-parallel; dat herhaal ik niet. Eén losse
 draad verdient nog weerlegging: zijn suggestieve "asymmetrie", dat de evangelist vreemde joodse realia
@@ -445,6 +452,7 @@ tweedegeneratie-compositie, zonder het in beton te gieten. Vroegs juridische fei
 staan; ik betwist enkel opnieuw de sprong naar een vroege datum.
 
 #### ⏳ Opponent Vroeg (vroege datering, vóór 66-70)
+
 **Reactie op vorige:** Laat meet een ontwikkeling met een meetlat die in elke periode twee kanten op
 beweegt, en dat is geen klok. Drie bezwaren. Ten eerste is gerealiseerde eschatologie niet laat maar
 juist vroeg: zij zit al in de oudste Jezustraditie, in het Beëlzebul-woord "het koninkrijk van God is
@@ -522,6 +530,7 @@ wél heb laten zien is dat Laats twee interne pijlers van deze ronde, de eschato
 ### Karakter-as
 
 #### ✡️ Opponent Joods (joods karakter)
+
 **Reactie op vorige:** Grieks-Romeins heeft op deze as in ronde 2 nog niet geschreven, dus ik keer
 terug naar zijn sterkste resterende kaart uit ronde 1, de keizerlijke titulatuur, en wel naar het
 ene deel dat na mijn Jesaja-weerlegging nog overeind stond: Thomas' belijdenis "ὁ κύριός μου καὶ ὁ
@@ -579,6 +588,7 @@ in een koinè-tekst voor een publiek dat Grieks las; mijn claim betreft de verwi
 taal waarin zij is opgeschreven.
 
 #### 🏛️ Opponent Grieks-Romeins (Grieks-Romeins karakter)
+
 **Reactie op vorige:** Joods bouwde twee dingen. Bij Chanoeka (Joh 10:22-39) geef ik hem het meeste
 ruiterlijk: de verwijzingswereld van het Inwijdingsfeest, de consecratietaal achter ἡγίασεν en de
 Makkabese herwijding van het altaar zijn echt en sterk joods-liturgisch. Dat is precies de gemengde
@@ -647,6 +657,7 @@ consecratietaal joods zijn; mijn winst zit in de hellenistisch-joodse literaire 
 Griekse heerserskader van het Antiochus-contrast, niet in een vervanging van de joodse laag.
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** Op de datering-as zette Laat een theologie-ontwikkelingsargument neer
 (gerealiseerde eschatologie en Paraklen-leer als tweedegeneratie-verschijnsel, gemeten tegen Paulus'
 nog nabije verwachting in 1 Tess 4:15), maar dekte het zelf zwaar in. Vroeg pareerde scherp en
@@ -737,6 +748,7 @@ ene as de andere stuurt.
 ### Datering-as
 
 #### ⏳ Opponent Vroeg (vroege datering, vóór 66-70)
+
 **Reactie op vorige:** De moderator stelde terecht vast dat de resterende late neiging vooral nog op
 één been staat: Laats receptie-argument uit ronde 1, namelijk dat de magere vroege attestatie van
 Johannes Van Kootens pijler van het oudste, fundamentele evangelie niet reproduceert. Dat been zaag
@@ -806,6 +818,7 @@ rustte, het receptie-argument, is door de papyrologische realiteit ondergraven. 
 de late kant zonder de vroege datum zelfstandig te bewijzen.
 
 #### 🕰️ Opponent Laat (late datering, post-85)
+
 **Reactie op vorige:** Vroeg deed twee dingen met de papyri, en bij beide gebruik ik zijn eigen argument tegen hem.
 Zijn dragende punt is de geaggregeerde voetafdruk: Johannes is met zesentwintig handschriften het
 breedst geattesteerde boek, en Llewelyn ziet geen vertekening per periode, dus de "Johannophobie"-constructie van
@@ -876,6 +889,7 @@ door de eigen tekst van Johannes, die zijn lezer voortdurend op een al bestaande
 ### Karakter-as
 
 #### 🏛️ Opponent Grieks-Romeins (Grieks-Romeins karakter)
+
 **Reactie op vorige:** De sterkste recente joodse beurt is de Chanoeka-lezing van Joh 10:22-39: het
 "geheiligd" (ἡγίασεν, 10:36) als consecratietaal van het Inwijdingsfeest, met Jezus als de ware
 geheiligde tempel. Dat de verwijzingswereld van dat feest joods-liturgisch is, betwist ik niet en
@@ -937,6 +951,7 @@ van Plato; mijn punt betreft de genrevorm van het tafelgesprek over de liefde, n
 van de liefdesbegrippen zelf.
 
 #### ✡️ Opponent Joods (joods karakter)
+
 **Reactie op vorige:** Grieks-Romeins koos voor de afscheidsredes de schaal en sloeg de kern over. Twee
 bezwaren, en het tweede draait zijn front om. Eerst de aanligvorm. Dat de geliefde leerling "ἐν τῷ
 κόλπῳ" van Jezus ligt (Joh 13:23), leest hij als de symposiastische ereplaats naast de gastheer uit
@@ -998,6 +1013,7 @@ Deuteronomium 32-33). Mijn claim betreft niet de vorm maar de leerstellige subst
 is in haar kernbegrip, de Geest der waarheid, qumranisch.
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** Beide assen kregen opnieuw een verse discipline en op beide werd hard
 gebotst. Op de datering-as opende Vroeg een papyrologisch front (de geaggregeerde voetafdruk van
 zesentwintig Johannes-handschriften en Llewelyns afwezige vertekening per periode tegen de Johannophobie-these,
@@ -1100,6 +1116,7 @@ toeval, niet koppeling.
 ### Datering-as
 
 #### 🕰️ Opponent Laat (late datering, post-85)
+
 **Reactie op vorige:** Vroegs laatste dateringsbeurt was zijn papyrologie van ronde 3, en die heb ik
 daar al gekeerd; ik herhaal dat niet, maar consolideer wat er na de uitwisseling overbleef. Een
 ronde-4 weerwoord van Vroeg op deze as is er niet, dus de stand van ronde 3 is zijn laatste woord, en
@@ -1169,6 +1186,7 @@ zekerheid van de gemeenschapsreconstructie, maar zij raakt het lexicale von Wahl
 met een communautaire reconstructie.
 
 #### ⏳ Opponent Vroeg (vroege datering, vóór 66-70)
+
 **Reactie op vorige:** Laats corpus-argument heeft een mooi lexicaal haakje, maar dat haakje breekt af
 in zijn hand, en wel op de grondtekst zelf. Het draait om von Wahldes lezing van Joh 14:16: "een
 ándere Paracleet" (ἄλλον παράκλητον) zou een eerste Paracleet veronderstellen die alleen in 1 Johannes
@@ -1251,6 +1269,7 @@ bewijslast en verkleint de ruimte voor een late eindvorm, maar het levert geen p
 ### Karakter-as
 
 #### ✡️ Opponent Joods (joods karakter)
+
 **Reactie op vorige:** Grieks-Romeins liet zijn symposion-front in ronde 3 hangen aan twee verzen: het
 sterven voor de vrienden (Joh 15:13) en de wending van slaven naar vrienden (15:15), gelezen als de
 φιλία-leer van Aristoteles, Cicero en Seneca. Op het eerste vers geef ik hem zijn klankbodem, daar
@@ -1307,6 +1326,7 @@ Grieks-Romeinse klankbodem heeft in de vriendschapsethiek; mijn weerlegging betr
 de drieslag vriend-slaaf-onthulling van 15:15, en die is Abrahamitisch.
 
 #### 🏛️ Opponent Grieks-Romeins (Grieks-Romeins karakter)
+
 **Reactie op vorige:** Joods' midrasj op Joh 1:51 is scherp gevonden, maar zijn beslissende
 observatie keert zich tegen hem. Hij wijst er terecht op dat het Hebreeuwse בּוֹ dubbelzinnig is
 (ladder of Jakob) en dat een Griekse lezer die crux niet ziet, omdat κλίμαξ vrouwelijk is. Precies
@@ -1365,6 +1385,7 @@ vijver een gevolgtrekking blijft, geen hard gegeven. En bij Joh 1:51 erken ik da
 in haar oorsprong Hebreeuws is.
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** De slotronde bracht op beide assen verse disciplines met dichte primaire
 onderbouwing. Op de datering-as opende Laat een corpus-intern volgorde-argument (evangelie tegenover
 1-3 Johannes, met von Wahldes lexicale haakje ἄλλον παράκλητον en het gemeenschapstraject van externe
@@ -1457,40 +1478,62 @@ FORMAT PER RONDE (kopieer dit blok niet leeg; opponenten/moderator vullen het aa
 ### Datering-as
 
 #### ⏳ Opponent Vroeg (vroege datering, vóór 66-70)
+
 **Reactie op vorige:** ...
+
 **Nieuwe evidentie:**
 - [claim]. Raakt as: datering. Bron: [URL of notebooktitel] (opgehaald: ja/nee; aard: primair | secundair; primair nagezien: ja/nee/n.v.t.; type: grammaticaal | syntactisch | archeologisch | literair | historisch)
+
 **Concessies:** ... (of: geen)
 
 #### 🕰️ Opponent Laat (late datering, post-85)
+
 **Reactie op vorige:** ...
+
 **Nieuwe evidentie:**
 - [claim]. Raakt as: datering. Bron: [URL of notebooktitel] (opgehaald: ja/nee; aard: primair | secundair; primair nagezien: ja/nee/n.v.t.; type: ...)
+
 **Concessies:** ... (of: geen)
 
 ### Karakter-as
 
 #### 🏛️ Opponent Grieks-Romeins (Grieks-Romeins karakter)
+
 **Reactie op vorige:** ...
+
 **Nieuwe evidentie:**
 - [claim]. Raakt as: karakter. Bron: [URL of notebooktitel] (opgehaald: ja/nee; aard: primair | secundair; primair nagezien: ja/nee/n.v.t.; type: literair | filosofisch | retorisch | taalkundig | historisch)
+
 **Concessies:** ... (of: geen)
 
 #### ✡️ Opponent Joods (joods karakter)
+
 **Reactie op vorige:** ...
+
 **Nieuwe evidentie:**
 - [claim]. Raakt as: karakter. Bron: [URL of notebooktitel] (opgehaald: ja/nee; aard: primair | secundair; primair nagezien: ja/nee/n.v.t.; type: ...)
+
 **Concessies:** ... (of: geen)
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** ...
+
 **Datering-as, sterkste Vroeg:** ... (bron)
+
 **Datering-as, sterkste Laat:** ... (bron)
+
 **Karakter-as, sterkste Grieks-Romeins:** ... (bron)
+
 **Karakter-as, sterkste Joods:** ... (bron)
+
 **Weging:** waarom de twee scores zo uitvallen; zware/lichte argumenten; ⚠️ onverifieerbaar-markeringen.
+
 **Primaire toetsing:** welke claim zelf tegen de primaire tekst gelegd, en de uitkomst.
+
 **Afhankelijkheid secundaire bronnen:** in één zin.
+
 **Datering: D · Δ: dD** en **Karakter: K · Δ: dK**
+
 **Verhouding assen:** lopen datering en karakter samen of uiteen?
 -->

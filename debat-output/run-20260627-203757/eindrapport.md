@@ -1,8 +1,11 @@
 # ⚖️ Eindrapport, debat over de datering van het Johannesevangelie
 
 **Run:** run-20260627-203757
+
 **Afgesloten:** 2026-06-27, na 4 rondes (drie reguliere rondes plus één extra consolidatieronde)
+
 **Stopgrond:** stabiele score (convergentie, `converged: true`)
+
 **Eindscores:** Datering **+1** (schaal −10 sterk vroeg .. +10 sterk laat) · Karakter **+3** (schaal −10 sterk Grieks-Romeins .. +10 sterk Joods)
 
 > Toelichting bij de vierde ronde. Het debat was na ronde 3 geconvergeerd op datering +1 en karakter

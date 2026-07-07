@@ -1,6 +1,7 @@
 # 🗂️ Whiteboard, Debat over de datering van het Johannesevangelie
 
 **Run:** run-20260626-223602-creatief
+
 **Gestart:** 2026-06-26
 
 > **Vervolgdebat met creatieve opdracht.** Dit is een nieuwe run die voortbouwt op de eerdere run
@@ -47,6 +48,7 @@ verschuiving t.o.v. de vorige ronde. Negatief = neigt Grieks/vroeg, positief = n
 ## Ronde 1
 
 ### 🏛️ Opponent Grieks (pro Van Kooten, vroege Johannes)
+
 **Reactie op vorige:** Er is in deze run nog geen Joodse beurt; ik open. Maar ik knoop wel aan bij
 waar het vorige debat van zes rondes op vastliep. Dat debat convergeerde op één gedeeld model:
 een vroege Judese kern in een late diaspora-eindvorm. Telkens als ik pre-70-precisie aandroeg
@@ -128,6 +130,7 @@ vervangingstheologie als aanwijzing voor ná 70 neutraliseert.
 ---
 
 ### ✡️ Opponent Joods (late datering / joods milieu)
+
 **Reactie op vorige:** Grieks heeft twee elegante fronten geopend, beide gericht op de verteller in
 plaats van op de stof, en dat is precies de juiste zet. Maar geen van beide draagt naar vóór 70.
 
@@ -227,6 +230,7 @@ niet als positief bewijs dat de tempel nog stond.
 ---
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** Beide kampen openden, conform de creatieve opdracht, echt nieuwe fronten
 in plaats van de vier pijlers te herkauwen. Grieks bracht een kwantitatief-onomastisch argument
 (Bauckham/Ilan: de namen in Johannes volgen het pre-70-Palestijnse frequentieprofiel, met
@@ -273,6 +277,7 @@ binnen de middenband een licht joods overwicht.
 ## Ronde 2
 
 ### ✡️ Opponent Joods (late datering / joods milieu)
+
 **Reactie op vorige:** Grieks formuleerde in ronde 1 zelf de spelregel waarmee dit debat te winnen
 of te verliezen is: het bron/eindvorm-onderscheid is pas te doorbreken met bewijs dat niet in de
 geconcedeerd-vroege stoflaag zit, maar in de redactionele bovenlaag, de hand van de verteller. Ik
@@ -336,6 +341,7 @@ zelfstandig bewijsbaar jaartal.
 ---
 
 ### 🏛️ Opponent Grieks (pro Van Kooten, vroege Johannes)
+
 **Reactie op vorige:** Joods heeft een elegant front geopend, maar het bezwijkt onder zijn eigen
 getuige. Zijn redenering verschuift halverwege. Eerst geeft hij toe dat een binitarische godsleer
 (Logos, Memra) vóór 70 breed aanvaard joods erfgoed was, en vervolgens legt hij al het
@@ -415,6 +421,7 @@ gelijkstelling is sinds 1947 dood, en zonder haar verliezen zijn drie fronten hu
 ---
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** Beide kampen bleven trouw aan de creatieve opdracht en openden opnieuw
 echt nieuwe fronten. Joods verlegde de strijd naar de christologie van de redacteur met de
 "twee machten in de hemel"-polemiek (Segal, Boyarin): de hoge christologie zou pas in haar
@@ -462,6 +469,7 @@ verschuift de balans van een lichte Joodse naar een lichte Griekse neiging, nog 
 ## Ronde 3
 
 ### 🏛️ Opponent Grieks (pro Van Kooten, vroege Johannes)
+
 **Reactie op vorige:** De laatste Joodse beurt was het twee-machten-front, en dat staat al
 weerlegd: het keert op zijn eigen kroongetuige (Boyarin dateert Johannes' Logos vóór de parting),
 de steniging is pre-70 lynchrecht parallel aan Stefanus, en de rabbijnse veroordeling dateert de
@@ -535,6 +543,7 @@ gedraagt zich anders dan gefixeerde culturele herinnering.
 ---
 
 ### ✡️ Opponent Joods (late datering / joods milieu)
+
 **Reactie op vorige:** Het halachisch front is elegant, maar de centrale premisse is historisch
 onjuist, en het beste bewijsstuk ervan keert zich tegen Grieks.
 
@@ -620,6 +629,7 @@ inferentie rust. Dat verlegt de bewijslast naar het vroege kamp.
 ---
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** Grieks opende een echt nieuw, concreet front: de procedurele
 reinheidshalacha die een werkend cultussysteem veronderstelt (11:55 corpus-reiniging via de rode
 vaars, Num 19; 18:28 onreinheid diskwalificeert voor het paasoffer) plus het materiële bewijsstuk van de
@@ -678,6 +688,7 @@ externe-attestatie-front zelf de uitslag draagt.
 ## Ronde 4
 
 ### ✡️ Opponent Joods (late datering / joods milieu)
+
 **Reactie op vorige:** Grieks' halachisch front liet, ook na mijn Yavne-weerlegging, één residu staan
 dat de moderator eerlijk noteerde: het verschil tussen ongemarkeerde narratieve achtergrondlogica en
 gecodificeerde casuïstiek. Dat residu rust echter op een aanname die het hele Griekse offensief van
@@ -741,6 +752,7 @@ bovenlaag waar Grieks zijn vroege datum nodig heeft.
 ---
 
 ### 🏛️ Opponent Grieks (pro Van Kooten, vroege Johannes)
+
 **Reactie op vorige:** Dit is het sterkste front dat Joods deze run heeft geopend, want het is intern,
 concreet en grammaticaal, precies het type bewijs dat ikzelf in ronde 1 als de toetssteen aanwees.
 Maar het bewijst minder dan Joods nodig heeft, en op één beslissend punt keert het zich om.
@@ -838,6 +850,7 @@ eindvorm-argument draagt.
 ---
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** Dit was de scherpste uitwisseling van de run, en beide fronten zijn echt
 nieuw. Joods opende een redactie- en tekstkritisch front dat voor het eerst niet via externe theorie
 maar via de tekst zelf de bovenlaag dateert: de literaire naden (14:31 dat pas in 18:1 uitloopt,
@@ -898,6 +911,7 @@ de middenband, een lichte maar reële beweging.
 ## Ronde 5
 
 ### 🏛️ Opponent Grieks (pro Van Kooten, vroege Johannes)
+
 **Reactie op vorige:** De laatste Joodse beurt was het colofon-front: 21:23 (de gestorven geliefde
 leerling) plus de grammaticale stemwisseling in 21:24 (het communale "wij weten" dat borg staat voor
 een getuige in de gestorven derde persoon). Ik heb in ronde 4 al laten zien dat die "wij" het vaste
@@ -987,6 +1001,7 @@ het niet.
 ---
 
 ### ✡️ Opponent Joods (late datering / joods milieu)
+
 **Reactie op vorige:** Het liturgisch-dramaturgische front is fraai geregisseerd, maar het rust op
 een feitelijke onjuistheid en de geleerden die Grieks aanroept lezen de scène precies omgekeerd.
 
@@ -1074,6 +1089,7 @@ substraat-front als eenzijdig en plaatst de redactionele laag in een Grieks-leze
 ---
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** In deze slotronde opende Grieks twee fronten: een eschatologische inversie van
 het colofon (de Naherwartung achter 21:22-23 is eerste-generatie en comprimeert de kloof tot één
 generatie; Bauckham "compelling", Brown "genuinely old and traditional") en een liturgisch-dramaturgisch
@@ -1139,21 +1155,32 @@ FORMAT PER RONDE (kopieer dit blok niet leeg; opponenten/moderator vullen het aa
 ## Ronde N
 
 ### 🏛️ Opponent Grieks (pro Van Kooten, vroege Johannes)
+
 **Reactie op vorige:** ...
+
 **Nieuwe evidentie:**
 - [claim]. Bron: [URL of notebooktitel] (opgehaald: ja/nee; type: grammaticaal | syntactisch | archeologisch | literair | historisch)
+
 **Concessies:** ... (of: geen)
 
 ### ✡️ Opponent Joods (late datering / joods milieu)
+
 **Reactie op vorige:** ...
+
 **Nieuwe evidentie:**
 - [claim]. Bron: [URL of notebooktitel] (opgehaald: ja/nee; type: ...)
+
 **Concessies:** ... (of: geen)
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** ...
+
 **Sterkste argument Grieks:** ... (bron)
+
 **Sterkste argument Joods:** ... (bron)
+
 **Weging:** waarom de score zo uitvalt; zware/lichte argumenten; ⚠️ onverifieerbaar-markeringen.
+
 **Score: X · Δ t.o.v. vorige: Y**
 -->

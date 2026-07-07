@@ -1,9 +1,13 @@
 # ⚖️ Eindrapport, vervolgdebat over de datering van het Johannesevangelie
 
 **Run:** run-20260628-181303-vervolg
+
 **Afgesloten:** 2026-06-28, na 4 rondes
+
 **Stopgrond:** maximum aantal rondes bereikt (`converged: false`, `stop_reason: "max rondes"`)
+
 **Startpunt (overgenomen uit run-20260627-203757):** datering +1, karakter +3
+
 **Eindscores:** Datering **+1** (schaal −10 sterk vroeg .. +10 sterk laat) · Karakter **+3** (schaal −10 sterk Grieks-Romeins .. +10 sterk Joods)
 
 > Aard van deze run. Dit was een vervolgdebat dat het eindrapport van de vorige run als inleestekst

@@ -1,6 +1,7 @@
 # 🗂️ Whiteboard, Debat over de datering van het Johannesevangelie
 
 **Run:** run-20260626-203948
+
 **Gestart:** 2026-06-26
 
 ## Stelling
@@ -41,6 +42,7 @@ verschuiving t.o.v. de vorige ronde. Negatief = neigt Grieks/vroeg, positief = n
 ## Ronde 1
 
 ### 🏛️ Opponent Grieks (pro Van Kooten, vroege Johannes)
+
 **Reactie op vorige:** Geen vorige beurt; ik open en leg het fundament onder de vroege datering.
 
 **Nieuwe evidentie:**
@@ -89,6 +91,7 @@ posterioriteit), niet op dit ene werkwoord alleen.
 ---
 
 ### ✡️ Opponent Joods (late datering / joods milieu)
+
 **Reactie op vorige:** Grieks heeft de scherpste denkbare versie van pijler 1 neergezet, en ik
 waardeer dat hij geen stroman opvoert. Maar zijn constructie valt op haar eigen grammaticale punt.
 Het hele betoog hangt aan de aanname dat *ἔστιν* hier presentische, "er-bestaat-nu"-kracht draagt.
@@ -159,6 +162,7 @@ betekent, en het beslecht de datering binnen de 1e eeuw niet.
 ---
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** Het debat opent volledig rond pijler 1, het praesens *ἔστιν* in Joh 5:2.
 Grieks zet de scherpst denkbare versie neer (een existentieel-locatieve formule, geen praesens
 historicum) maar concedeert meteen eerlijk dat dit op zichzelf geen pre-70-bewijs is. Joods ontkracht
@@ -201,6 +205,7 @@ Joodse neiging binnen de middenzone.
 ## Ronde 2
 
 ### ✡️ Opponent Joods (late datering / joods milieu)
+
 **Reactie op vorige:** Grieks heeft in ronde 1 uitsluitend pijler 1 ingezet en de
 niet-beslissendheid ervan zelf toegegeven; de topografie (pijler 2) en de Lukaanse posterioriteit
 (pijler 3) staan nog niet op het bord. Dat is belangrijk, want het laat zien dat de zaak voor de
@@ -273,6 +278,7 @@ hun convergentie op een gefaseerde ontwikkeling, niet in de details van elke edi
 ---
 
 ### 🏛️ Opponent Grieks (pro Van Kooten, vroege Johannes)
+
 **Reactie op vorige:** Joods opent twee nieuwe fronten, de externe attestatie en de Johanneïsche
 brieven, en doet dat netjes. Maar zijn sterkste anker, de patristische traditie, draagt veel minder
 dan hij claimt, en wel om twee redenen die hij over het hoofd ziet.
@@ -367,6 +373,7 @@ Johanneïsche stof bevestigt.
 ---
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** Joods opent twee nieuwe fronten, de externe patristische attestatie
 (Irenaeus, Clemens, Polycrates, Eusebius: Johannes schreef "als laatste", in Efeze, leefde tot
 Trajanus) en de relatie met 1 Johannes (de secessie van 1 Joh 2:19 als teken van een gemeenschap
@@ -420,6 +427,7 @@ de balans net uit negatief gebied houden.
 ## Ronde 3
 
 ### 🏛️ Opponent Grieks (pro Van Kooten, vroege Johannes)
+
 **Reactie op vorige:** Na ronde 2 staan aan Joodse zijde nog vier zachtere indicatoren overeind: de
 vervangingstheologie, het monolithische *hoi Ioudaioi*, Johannes 21 als epiloog en de relatieve
 volgorde in 1 Johannes 2:19. De moderator merkte terecht op dat ik mijn tweede pijler, de
@@ -491,6 +499,7 @@ bij de Antonia dateert mogelijk pas uit de Hadrianische tijd, dus dat detail dra
 bewijslast.
 
 ### ✡️ Opponent Joods (late datering / joods milieu)
+
 **Reactie op vorige:** Grieks zet pijler 2 netjes neer, maar het bewijsstuk wijst niet de kant op
 die hij nodig heeft. Accurate topografie dateert de bron, niet de eindredactie. Dat is geen
 uitvlucht van mij maar precies de positie van de geleerde die Grieks zelf als kroongetuige opvoert.
@@ -566,6 +575,7 @@ ook dat een neologisme op zichzelf geen datum vastlegt; het is de samenhang met 
 en de scherpe gemeenschapspolarisatie die naar post-85 wijst, niet het woord alleen.
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** Grieks zet eindelijk pijler 2 in, de archeologisch bevestigde pre-70-
 topografie (Bethesda met dubbel bassin en vijf zuilengangen plus de Koperrol-vorm *Bethesdatain*,
 en de in 2004 ontdekte Siloam-vijver), en gebruikt het *miqveh*-karakter van die baden om Joods'
@@ -618,6 +628,7 @@ Een minimale verschuiving terug richting Joods binnen de middenzone.
 ## Ronde 4
 
 ### ✡️ Opponent Joods (late datering / joods milieu)
+
 **Reactie op vorige:** Na drie ronden is er een vruchtbaar onderscheid op het bord gekomen dat
 beide zijden nu accepteren: de archeologie (pijler 2) dateert de onderliggende bron, niet de
 eindvorm. De moderator vatte dat correct samen, en Grieks' eigen kroongetuige von Wahlde plaatst
@@ -687,6 +698,7 @@ synoptische kennis presupponeert, niet op woordelijk kopiëren. Dat is genoeg om
 neutraliseren, niet om haar te vervangen door zekerheid.
 
 ### 🏛️ Opponent Grieks (pro Van Kooten, vroege Johannes)
+
 **Reactie op vorige:** Joods kiest deze ronde slim het niveau van de eindcompositie, want daar is het
 debat naartoe verschoven. Maar beide nieuwe lijnen rusten op dezelfde verborgen aanname, namelijk dat
 "theologisch rijp" gelijkstaat aan "laat in de eerste eeuw". Juist die aanname is onhoudbaar.
@@ -773,6 +785,7 @@ afhankelijkheid aangetoond, en de sterkste exegetische opties (interne prolepsis
 mondelinge traditie) houden de vroege datering open.
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** Het debat verschuift volledig naar het niveau van de eindcompositie, het
 twistpunt dat na ronde 3 overbleef. Joods opent twee nieuwe lijnen: de gerealiseerde eschatologie
 als rijpingsmarker van het parousie-uitstel (Dodd, Brown) en de presuppositie van de synoptische
@@ -836,6 +849,7 @@ een verschuiving van een nipte Joodse neiging naar een nipte Griekse neiging bin
 ## Ronde 5
 
 ### 🏛️ Opponent Grieks (pro Van Kooten, vroege Johannes)
+
 **Reactie op vorige:** Na vier ronden resteren aan Joodse zijde, zoals de moderator vaststelt, twee
 echte late-indicatoren: het *aposynagōgos*-neologisme en de kale traditie "Johannes schreef als
 laatste". Beide vooronderstellen dezelfde stilzwijgende premisse die ik nu frontaal wil testen: dat
@@ -920,6 +934,7 @@ zonder de late-eindvormhypothese logisch uit te sluiten. Wel maakt zij die hypot
 de precisie zit in de theologisch bewerkte laag zelf.
 
 ### ✡️ Opponent Joods (late datering / joods milieu)
+
 **Reactie op vorige:** Grieks levert deze ronde knap werk, maar beide nieuwe lijnen lopen vast op
 problemen die hij in zijn eigen concessies al half toegeeft. De staatsrechtelijke precisie van 18:31
 (het *ius gladii*, Sherwin-White) en Kajafas "in dat jaar" zijn echte pre-70-kennis, maar het is
@@ -991,6 +1006,7 @@ ligt daarom niet op die frase alleen, maar op het cumulatieve vertaal- en uitleg
 van de eindvorm, dat Grieks' "Judese auteur dicht bij de eindvorm" rechtstreeks tegenspreekt.
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** Grieks opent twee nieuwe lijnen. Ten eerste de accurate pre-70-
 staatsrechtelijke kennis (het ius gladii dat het Sanhedrin miste, Joh 18:31, met Sherwin-White en de
 Jeruzalemse Talmoed; Kajafas "in dat jaar" tegen Bultmann), bewust geplaatst in de theologisch
@@ -1056,6 +1072,7 @@ twistpunt een valide tegenwicht herstelt. De balans keert terug naar het dode mi
 ## Ronde 6
 
 ### ✡️ Opponent Joods (late datering / joods milieu)
+
 **Reactie op vorige:** De moderator vat de stand na vijf ronden samen als een convergentie op één
 gedeeld model: een vroege Judese kern in een late diaspora-eindvorm, met de eindeditie volgens
 Grieks' eigen kroongetuige von Wahlde rond 90-95. Ik wil scherp stellen wat dat betekent voor de
@@ -1134,6 +1151,7 @@ laat en mogelijk constructief is, net als zijn Trajanus-uitspraak uit ronde 2; h
 de convergentie met het interne 1 Johannes-getuigenis, niet in haar gezag op zichzelf.
 
 ### 🏛️ Opponent Grieks (pro Van Kooten, vroege Johannes)
+
 **Reactie op vorige:** Joods voert een knap argument, maar het draait op precies dezelfde as als
 het christologie-argument van ronde 4, en het strandt op dezelfde manier. De redenering loopt zo:
 de "vlees-laag" (1:14, 19:34-35, 20:27, Joh 6) is anti-docetisch, docetisme is laat, en die laag is
@@ -1230,6 +1248,7 @@ steeds rond het begin van de tweede eeuw uitkomt; ik haal hem alleen aan om te t
 John-na-1-Johannes-volgorde betwist is, niet als steun voor een vroege datum.
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** Joods scherpt eerst de inzet aan: de in ronde 5 bereikte convergentie op een
 vroege Judese kern in een late diaspora-eindvorm verslaat op zichzelf al Van Kootens eigenlijke
 stelling, namelijk dat het evangelie zoals wij het hebben het oudste is en vóór 66 voltooid. Daar
@@ -1302,21 +1321,32 @@ FORMAT PER RONDE (kopieer dit blok niet leeg; opponenten/moderator vullen het aa
 ## Ronde N
 
 ### 🏛️ Opponent Grieks (pro Van Kooten, vroege Johannes)
+
 **Reactie op vorige:** ...
+
 **Nieuwe evidentie:**
 - [claim]. Bron: [URL of notebooktitel] (opgehaald: ja/nee; type: grammaticaal | syntactisch | archeologisch | literair | historisch)
+
 **Concessies:** ... (of: geen)
 
 ### ✡️ Opponent Joods (late datering / joods milieu)
+
 **Reactie op vorige:** ...
+
 **Nieuwe evidentie:**
 - [claim]. Bron: [URL of notebooktitel] (opgehaald: ja/nee; type: ...)
+
 **Concessies:** ... (of: geen)
 
 ### ⚖️ Moderator (stand van zaken)
+
 **Samenvatting ronde:** ...
+
 **Sterkste argument Grieks:** ... (bron)
+
 **Sterkste argument Joods:** ... (bron)
+
 **Weging:** waarom de score zo uitvalt; zware/lichte argumenten; ⚠️ onverifieerbaar-markeringen.
+
 **Score: X · Δ t.o.v. vorige: Y**
 -->
