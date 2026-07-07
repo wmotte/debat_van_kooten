@@ -11,7 +11,7 @@ Overzicht van de uitgevoerde debat-runs. Per run de verwijzingen naar het eindra
 
 ## Q-debat
 
-Er is op dit moment één Q-runmap: `q-run-20260706-210227`. De twee latere Q-rondes zijn dus geen losse `Q-run 2` en `Q-run 3`, maar vervolgrondes binnen dezelfde run. Het whiteboard is het hoofdverslag.
+De Q-run `q-run-20260706-210227` bevat inmiddels vijf rondes. Het whiteboard is het hoofdverslag.
 
 - **Q-run 1 (bron Q tegenover Lucas gebruikt Mattheüs):** [eindrapport](q-run-20260706-210227/eindrapport.md) · [whiteboard](q-run-20260706-210227/whiteboard.md) · [bronnen](q-run-20260706-210227/sources.md) · [state](q-run-20260706-210227/state.json)
   - **Rondes 1-3:** oorspronkelijke run tot convergentie. Scoreverloop: **-2, -3, -3**. Tussenstand: Q bleef de iets betere werkhypothese voor de besproken dubbele traditie.
