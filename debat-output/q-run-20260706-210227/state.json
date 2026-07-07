@@ -6,10 +6,10 @@
     "conv_drempel": 1,
     "conv_geduld": 2
   },
-  "round": 3,
-  "score_q": -3,
-  "delta_q": 0,
-  "rationale": "Bergrede/Veldrede houdt de balans voor Q, maar Farrer/Goulder verklaart verkorting en verspreiding concreet genoeg om geen verdere verschuiving te eisen.",
+  "round": 5,
+  "score_q": -1,
+  "delta_q": 1,
+  "rationale": "Het Onze Vader sterkt Q via afwisselende primitiviteit, maar late Lucas-datering en liturgische variatie maken directe verwerking opnieuw plausibel.",
   "history": [
     {
       "round": 1,
@@ -37,8 +37,26 @@
       "new_evidence_voor_q": 2,
       "new_evidence_tegen_q": 3,
       "concession": "Voor Q erkent dat Bergrede/Veldrede geen exact reconstrueerbaar Q-document bewijst; Tegen Q erkent dat de gedeelde kernvolgorde een reeel drukpunt voor Farrer blijft."
+    },
+    {
+      "round": 4,
+      "score_q": -2,
+      "delta_q": 1,
+      "rationale": "Minor agreements zetten Marcus-plus-Q onder druk, maar de passietraditie beslist niet rechtstreeks over Q voor de dubbele traditie.",
+      "new_evidence_voor_q": 2,
+      "new_evidence_tegen_q": 2,
+      "concession": "Tegen Q erkent dat de minor agreement niet op zichzelf Lucas' gebruik van Mattheus bewijst; Voor Q erkent dat minor agreements een te mechanische tweebronnenhypothese onder druk zetten en dat het ontbreken van een Q-handschrift blijft wegen."
+    },
+    {
+      "round": 5,
+      "score_q": -1,
+      "delta_q": 1,
+      "rationale": "Het Onze Vader sterkt Q via afwisselende primitiviteit, maar late Lucas-datering en liturgische variatie maken directe verwerking opnieuw plausibel.",
+      "new_evidence_voor_q": 2,
+      "new_evidence_tegen_q": 2,
+      "concession": "Voor Q erkent dat het Onze Vader geen enkelvoudig Q-document bewijst; Tegen Q erkent dat Josephus-afhankelijkheid en late Lucas-datering betwist blijven en dat Lucas' verkorting van een heilig gebed psychologisch scherp is."
     }
   ],
   "converged": true,
-  "stop_reason": "Convergentie: de laatste 2 geldige rondes hadden |delta_q| <= 1."
+  "stop_reason": "Handmatige voortzetting na eerdere convergentie; rondes 4 en 5 bleven binnen de convergentiedrempel (|delta_q| <= 1)."
 }
